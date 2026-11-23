@@ -1,0 +1,286 @@
+# Opportunity Radar — collector settings.
+# Edit freely; every run re-reads this file. No secrets go here (the repo can be public).
+
+window_hours: 30            # how far back to look each day (a little over 24h so nothing is missed)
+max_text_chars: 300         # each post is cut to this length in the digest (keeps Claude's reading cheap)
+select:
+  pain_signals: 60          # how many "someone has a problem" signals go into the digest
+  trend_signals: 40         # how many trend/news signals go into the digest
+  max_per_source: 25        # stops one source from crowding out the others
+  macro_signals: 40         # policy / economy news items in the macro section
+  data_alerts: 20           # weather, air-quality and currency alerts
+dedupe_days: 14             # an item already sent in the last N days is skipped
+keep_days: 30               # older digests / data files are deleted automatically
+
+# Phrases that suggest an unmet need. Matched case-insensitively in title + text.
+pain_phrases:
+  - "is there a tool"
+  - "is there an app"
+  - "is there a service"
+  - "is there any"
+  - "does anyone know a"
+  - "looking for a tool"
+  - "looking for an app"
+  - "i would pay"
+  - "i'd pay"
+  - "would pay for"
+  - "willing to pay"
+  - "take my money"
+  - "any alternative to"
+  - "alternatives to"
+  - "better alternative"
+  - "frustrated"
+  - "frustrating"
+  - "so annoying"
+  - "i hate"
+  - "pain point"
+  - "struggling with"
+  - "can't find"
+  - "cannot find"
+  - "wish there was"
+  - "wish someone would"
+  - "someone should build"
+  - "why is there no"
+  - "why isn't there"
+  - "how do you manage"
+  - "how do you handle"
+  - "waste of time"
+  - "too expensive"
+  - "overpriced"
+  - "nightmare"
+  - "manual process"
+  - "spreadsheet hell"
+  - "shortage"
+  - "complaints"
+  - "customers complain"
+  - "no good option"
+  - "should exist"
+  - "does anyone else struggle"
+  - "is it just me"
+  - "paying too much"
+  - "hidden charges"
+  - "worst customer service"
+  - "waiting list"
+  - "sold out"
+  - "out of stock"
+  - "not available in india"
+  - "not available in my city"
+  # Hinglish, common in Indian YouTube comments
+  - "koi app"
+  - "koi tool"
+  - "koi solution"
+  - "koi service"
+  - "kaise manage"
+  - "bahut mehenga"
+  - "bahut problem"
+
+# Relative importance of each source when ranking (engagement is multiplied by this).
+source_weights:
+  hn: 1.2
+  youtube_comment: 1.1
+  youtube_video: 0.8
+  google_news: 0.9
+  google_trends: 0.7
+  rss: 0.9
+  producthunt: 1.0
+  policy_news: 1.0
+  policy_rss: 1.1
+
+hackernews:
+  enabled: true
+  tags: ["ask_hn", "show_hn", "front_page"]
+  comment_phrases: ["is there a tool", "i would pay", "someone should build", "wish there was", "any alternative to"]
+
+youtube:
+  enabled: true             # needs the YOUTUBE_API_KEY secret; skipped automatically if missing
+  max_searches: 12          # free quota is 100 searches/day, so 12 is very safe
+  comment_videos: 15        # read top comments of this many videos
+  comments_per_video: 40
+  searches:
+    - {q: "business idea", region: "IN"}
+    - {q: "side hustle", region: "IN"}
+    - {q: "startup idea", region: "US"}
+    - {q: "small business problems", region: "IN"}
+    - {q: "make money online", region: "IN"}
+    - {q: "new business opportunity", region: "US"}
+    - {q: "AI tools for business", region: "US"}
+    - {q: "D2C brand", region: "IN"}
+    - {q: "freelancing", region: "IN"}
+    - {q: "ecommerce seller problems", region: "IN"}
+    - {q: "saas idea", region: "US"}
+    - {q: "franchise business", region: "IN"}
+
+google_news:
+  enabled: true
+  editions:
+    - {hl: "en-IN", gl: "IN", ceid: "IN:en"}
+    - {hl: "en-US", gl: "US", ceid: "US:en"}
+  queries:
+    - "startup raises funding"
+    - "new government scheme small business"
+    - "shortage demand surge"
+    - "consumers complain"
+    - "market growing fast"
+    - "new regulation businesses must comply"
+    - "MSME problems"
+    - "AI startup launch"
+    - "export opportunity"
+    - "price rise consumers"
+
+google_trends:
+  enabled: true
+  geos: ["IN", "US"]
+
+rss:
+  enabled: true
+  feeds:
+    - {name: "Inc42", url: "https://inc42.com/feed/", source: "rss"}
+    - {name: "YourStory", url: "https://yourstory.com/feed", source: "rss"}
+    - {name: "Entrackr", url: "https://entrackr.com/feed/", source: "rss"}
+    - {name: "TechCrunch", url: "https://techcrunch.com/feed/", source: "rss"}
+    - {name: "Economic Times Small Biz", url: "https://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms", source: "rss"}
+    - {name: "Product Hunt", url: "https://www.producthunt.com/feed", source: "producthunt"}
+
+# ----------------------------------------------------------------------------- macro layer
+# Government policy, economy, weather, air quality and currency. Tells the analysis which ideas
+# have the wind behind them (subsidy, a new rule that forces demand, a heatwave) and which don't
+# (ban, duty hike, rate rise, falling demand). All sources are free and need no key.
+macro:
+  enabled: true
+  editions:
+    IN: {hl: "en-IN", gl: "IN", ceid: "IN:en"}
+    US: {hl: "en-US", gl: "US", ceid: "US:en"}
+  max_per_query: 10         # Google News returns up to 100 per query; take only the top ones
+  # Keep this list short (each line is one request to Google News; OR combines topics in one request).
+  news_queries:
+    IN:
+      - "cabinet approves OR new scheme OR subsidy announced"
+      - "site:pib.gov.in scheme OR notification OR launch"
+      - "GST council OR import duty OR anti-dumping duty OR export ban"
+      - "PLI scheme OR production linked incentive OR state industrial policy"
+      - "draft rules OR new rules ministry OR mandatory certification BIS OR FSSAI"
+      - "SEBI OR IRDAI OR TRAI new rules"
+      - "RBI repo rate OR RBI guidelines OR CPI inflation OR GDP growth"
+      - "fuel price OR LPG price OR crude oil India"
+      - "IMD forecast OR monsoon OR heatwave OR cold wave OR crop damage"
+      - "government tender India OR GeM portal"
+    US:
+      - "tariff India OR US trade deal India"
+      - "Federal Reserve rate OR AI regulation OR supply chain shortage"
+  feeds:
+    - {name: "RBI press releases", url: "https://www.rbi.org.in/pressreleases_rss.xml"}
+    - {name: "RBI notifications", url: "https://rbi.org.in/notifications_rss.xml"}
+    - {name: "ET Economy-Policy", url: "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1106944246.cms"}
+    - {name: "BusinessLine Economy", url: "https://www.thehindubusinessline.com/economy/feeder/default.rss"}
+    - {name: "Mint Economy", url: "https://www.livemint.com/rss/economy"}
+  # routine items that are never business signals
+  exclude_phrases:
+    - "money market operations"
+    - "auction"
+    - "treasury bill"
+    - "government securities"
+    - "conversion/switch"
+    - "weekly statistical supplement"
+    - "monetary penalty"
+    - "cancels the certificate of registration"
+    - "directions under section 35a"
+    - "horoscope"
+    - "cricket"
+    - "uapa"
+    - "sanctions list"
+    - "lead bank responsibility"
+    - "penal interest"
+  # first match wins; only a label
+  themes:
+    policy:  ["cabinet", "scheme", "ministry", "notification", "draft rules", "guidelines", "bill", "act", "policy", "council", "regulator", "sebi", "fssai", "bis", "rbi"]
+    trade:   ["tariff", "import*", "export*", "duty", "dumping", "trade deal", "fta"]
+    weather: ["imd", "monsoon", "rainfall", "heatwave", "heat wave", "cold wave", "flood", "drought", "cyclone"]
+    economy: ["inflation", "gdp", "iip", "repo", "interest rate", "rupee", "fuel price", "demand", "consumption"]
+  # keyword hints only; the analysis decides the real direction
+  direction:
+    tailwind: ["subsidy", "incentive", "approve*", "launch*", "scheme", "boost", "cut in", "cuts",
+               "reduced", "exempt*", "relief", "allocation", "outlay", "rate cut", "eases", "easing", "relaxes", "liberalis*",
+               "liberaliz*", "opens up", "mandatory", "made compulsory", "tax holiday", "grant", "fund of funds", "concession*"]
+    headwind: ["ban", "banned", "bans", "prohibit*", "restrict*", "curb", "crackdown", "penalty", "fine", "fined", "hike", "raises duty",
+               "levy", "cess", "tightens", "stricter", "withdrawn", "scrapped", "ends subsidy", "subsidy ended", "slowdown",
+               "contraction", "rate hike", "layoff*", "probe", "anti-dumping"]
+    # deliberately absent: "rises", "falls", "growth", "surge", "shortage" — they say a number moved, not which way
+    # it helps a business (inflation rising is not a tailwind), so the analysis judges those.
+  # sector -> keywords. Whole words/phrases (plural s/es allowed); end with * to match a prefix.
+  sectors:
+    agriculture:          ["farmer", "agri*", "crop", "kharif", "rabi", "msp", "mandi", "fertiliser", "fertilizer", "sowing", "irrigation"]
+    food & beverages:     ["food", "fssai", "dairy", "milk", "beverage", "edible oil", "sugar", "rice", "wheat", "onion", "tomato", "pulses"]
+    fmcg & retail:        ["fmcg", "retail", "consumer goods", "kirana", "quick commerce", "q-commerce"]
+    ecommerce & d2c:      ["e-commerce", "ecommerce", "d2c", "online seller", "marketplace", "flipkart", "amazon", "meesho"]
+    fintech & lending:    ["upi", "fintech", "nbfc", "lending", "loan", "credit card", "payment", "microfinance"]
+    banking & rates:      ["repo", "bank", "deposit", "interest rate", "liquidity"]
+    insurance:            ["insurance", "irdai", "premium"]
+    stock market:         ["sebi", "mutual fund", "ipo", "f&o", "stock market", "sensex", "nifty"]
+    crypto & web3:        ["crypto", "bitcoin", "web3", "stablecoin"]
+    ev & mobility:        ["ev", "evs", "electric vehicle", "e-2w", "e-3w", "charging", "battery", "pm e-drive"]
+    solar & energy:       ["solar", "renewable", "power tariff", "electricity", "green hydrogen", "wind energy", "surya ghar", "kusum"]
+    oil & fuel:           ["crude", "petrol", "diesel", "lpg", "cng", "fuel price", "opec"]
+    manufacturing:        ["manufactur*", "pli", "factory", "make in india", "semiconductor", "electronics"]
+    textiles & apparel:   ["textile*", "garment", "apparel", "cotton", "yarn"]
+    logistics:            ["logistic*", "freight", "shipping", "port", "warehous*", "transport", "courier"]
+    real estate & construction: ["real estate", "housing", "rera", "cement", "construction", "steel", "infrastructure"]
+    healthcare & pharma:  ["health*", "pharma*", "drug", "hospital", "medical", "cdsco", "ayushman", "diagnostic"]
+    education:            ["education", "edtech", "school", "university", "coaching", "skilling", "neet", "jee"]
+    it & ai:              ["ai", "artificial intelligence", "software", "it services", "data centre", "data center", "meity", "dpdp", "cyber*"]
+    telecom & internet:   ["telecom", "5g", "spectrum", "broadband", "trai", "satellite internet"]
+    gaming & media:       ["gaming", "real-money", "ott", "broadcast", "influencer", "content creator"]
+    travel & hospitality: ["tourism", "hotel", "travel", "airline", "aviation", "railway", "irctc"]
+    msme & exports:       ["msme", "export*", "udyam", "small business"]
+    government tenders:   ["tender*", "gem portal", "procurement", "rfp"]
+    cooling & appliances: ["ac", "air conditioner", "cooler", "refrigerator", "appliance"]
+    jobs & gig work:      ["employment", "jobs", "gig worker", "labour code", "hiring", "layoff"]
+
+  weather:
+    enabled: true
+    forecast_days: 14
+    thresholds:
+      heat_max_c: 42          # heatwave territory in the plains
+      cold_min_c: 6
+      heavy_rain_mm: 64.5     # IMD "heavy rain" per day
+    cities:
+      - {name: "Delhi", lat: 28.61, lon: 77.21}
+      - {name: "Mumbai", lat: 19.08, lon: 72.88}
+      - {name: "Bengaluru", lat: 12.97, lon: 77.59}
+      - {name: "Chennai", lat: 13.08, lon: 80.27}
+      - {name: "Kolkata", lat: 22.57, lon: 88.36}
+      - {name: "Hyderabad", lat: 17.39, lon: 78.49}
+      - {name: "Ahmedabad", lat: 23.02, lon: 72.57}
+      - {name: "Pune", lat: 18.52, lon: 73.86}
+      - {name: "Jaipur", lat: 26.91, lon: 75.79}
+      - {name: "Lucknow", lat: 26.85, lon: 80.95}
+      - {name: "Patna", lat: 25.59, lon: 85.14}
+      - {name: "Nagpur (Vidarbha farms)", lat: 21.15, lon: 79.09}
+      - {name: "Ludhiana (Punjab farms)", lat: 30.90, lon: 75.85}
+      - {name: "Indore (Malwa farms)", lat: 22.72, lon: 75.86}
+      - {name: "Guwahati", lat: 26.14, lon: 91.74}
+    sector_hints:
+      heat:       {sectors: ["cooling & appliances", "food & beverages", "solar & energy", "healthcare & pharma"],
+                   note: "coolers/ACs, cold drinks and ice, ORS and heat-illness care, power demand and backup, outdoor workers."}
+      cold:       {sectors: ["textiles & apparel", "cooling & appliances", "healthcare & pharma", "agriculture"],
+                   note: "winter wear, heaters and geysers, cold-related illness, frost risk for crops."}
+      heavy_rain: {sectors: ["logistic*", "agriculture", "insurance", "real estate & construction"],
+                   note: "delivery delays, crop and stock damage, waterproofing and home repair, flood insurance, rain gear."}
+
+  air_quality:
+    enabled: true
+    forecast_days: 4
+    very_poor_pm25: 120       # µg/m³ daily mean; India's AQI "very poor" band starts at 121
+    severe_pm25: 250
+    sectors: ["healthcare & pharma", "cooling & appliances"]
+    note: "air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP)."
+
+  fx:
+    enabled: true
+    bases: ["USD", "EUR"]
+    lookback_days: 30
+    alert_pct: 1.5
+    hints:
+      rupee_weaker:   {sectors: ["msme & exports", "it & ai", "textiles & apparel", "oil & fuel"],
+                       note: "exporters, IT services and freelancers paid in dollars gain; imports, electronics, fuel and study/travel abroad get costlier."}
+      rupee_stronger: {sectors: ["msme & exports", "travel & hospitality", "manufacturing"],
+                       note: "imports, foreign travel and education get cheaper; exporters' margins shrink."}

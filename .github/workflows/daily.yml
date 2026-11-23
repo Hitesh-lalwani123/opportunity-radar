@@ -1,0 +1,44 @@
+name: Daily opportunity digest
+
+on:
+  schedule:
+    - cron: "30 0 * * *"      # 00:30 UTC = 06:00 IST (GitHub may start it a few minutes late)
+  workflow_dispatch: {}        # lets you run it any time from the Actions tab
+
+permissions:
+  contents: write              # needed to commit the digest back into the repo
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Self-test (offline)
+        run: python -m pytest -q tests
+
+      - name: Collect and build digest
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python radar/collect.py
+
+      - name: Commit digest
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add digests data
+          git commit -m "digest $(TZ=Asia/Kolkata date +%F)" || echo "nothing new"
+          git push
