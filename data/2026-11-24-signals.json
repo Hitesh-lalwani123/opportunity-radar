@@ -1,0 +1,1542 @@
+[
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: Anyone know someone at GitHub to help expedite a support request?",
+  "text": "Background: I've been working with a new company to help deliver a project. I got set up with a Google account for them (so I have myname@example.com), and I created a new Github account to associate with that email, and connected everything together. For the first week everything was fine, I was fixing issues, putting up PRs, etc. One of the last PRs I was able to put up was a CI fix -- we had 10 CI checks that hadn't passed in months, and by fixing the underlying issue they started running. That ended up being an issue however -- they started running very long running tasks, and our Github Action minutes spiked up. Soon after, my account was suspended, with no email, no warning, nothing. The CTO who had Github org admin access could see that I had been suspended, and nothing else. Both he on behalf of the Github Enterprise organization and myself personally submitted a ticket up, and got no response so far. We waited over the weekend, and still didn't get a response. Since we had a deadline of before Thanksgiving, and we weren't hearing back anything from Github, my company spun me up a new Google account and Github account, just so I could start contributing. A few hours later, that account was banned as well. It's very frustrating -- and even our Enterprise organization seems to get no recourse. Is there any good solution here?",
+  "url": "https://news.ycombinator.com/item?id=50618910",
+  "ts": 1795466341,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "is there any",
+   "frustrating"
+  ],
+  "score": 9.27
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: Is there a way to get a human at OpenAI support?",
+  "text": "My previous work ChatGPT account got banned when the employer did a charge back on a six months worth of ChatGPT Pro. Because I also linked my personal accounts to it I seemed to be banned across the board. Is there anyone at OpenAI who can help get my case looked at?",
+  "url": "https://news.ycombinator.com/item?id=50620290",
+  "ts": 1795472794,
+  "engagement": 3,
+  "label": "3 pts · 0 comments",
+  "pain": [
+   "is there any"
+  ],
+  "score": 6.052
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: Can I map all the arguments in a topic to \"approach the truth\"?",
+  "text": "Hi HN, I wanted to take a stance on these topics people have been arguing all around. There should be some sort of answer, right? I used to go to debates for that end. But I often only see the repetition of the same points, the hardest objection being dodged, etc. I tried AI as well, but it only returns surface level arguments likewise. Is there anyway to preserve debate's purpose in trying to see the deepest case, while getting over these “sophistry”? Could I map all the arguments in controversial topics (continuously allowing new inputs), and rephrase and put them in a clear sequence, so fallacies, detours, and claims already have well-established answers could be cleared out, leaving only the real tradeoff standing? I tried it: creating TruthTree (Truthtree.app). Anything it has missed, you can hit \"Challenge this claim”, type your counter, and if it's spot on (through the AI, with a fallback checker), it will be on the tree. For example, for abortion, the map currently filters out this unanswered crux: \"knowingly creating a life that depends on your body gives you a duty to continue the pregnancy.\"(https://truthtree.app/abortion/responsibility) Is that the answer to abortion? What’s the map missing? Please also let me know if this format works, and if there’s anything that could be changed to make things easier!",
+  "url": "https://news.ycombinator.com/item?id=50620275",
+  "ts": 1795472711,
+  "engagement": 3,
+  "label": "1 pts · 1 comments",
+  "pain": [
+   "is there any"
+  ],
+  "score": 6.051
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Outloud Reader – photograph a page and listen to it phrase by phrase",
+  "text": "Hi HN, I built Outloud Reader, an iOS and Android app that reads any page aloud. You take a photo of a page, open a PDF, or paste text, and it reads it aloud in a natural voice, highlighting each phrase as it is spoken. How the idea was born: My wife has been learning English for many years but she never gets real practice. One day she told me it would be great to have an app that could turn any photo of text into audio, so she could practice her listening while walking or driving. That's what inspired me to build Outloud Reader. Yes, I know there are many text-to-speech apps, but most of them just read the text or cost too much. What it does: - Every phrase lights up as it's spoken, so you can read along - 14 languages, with a woman's or a man's voice in most of them - If you're learning a language, it can translate the page into the language you're learning - If you have nothing to listen to, ask AI to write a short text at your level (A1–C2) and turn it into audio - The finished audio is stored on your phone, so it works offline - On iPhone and iPad your library syncs through iCloud, so you can start on your phone and keep listening on your tablet - No sign-up, no email, no ads How it works: The page goes to my server, an LLM recognizes the text and translates it if you ask, then it is voiced with a mix of open-source and cloud voices depending on the language. The phrase highlighting comes from aligning the audio with the text. The apps are native on both platforms. The app is free to download and gives you a few free pages to try it. After that you need a subscription or pre-paid pages that never expire. All the audio you've created stays yours to listen to as much as you like, no subscription needed. Plans: I'm working on a web + API version and already have a small waiting list. What would you listen to first: textbooks, articles, or books in another language? I'll be here all day. Any feedback, bugs or ideas are very welcome!",
+  "url": "https://news.ycombinator.com/item?id=50622161",
+  "ts": 1795482847,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "waiting list"
+  ],
+  "score": 5.423
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Tripup – Type words not in a text corpus as fast as you can",
+  "text": "This is a fast typing word puzzle game meant to make you think about what words might not ever have been written (or said) in some long or famous texts. You can combine texts for a harder challenge, and when you're done you can send your results and the link to your friends if you'd like. I'm the type of guy who has a ton of projects all \"in development\" at the same time, so in 2026 I'm doing my best to actually finish and launch a few. The idea for this game came to me fully formed yesterday and threw off my momentum with other stuff, but I figured I might be able to publish it within a day. For anyone else struggling with this problem, I strongly recommend trying to publish a quick idea as fast as you can. This is the first time I've shared anything on Show HN. I'm really interested in not publishing slop games, so I spent a long time, proportional to the rest of the development, on the UX. If it's slop, let me know!",
+  "url": "https://news.ycombinator.com/item?id=50620993",
+  "ts": 1795476327,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "struggling with"
+  ],
+  "score": 5.362
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "PURC resolves 91% of 1,300 complaints, facilitates replacement of 33 transformers in Bono - Asaase Radio",
+  "text": "PURC resolves 91% of 1,300 complaints, facilitates replacement of 33 transformers in Bono Asaase Radio",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3RCZkJfQm5TMDVPSlBPYzFrY0tLeHFxNnYtdWZuSExrQ0JIMHVsLVFTcWI1cGhYbC0tSWNrYUYtY0dfRTNFRk9RR1dWUUNnLTA5dmdBcEtIU3VIZ1VpOXNYR2d5cUFIQmJtdk9OUDhBbFIyVlhiTkxNRHlaVy02M0JSS1daNjJEUVczX0g0QU1JeUJFTVlOaW9tRk1ORTk2TTdycEtobkowdkJqaTlVTA?oc=5",
+  "ts": 1795505482,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.91
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Competition Complaints India: Which Forum to Use - Global Advisory Experts",
+  "text": "Competition Complaints India: Which Forum to Use Global Advisory Experts",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONS1nanZrRDBPNnZXWGgycnBua2ZqMzJVRnFfcjNWRm0xRUJxM1lvQjlXTVlKZ1pFQVlLUEo3WXRsQ1VIUThFY29lclhiMTlpSGVIQWdQUXJfdDF6R3ZyMXpFd0hlXzNRb09JRjBDdy0zeS1jVHZNNUJaZ3prTXF0QTF3UXpPUmNIS3NTUk9UT3JRVHRoTDVQN0o5WWMydGc?oc=5",
+  "ts": 1795503828,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.895
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Let Property faces unprecedented complaints over buyers’ premiums - SSBCrack",
+  "text": "Let Property faces unprecedented complaints over buyers’ premiums SSBCrack",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajhxUVh1VmFjZ3VFbUJIeVY3MWthQjREaWhrWEFuWDVNNF9JU1dxMW5fZGIxdDJWQ0RXZTY0Q0JPY2QtUGVUaW5NTEZ0dHp3TlNjMEhaS2h4ay12Q2ZKQ19xYnB6NldmaTBhOVFoT2hISTY3cTFMb2tlS1RqcnFhdVZDZmtaeDBwZDFlQzUwc3pZdUNscUE?oc=5",
+  "ts": 1795500132,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.86
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Let Property ordered to repay £277,725 after Sales complaints - شبكة تواصل الإخبارية",
+  "text": "Let Property ordered to repay £277,725 after Sales complaints شبكة تواصل الإخبارية",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZlZ3Uzl3OUVyQXNJRS1BUm5lemVZcW9PUTdsTjcxakNWOWh6YUI2bmxxUXlPX2ZpMHpoVjNFTDFKWFpycEJHTE8tdmV2dW9PcEs4?oc=5",
+  "ts": 1795499746,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.857
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "PCB Orders Surge 56.1%: Why Is the AI Industry Chain Still Facing Circuit Board Shortages? - 36Kr",
+  "text": "PCB Orders Surge 56.1%: Why Is the AI Industry Chain Still Facing Circuit Board Shortages? 36Kr",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ra0YtRThNRGNUdDRaN041Y0dGVUVCNkswNmlSb3IzMnpCMWxYX0pHdmJfQzRxQnJxYWxNQUM4MU5jT3dpUlRkWmxMV1pIVzRVYXNv?oc=5",
+  "ts": 1795494073,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.804
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Phytomem ONE Reviews and Complaints (2026): We Tried It Consumer Report - MyPhone.gr",
+  "text": "Phytomem ONE Reviews and Complaints (2026): We Tried It Consumer Report MyPhone.gr",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzM1NBeUVkSFgxUFo2UW1EVGo2dE9IY2JZeHZZbDVsajJMMURTeGRxZWxNX3EtTW53UlRtY1pOS002Yk16M3ljOHFSd0tPcmM?oc=5",
+  "ts": 1795489674,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.764
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "KatuSharp Reviews and Complaints: Is the $99.99 Rolling Sharpener a Fit for Your Knives? - Newswire",
+  "text": "KatuSharp Reviews and Complaints: Is the $99.99 Rolling Sharpener a Fit for Your Knives? Newswire",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXVoc2R4dHl4czdBSTBFdEhnOEl5Vm5QNEVlNy12OVZ3NnlpQ1ctb3M1ZDRDQ19hVFJ1SV9RTGxwUHBpeVRHX1BiZmpzVEFfTVZPa05FNEVZaDRRNHdlZ3dsRGVEVGY1bGt6SlEtUE51bmpLQVFVaHZ2T19rQzlBbzdiNmtBTXdZN0x4WGFhNXJVMTlJcm9xSWVOV3lTcTBaX0piY0hKTzJmblow?oc=5",
+  "ts": 1795488000,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.748
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Kenjin Titanium Cutting Board Reviews and Complaints: A $59.95 Upgrade From Plastic? - ACCESS Newswire",
+  "text": "Kenjin Titanium Cutting Board Reviews and Complaints: A $59.95 Upgrade From Plastic? ACCESS Newswire",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdl9lQ3dPU0xBSjZVTzJYUDEwZkxXQTZtUG9yM2diSm5GTlREVHd3elpoS1Y4U29jSzRwbWlfWGlZdlRmc0tYUjdpSmZiYWl2eTBpcFNmb3o1MkpOZHd6a0dySXY0TGprZl9sRFhZTUFzUl9tbldGc0RPWFdwMUl0cHJSb3RLcjdjMUFEOExSYVdOVXNCYjlEa3QyZkcydi1jOGdaYWZscE9nLWtHdURMRFZkUXl3LWRJV3FENEtQZmMyT3Etd2hoc0VYSm9ReUVqU09fZG9YbGlUWkdvRFZHLWQzaWc?oc=5",
+  "ts": 1795487100,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.74
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Crystal Vision Glasses Reviews and Complaints: Still Swapping Glasses? Inside the $39.95 One-Pair Pitch - ACCESS Newswire",
+  "text": "Crystal Vision Glasses Reviews and Complaints: Still Swapping Glasses? Inside the $39.95 One-Pair Pitch ACCESS Newswire",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2UxeFQ1RkNDTkcxWHVPbi1wSDltbW5jMDE3V3lLdV93REg1NUFSSGhtQmFmZ0t2TzV5blRJYnN2SmNmZVZTa0JlZVNwZTJDQzV1MV9wUzJ3eFV2dExkdEplOEo1cXlrWXpNMGVpaElCQVdQbDRRd1RsVUs1MldLNjhIZWlTTThqaklLbmhpWXpnM1ZOUEdLcXRMT0l5dmN4czVVbWFtT2ZYbkxPUWF4dG9tbW5HeUx2czVEZUVSdGY3V3AyOW5feTM1TXluQlh4RDBMZ2ZYM1U4bkJOU0xkUXlhRTc?oc=5",
+  "ts": 1795484100,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.712
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Maryland Reviews Car Insurance Rates Amid Complaints - Wisevoter",
+  "text": "Maryland Reviews Car Insurance Rates Amid Complaints Wisevoter",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlotdTZCQ1VmRWJjVmFMUnNqYm5YeFZxcnlKSEM0WGpKSHp4dHM4cEg0OFNQdFhOVFRwa2hhVlBuUzZfT05PUGd2OFUwTjRoSUl0Yjg2Njk5clROUEdrZFp5YXItR1pXMktSNEtRR3NuNFpDc1VtdnJVcHgxLWVHc3Q2b2owNzF4cjFubUpyeTRZaDNlZ2hB?oc=5",
+  "ts": 1795483041,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.702
+ },
+ {
+  "source": "hn",
+  "origin": "hn/comment",
+  "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+  "text": "It sounds like a cool idea, at least the way OpenAI presents it. However, going to the page and requirements, I have to nope out. This basically requires a full measured boot setup (TPM2, unified kernel image etc.). This is definitely not a simple \"vibe-code your patch\" platform you can deploy in an emergency. I wish there was a reduced security mode that really just focuses on patching vulnerable software, and not defending itself from when the machine is already compromised as root. Because if your organization already has this bleeding-edge measured boot setup, then I believe quickly deploying a patch really is not a big deal anymore.",
+  "url": "https://news.ycombinator.com/item?id=50622142",
+  "ts": 1795482723,
+  "engagement": 0,
+  "label": "comment",
+  "pain": [
+   "wish there was"
+  ],
+  "score": 4.699
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "7 Frequent Customer Complaints About Arby's Roast Beef Sandwiches - Tasting Table",
+  "text": "7 Frequent Customer Complaints About Arby's Roast Beef Sandwiches Tasting Table",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW1qSDA0bF9OMUVjTW12M3NqQzFVdm84c01fMlhWczBKajFGdm1PMXBVWkZZT2Rsak9WZExjc3Q1cFcxeUdrd19sN1JObXpHTXdEMlZacTFGYzlqT1pVejR2aDB0bjFBdjlNZXlCaHNaMkxQVDczTXlnY1c3dGlsODNDalAwYlFpNVhWbm13?oc=5",
+  "ts": 1795479600,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.67
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Complaints Against NYC Construction Labor Brokers Are Rising. Workers Say Abuse Continues. - Documented",
+  "text": "Complaints Against NYC Construction Labor Brokers Are Rising. Workers Say Abuse Continues. Documented",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9CampUOFJ2RzJhY0VVamI2X3pXVkswYjRqOTJwTGFSd2JPQ1BMU0xaSTZReFNRMTR6b1F3dEwtRVBNNjBpbklKYmNRNzJyWlYyVWpLQkpwVHhVVTY3V3BqeTViV2g5bDEzQk5qQWVENnV0LTNhbkd3QVpFeVM3cF9tRE8?oc=5",
+  "ts": 1795468764,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.57
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Boltz Retro Device Reviews and Complaints: Want Classic Games Without Wi-Fi? Compare Standard and MAX Before Ordering - Newswire",
+  "text": "Boltz Retro Device Reviews and Complaints: Want Classic Games Without Wi-Fi? Compare Standard and MAX Before Ordering Newswire",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDJfLUppRVREZ3NWcU9KWkZRdjB6TC1tc2dsU0tiZWliYUFtWG0zZVZPSzdPQXo0ZXdBYWQ0THRfUTJfQnJMWWRHOGJqZDhCaXp2bnhXV2stenpFRWlKVzI4RkpCaWp5WnFhOVc3dlRQRVBjWEh3bXhrN2dfNWZ4VXBNRm5oRE5OekRra3BZMVM3amFja0RoYzE0aGpIbU8zXzFvVENlbw?oc=5",
+  "ts": 1795452300,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.417
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "A desert city’s quest to curb water waste and lower bills as shortage looms - Boston Herald",
+  "text": "A desert city’s quest to curb water waste and lower bills as shortage looms Boston Herald",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ldXhTSHltNnlYZ3kxNW53OTg1Xy1DSWhzSnV3bm4yMTBTVnJBUFd0MTJFcUVfb0lIOXcwYjAyTmVjTExTOWlPZEMtWmxVejhWT2w5STQ3TGgyOUhUTDhuaHFOVEpDaGdPRElmcTRQX1JFY3IwanRQaTIyMEhaWUU?oc=5",
+  "ts": 1795450451,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.4
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50615308",
+  "ts": 1795453646,
+  "engagement": 3553,
+  "label": "1673 pts · 940 comments",
+  "pain": [],
+  "score": 8.952
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Ladybird is now in alpha",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50614249",
+  "ts": 1795450392,
+  "engagement": 2875,
+  "label": "1957 pts · 459 comments",
+  "pain": [],
+  "score": 8.701
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50617499",
+  "ts": 1795461475,
+  "engagement": 1518,
+  "label": "1042 pts · 238 comments",
+  "pain": [],
+  "score": 8.138
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50620349",
+  "ts": 1795473149,
+  "engagement": 974,
+  "label": "474 pts · 250 comments",
+  "pain": [],
+  "score": 7.784
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50622774",
+  "ts": 1795487222,
+  "engagement": 580,
+  "label": "360 pts · 110 comments",
+  "pain": [],
+  "score": 7.375
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "GPUI is getting its own repository",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50619103",
+  "ts": 1795467174,
+  "engagement": 457,
+  "label": "259 pts · 99 comments",
+  "pain": [],
+  "score": 6.941
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "2035 Came Early",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50624497",
+  "ts": 1795501833,
+  "engagement": 304,
+  "label": "214 pts · 45 comments",
+  "pain": [],
+  "score": 6.838
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50619207",
+  "ts": 1795467676,
+  "engagement": 347,
+  "label": "243 pts · 52 comments",
+  "pain": [],
+  "score": 6.66
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "text": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: 62.6 / 63.8 / 60.2 / 52.4 - AIME 25+26: 97.7 / 98.3 / 96.5 / 86.0 - MSGM: 94.0 / 93.1 / 91.8 / 90.6 - RealWorldQA: 82.4 / 82.4 / 81.3 / 80.9 Decode speed is comparable to other quants on an RTX PRO 6000. Context-length results below (3-bit / 2.5-bit / 2-bit / Unsloth UD-IQ3_XXS): - 4K: 88.9 / 99.2 / 111.7 / 94.7 - 16K: 84.5 / 93.8 / 105.1 / 89.8 - 64K: 70.7 / 77.5 / 85.0 / 74.8 Running these currently require our llama.cpp fork: ( https://github.com/nari-labs/nari-llama.cpp ) Feedback and questions welcome. We'd love to hear how these perform on your workloads.",
+  "url": "https://news.ycombinator.com/item?id=50611402",
+  "ts": 1795441358,
+  "engagement": 241,
+  "label": "171 pts · 35 comments",
+  "pain": [],
+  "score": 6.037
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50624061",
+  "ts": 1795497322,
+  "engagement": 143,
+  "label": "81 pts · 31 comments",
+  "pain": [],
+  "score": 6.014
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Drone Maps of Salvage Yards",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50623515",
+  "ts": 1795492828,
+  "engagement": 145,
+  "label": "83 pts · 31 comments",
+  "pain": [],
+  "score": 5.987
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Making a dumb TV just smart enough",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50622934",
+  "ts": 1795488414,
+  "engagement": 126,
+  "label": "76 pts · 25 comments",
+  "pain": [],
+  "score": 5.801
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Freeing the iPod Nano 5G",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50620721",
+  "ts": 1795474993,
+  "engagement": 128,
+  "label": "110 pts · 9 comments",
+  "pain": [],
+  "score": 5.693
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The Power of GraphQL, Without GraphQL",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50621466",
+  "ts": 1795478639,
+  "engagement": 117,
+  "label": "55 pts · 31 comments",
+  "pain": [],
+  "score": 5.634
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The search for a top dark matter candidate",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50620831",
+  "ts": 1795475560,
+  "engagement": 102,
+  "label": "46 pts · 28 comments",
+  "pain": [],
+  "score": 5.464
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Coworker rejects PR (one month in) because it does not meet his standards",
+  "text": "just joined this new team about 1 year into their development. Demoed the work to the team about two weeks ago (half way in). Work is practically complete & runs well no issues. I create PR & assign the two PR reviewers (one my rank another a rank above me). one colleague (the one at my level) leaves some constructive comments no functional changes. The other colleague (one rank above me) says something equivalent to \"does not meet our standards\" \"do not do x pattern since we have used y (which has a huge limitation)\" to use Y pattern I would basically need to change most of the logic and it would be about 70% waste. I demoed my code with this pattern two weeks ago and there were no issues/comments from the team. The code is concise and easy to read. I had a call with the colleague and explained the code and why I used it, and showed him some other parts of the codebase where this pattern should be used, his only defense was that \"it does not meet our standards because it uses X rather than y pattern, since we used y pattern in the past, we should only use y pattern\" while x pattern is very similar only removing the limitation that was causing the code to be difficult to maintain etc. This \"standard requirement\" is written nowhere as a hard requirement and the codebase is barely one year old, with only one of the codebase founders still on the team.... I'm going to have a chat with the manager tomorrow morning.",
+  "url": "https://news.ycombinator.com/item?id=50622809",
+  "ts": 1795487481,
+  "engagement": 68,
+  "label": "16 pts · 26 comments",
+  "pain": [],
+  "score": 5.156
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Rune: Rust VM for Emacs",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50622804",
+  "ts": 1795487447,
+  "engagement": 63,
+  "label": "41 pts · 11 comments",
+  "pain": [],
+  "score": 5.078
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50620328",
+  "ts": 1795472988,
+  "engagement": 68,
+  "label": "60 pts · 4 comments",
+  "pain": [],
+  "score": 5.022
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Lowering Perplexity Without Scaling",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50607512",
+  "ts": 1795408430,
+  "engagement": 76,
+  "label": "50 pts · 13 comments",
+  "pain": [],
+  "score": 4.539
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Neem Raises Seed Funding from ADB Ventures - FinSMEs",
+  "text": "Neem Raises Seed Funding from ADB Ventures FinSMEs",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHE2RUlaRVdBaWdJSDU1YTlHUUdMZnZCVUFjUDVuU2dZNnI2M3Zob2dhYTVPNmZyZER0bDFXYXVKeXR0d203R3FKRDZpdEtERjluUGZ4TjhUay1kYjZIa3dNT09iNlFFRWlDZFBIOVI2aDl3MDFRX0Jxb3NnVEt1ZUo2RF8xdw?oc=5",
+  "ts": 1795514950,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.998
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "RFAs: GROW Project Business Plan Competition Grant (Uganda) - fundsforNGOs - Grants and Resources for Sustainability",
+  "text": "RFAs: GROW Project Business Plan Competition Grant (Uganda) fundsforNGOs - Grants and Resources for Sustainability",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFZEeWNxZEVrWDFuYWtuZ09EdG5ZS1dWRU1wczNIYk9XNzREUmZyN3c0emluLWVETnA4NEk2eG1vbDRZMzZydU56dXNSTlBFZEd6aUJYT0laMjJwNGVuaTk4MHFQLVM0X3ljZ3g1QUMzSlEyZktLUDFnem0zMkdGM3BNdXRzQ3VKRkV1REdoZC1aQkJkMUhSTXZabEphUHI00gGmAUFVX3lxTE1LckVLY3d0OXBpdHk5aEdGSGFzalQxYXE5QTI1S1JOMEtNYVotN005UlRLSVlWejEwQ3hNc24xVGxNUmc0UFZyRFFrS0lhUnJaQ2swaUx4S0lUVVI5S1lDTERhRk1VZnZaeDRfUWw3bDFNcDlnLVAyOGlrdUtrX0FhckVsZF83MEl3ODdIUXlNdVJnbC01ZC10eG9qZWZpeHRHSmJWc2c?oc=5",
+  "ts": 1795514664,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.995
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Mint Explainer: Can SpiceJet raise ₹5,500 crore to stay afloat? - Livemint",
+  "text": "Mint Explainer: Can SpiceJet raise ₹5,500 crore to stay afloat? Livemint",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUFphWWIxbmtmOW40QnJPSDVqX3RpWThrRmJIZkNTUUd4M3JGSWFoM1NKQllmcHcwY1NFRUdObFg0ZkVBRXk0eUF6T2VmQ212Ym1tVHB2blVyaTBSMWxHdDJkX1UyY0tUb0NKc3NITExNUFZ4dEktdGJjc0lZYXoxcVhxYkhZMzg2cnp3U3RsbzJ6dG85WGxKbEtDNjkteHF6YjdyZTJ1eWlTdElRc2pfVFZMTjBDLVRlZnA5Sk5jbFBmbE83VmZfaGVoaHlYNG5pVzdITEx1QkpTdkxFRTNnd294M2dqend1Q1lOanVla3dmRE5vbmFZTWZjN09RR3g4RGFRdVVSMnNPd9IBjwJBVV95cUxOZFN6cHA0NXBfWUYwVzVZMFNvT1dLTm5vRnpUTk83UVI4YkRPaUR1QnFZRnk0M0VGOTRXeHBoSTVlLTAyZU0zMjNxa2s0WExMUGZUTDZhWVoyeEFlMC1DZG0yV2lFSnFYXy12aU9sR3RZa195dU1VcjM4am5JaVFLakxFc2tDaGtremZudS02aXVucHZDZW5rZUM0RXUwQVdlRndlWGlzOXRGMmI5U3JNYnBsTzZoTTVxS1hpY0tkMHUxZ1EtdThNTUptOXRpekM3NHFmdER6SkpIUm02OVN3MlFIbzg2d0V6c1RJa05ZY0txbklqbEJwcUlwUnZuRmpBVi1CY1FfTnpUTmZXUkww?oc=5",
+  "ts": 1795514716,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.995
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Why Florida consumers are expected to step up Black Friday spending - Daytona Beach News-Journal",
+  "text": "Why Florida consumers are expected to step up Black Friday spending Daytona Beach News-Journal",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3lvT1NmWW85R0VvYk5Pd0FST3EyWUk4dzNCU2ZLbUJNRGNKTk1TTmRsT3BOTUtYOFBXZWtZbHUydDFFdjljT1J6QThJS1pCcWVtbTc3WTc4R2JXUFNCYzgzRTBPeTBfRVFmWGx3NHdHd0dXalJ2Mnc1MlBWQVVRQ0tUMTdOaC1HN0xybFljdnE0YnJUWXhVV0lHelgwUmpEMzFYbEhTVzFKYmJMajNTOVNhTmJjbEpnRzBFclZSZzNzaWQ5TWowOFYwdHJKMHRYaVlBc3BEMUY?oc=5",
+  "ts": 1795514640,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.995
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "A Ukrainian company has raised $5 million to develop a drone flight prediction system - LIGA.net",
+  "text": "A Ukrainian company has raised $5 million to develop a drone flight prediction system LIGA.net",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGFKWmMwSlh0Z1VzdW5DWWdNeEJCQmlDdEFRVm9IaENMY1pzY3Q2SzJJcVQ0YTZ6czFQa3VHdFB3NzlGa1ZlTTg1dVBzeWRvNzRxMU9MNmo3NU9ycVBWT21ObjRxOTJVdTNlOWhqbjQ1dzlCRGR4ZEhZbThtdzhEOUx0REN5X0tjOFRoRVBRc21FNzVqSEs2N1VLbmY0NWlydGpYYXJHUjVmQ0RNVVFrRXFobElQUHZsZC1WcE9HY1RXcW00eWhv0gHMAUFVX3lxTE54QzREODlCQndwZnpnektmckRJeVd5cFpaTjBlc0x4dnJNUmQwd21ncjJEXzJpZ3BJQ0h5bjdLMXBZMVVza1BNX0o1SjVnRXc3Yk1WTEphN0RZX3JqR2tGM2ZIV3NLU2pKREpteWRVYU9FWExmd3A1WkVMa3RxQko4eDlSVzNsTE1HVkRNMElGVmowOWNhc2dVc3BCR2Q0X05nTGR3Wm56czkwMDZIR1FuU3paYnJ1a1ljdS0wZUkzSUZzRGJneVVXcEVpRA?oc=5",
+  "ts": 1795514211,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.991
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Rise in Concert Ticket Prices Outpace Inflation by 29%: Economists Call for CMA Investigation - Business Wire",
+  "text": "Rise in Concert Ticket Prices Outpace Inflation by 29%: Economists Call for CMA Investigation Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRk9XVUtGeHM4YUNyb0NHNFhnMU1iZlVRUEVvcE5abHp1aGFaWC1BLWRFLWtXTmxFdXUyTHU3MzhjRXVaNk5VY0o5bDg2NmFzQ0lkNVdJbHhiU1gxR1lFSEs1TFRoUlp4SG1rSHdUdmd1TTBTSkFJdXlZTjBoV09tTFF3V1pyR3I5QmwxTTFhYnVsZjZGZFNVQ0JpV3B0dDd3VExUTWpwRHp1bUVaUGFKMGk5cktXLW5UcVhtRkZscVlhWEpGdTF0Ull4WmdqOFRVWW5Jc0FiN056bkh6bEY0Nk93?oc=5",
+  "ts": 1795514220,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.991
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Uttarakhand Joins List of States Offering Cash Transfers to Women Ahead of Elections - TheWire.in",
+  "text": "Uttarakhand Joins List of States Offering Cash Transfers to Women Ahead of Elections TheWire.in",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU9KdktGWnV4Y0dRbk1wNVF6QlVZaXRQdFdrM0lWbHZjUzJ1eVd0SHNwR3E2V2VFTlFucm8ydXlfTzk0MVQ4NkRwT0V1cll2M0VDRy0zejdUTkw5UlltTFJJMll4YU1iNkItc3p3VXItaXVPNkxZZFNFcFNYRThCQXlHbnktMF9mR2w5dFIyMmhXYkt1dlNvUm1sRDlTaVVuOVF1QUZibHNyLTRWWEYtVmtiS0pxNFJMU0lMREY0QdIBxAFBVV95cUxPaG9ROGhGdlNHUG9PX0dQWm1UUnVuamdNbnduck5fejJzQkVycTRjMEw1UU1VSHV0RmJkMkYwdks4SnZmMmNUZnpScDBMTXJOYjV4OTJNR2w5ZlZINzV4MWQzVWtyVFlVTE83emJ3amVocHM1WG9UbEg4LWQ3QUZVNENFWmo3RmlUbzRZNHJIUW1kUFIyZnRHLThvRzhEQVlFSzdudGFKTURsdDZfUlprZjJHUE5aUG1McS13bG1QanRVVV9K?oc=5",
+  "ts": 1795514257,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.991
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "A double bonanza is shaping up for investors, businesses and consumers - The Economic Times",
+  "text": "A double bonanza is shaping up for investors, businesses and consumers The Economic Times",
+  "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdmQ1UXc4Zll2bi1KZ0ozaUpfbHNTVEtBWjlDdkJsdmNsZ29uQlFTMTN5SXY0aDBvUjVMOHUtUXFMTk91T3pieGJRTENwSEVXUkt0d0JmSXRGLWY3dGhIOVNvM0M2UU5ObGdYaW5LRTRRUzRENjlBd1ZOMkluSE9ZRko0dTc5Nnlvd0FEVVdySkM0Qmc3aFN3TEZibE1Pb2NJYXdLUDIzWTJSRVhEM2pCVWE1akRVV0JHNFBaMTRLVGw3azN1X3IyN3NJSm5qRTJxM0d2UUt0YXFiX2dKNDBfV3J0b3ZEUzlxOGJBa0g5STJsOHEtbnhmc2hjWnhWZFo3bUVFMlhyeHhWeDdxVjZ4ekVpM2tnaDJlLUJhZTZJM2FOVTYtM2JreHItc1QtUnZrb3h1TWxzZ0VmYW5iVXVmdnIwZWUzVHlqemg4Tm83LUhlcHF2b3hlQmxmMDhwbnZnNXZtaGw5RFBoUWQzQmfSAfMCQVVfeXFMT1dmamJudEdxbldWMlVuYUN2WnN0UGt6Z1VOblpJNmtmdWl2c1NaZWZTbkZ2Y2thRm1TUFU2N0pKeFEwSUNyU3hGcC1DWXVfWGphZ2hKN3JPODJvYkQxUFhpUzhTUklSNUlWYy1lcDNRMmZYckZiU21uVHNwVThQZzdzaGhsSFF6d1NjRXp1ZmNHV2pGTkVGWW9UTlZlUlU4ZFFJc2V3RHZoUFgtamt0WHdYX3NudjJxZWFwaDhqelZsUkg1b3VDdHpaUG1kRzlHb3lEcHFrQ09lOTdRXzhfLUtvSjdmdk5NV0FEV18xeHladEdBV1lJY3QtdkJEZllSSWxTR2V2REFGY0hVWjdBT0JpRHdEMVVMMFZJU2FIS2c0QUxQN01NcVAxVDNaR0REaHFEa1F3SmFiNWNKY05yMS1ZYlVNOHR3aGg4ZWtJZGJELV85ZXkyR3VaY1RwYWtvT0dGLTlWVTRORUx0NnVJbkd2ZUE?oc=5",
+  "ts": 1795514156,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.99
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "FirstCry Strengthens Omnichannel Retail Operations with Faster Deliveries - Indian Retailer",
+  "text": "FirstCry Strengthens Omnichannel Retail Operations with Faster Deliveries Indian Retailer",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUhnUnVvT0hkclBlbV9yMXFrWXl4aWRCX3BpUi1VenNrNGNzZ0kzVUc5d1dHNi1tWUJySnRKM2VCcEE4d0J5UUlxN2pPQmFqa3p1aUJtaW1RaUozUWU2NFBJZG1ra2lMR3lsVmo5WlNJbllpN1lwNi0xODVQMkFVZ3JxVFd4MUUwWHB0WGNUeC1uUUFzd2g3bFVSWXp1Q2w0NEVVR3ZRYw?oc=5",
+  "ts": 1795514175,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.99
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Thanksgiving Dinner Costs More, Farmers and Consumers Get Squeezed - Oklahoma Farm Report",
+  "text": "Thanksgiving Dinner Costs More, Farmers and Consumers Get Squeezed Oklahoma Farm Report",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NREpDbU1iNkZQM20zdDBrLTMzT1BKUVpkNkFUS1BrX3VPLWdJQ016bGxmTDMwMlg5NkFpVHZwNWpDeWhKWjkyUGkzNkl1QUZBNzB4dmdKR2pMNEs5VzlB?oc=5",
+  "ts": 1795513983,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.989
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Car-sharing operators Car Lite, GetGo and Tribecar receive CASE accreditation , Singapore News - AsiaOne.com",
+  "text": "Car-sharing operators Car Lite, GetGo and Tribecar receive CASE accreditation , Singapore News AsiaOne.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdlpHM1pORHpmUmdXTHRLOEFhaDUtbzVTZzRXZHE5dmViRkNkT1BPVlZXemVzN1NDSTFieTFuZ3RXS1hVMmRubXBndUdFVFlvNUJxY0dZMmdacXU1ZGZDNmxCbTVZXzlUU2FET1owNmVGcUhfQmVCYmN3?oc=5",
+  "ts": 1795513906,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.988
+ },
+ {
+  "source": "rss",
+  "origin": "YourStory",
+  "title": "7 Habits that make you a better listener and build trust",
+  "text": "Discover seven simple listening habits that strengthen relationships, build trust and help you become more understanding and approachable.",
+  "url": "https://yourstory.com/2026/11/7-habits-that-make-you-a-better-listener",
+  "ts": 1795512600,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.976
+ },
+ {
+  "source": "rss",
+  "origin": "Inc42",
+  "title": "Cosine Robots Bags ₹22.4 Cr To Scale Robotics Hardware Production",
+  "text": "Bengaluru-based robotics hardware startup Cosine Robots has raised ₹22.4 Cr (about $2.4 Mn) in a funding round led by Avaana…",
+  "url": "https://inc42.com/buzz/cosine-robots-bags-%e2%82%b922-4-cr-to-scale-robotics-hardware-production/",
+  "ts": 1795511810,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.968
+ },
+ {
+  "source": "rss",
+  "origin": "Inc42",
+  "title": "Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI",
+  "text": "Former Sequoia Capital India investor Sudhanshu Mishra has launched an agentic AI startup called Demi.AI in the US, seeking to…",
+  "url": "https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/",
+  "ts": 1795508767,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.94
+ },
+ {
+  "source": "rss",
+  "origin": "YourStory",
+  "title": "Startup news and updates: Daily roundup (November 24, 2026)",
+  "text": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, November 24, 2026.",
+  "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-24-2026",
+  "ts": 1795505989,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.915
+ },
+ {
+  "source": "rss",
+  "origin": "Inc42",
+  "title": "Google Cloud Confirms Around 30 Job Cuts In India, Rejects Wider Layoff Rumours",
+  "text": "Google Cloud has confirmed that it eliminated approximately 30 roles in India last week, while rejecting rumours of large-scale layoffs…",
+  "url": "https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/",
+  "ts": 1795505353,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.909
+ },
+ {
+  "source": "rss",
+  "origin": "Inc42",
+  "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
+  "text": "AI unicorn Sarvam AI has launched Sarvam Dictate, an API that lets developers add voice dictation in English and 22…",
+  "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/",
+  "ts": 1795502800,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.885
+ },
+ {
+  "source": "rss",
+  "origin": "YourStory",
+  "title": "CortexSpark Ventures launches Rs 1,000 Cr deeptech fund",
+  "text": "CortexSpark Ventures will back deeptech startups that have created IP and looking to translate this into commercial applications",
+  "url": "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund",
+  "ts": 1795502804,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.885
+ },
+ {
+  "source": "producthunt",
+  "origin": "Product Hunt",
+  "title": "Willow iOS 2.0",
+  "text": "No switching apps while you dictate Discussion | Link",
+  "url": "https://www.producthunt.com/products/willow-voice",
+  "ts": 1795502295,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.88
+ },
+ {
+  "source": "producthunt",
+  "origin": "Product Hunt",
+  "title": "Agenda Hero Magic Labs",
+  "text": "Any schedule. Any layout. Any style. Discussion | Link",
+  "url": "https://www.producthunt.com/products/agenda-hero-magic",
+  "ts": 1795501615,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.874
+ },
+ {
+  "source": "rss",
+  "origin": "Inc42",
+  "title": "Ex-Infosys Executives’ CortexSpark Ventures Launches ₹1,000 Cr Deeptech Fund",
+  "text": "CortexSpark Ventures, founded by former Infosys executives Vinay Peshwa and Sanjay Khanduri, has launched its debut fund, Viksit Bharat Fund-I,…",
+  "url": "https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/",
+  "ts": 1795500800,
+  "engagement": 0,
+  "label": "",
+  "pain": [],
+  "score": 0.867
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "In search of emerging signals, RBI casts a wider data net",
+  "text": "The central bank tracks FASTag transactions to gauge freight movement and economic momentum, alongside GST collections, e-way bills and digital payment metrics. Satellite and radar imagery, combined with ground-level environmental data, help assess weather shocks and agricultural output. Ship-tracking information and cargo movements provide early indications of imports and trade balance trends, while natural language processing is being used to extract signals from news reports and analyst commentary.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/in-search-of-emerging-signals-rbi-casts-a-wider-data-net/articleshow/136113362.cms",
+  "ts": 1795462174,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "fintech & lending",
+   "banking & rates",
+   "logistics"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.109
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "RBI Governor asks NBFCs, housing finance firms to bolster cyber defences",
+  "text": "RBI Governor Sanjay Malhotra called on non-banking finance companies and housing finance companies to bolster cybersecurity measures. He emphasized the importance of a comprehensive, risk-based approach to managing cyber threats. Malhotra also highlighted the necessity for responsible credit growth and customer prioritization within these financial institutions. Participants exchanged feedback on policy and operational aspects affecting the NBFC sector during the meeting.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-governor-asks-nbfcs-housing-finance-firms-to-bolster-cyber-defences/articleshow/136109553.cms",
+  "ts": 1795452778,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "fintech & lending",
+   "real estate & construction",
+   "it & ai"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.022
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Keralam to promote tuber crops as intercrops as part of scheme to achieve self-sufficiency: Minister",
+  "text": "The initiative will be implemented in coordination with Krishi Bhavans, tribal communities and farmers, the state Agriculture Minister T. Siddique said",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/keralam-to-promote-tuber-crops-as-intercrops-as-part-of-scheme-to-achieve-self-sufficiency-minister/article71738007.ece",
+  "ts": 1795514907,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.397
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "PLI Schemes: From Manufacturing Momentum to Global Competitiveness – What Should India Do Next? - Machine Maker",
+  "text": "PLI Schemes: From Manufacturing Momentum to Global Competitiveness – What Should India Do Next? Machine Maker",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWnJGcHlBQjBDLVEtVTJMVnlmMnFUdmo0eG1XVkpERlg1ZEZlVzlrWUdmWGNzNHE1N2c2MnpRYlg0Y0NWdVFCM2VLcjRVOVRkNzM4ZDJPZGN6Umxfa0FTdXpEVXVrbmxmUjZLWDJrZWZUeGNPcHgybDl0U3NrRzNZSzg1YW5nMmNWZDU4TjIyMzJpRVY4OWR1d0hVcDFnNEhKQ2U3Q05LYU5wTnlFd21CNG9jc1NsN2k0X211Y1A5QXQxRmZaRC1xM19Ga2VJT3owbDFhTXZIQm8tQnJRR0E?oc=5",
+  "ts": 1795502877,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.886
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Auto PLI scheme exceeds investment target, incremental sales only 23% - Team-BHP",
+  "text": "Auto PLI scheme exceeds investment target, incremental sales only 23% Team-BHP",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmxzcnZOWkg5dFBzR1RDTVRDWjlRbFU4Q3FCS0xQblpBU0NmRVc3MzlIaWtQeFowVW8yaU1VTXB6WGtCOHozazRwQTBEN2tXRUc5T2FCOVpSNE5wNGdfVWFEaEVteWoyWG1IZWl3M3NObDVBRmFKWWUwWWRCaEZpWG16M0dnZEc0TkZnN3ZNNXhINzdnVldadXVsSUVmUdIBowFBVV95cUxPU3g2cERjekY0X1dkbjQtZTg3UDZkYlE4NHc3S1J5Qm4yR2EzbzJNOHdGNWVwRF9QT1h0eEQ5SlhBV0pYWFNzWEo0YXFBQWpHU1hwUUgtbkFZVTdPemhoTDBQM0Fyam05bHU1cGptVkRrVll3SXdUZVFRMUE1aTMxaEJtclhGbzZ5NDZRTmVFbnBHYnRGaVlCRThHaElIMlFjOEFr?oc=5",
+  "ts": 1795501329,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.871
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "IFF asks TRAI to extend telecom AI guidelines comment deadline - Elets eGov",
+  "text": "IFF asks TRAI to extend telecom AI guidelines comment deadline Elets eGov",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnFwenpYUjIxN1dTVWxUTy1uR19KNGJQU0VPcUw4Z1BqQ0hVR1N4bEdESGNfSEFSWFE0OHBXa01sQzc4RnpEQUlEVmRIWjd1cW9DUmJIWDQtRmpKSWFQQVo1blM0bmVvZmFVS2xqQjZWMDcyYnJobDluaGdLc250RHd1SmVraEd4cDFvMXVwbkJaUHhwQWJGampJRG4xeUNOSXc?oc=5",
+  "ts": 1795501004,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "telecom & internet"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.868
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "UP AI Stack Tender Plans One AI Platform for All Departments - Elets eGov",
+  "text": "UP AI Stack Tender Plans One AI Platform for All Departments Elets eGov",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Wl9taDJieENSSVFMUXZWUjhyNXV3dUxfaTZzTWZkX2M2R2xQa2locGlDWnluOTJ3VDRqSnFhUlVndVFsVDhOc1F0YjFIMHh0TmtQaFBoXzlQZl9sT2hBc2hwdWFfaXM?oc=5",
+  "ts": 1795501001,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "government tenders"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.868
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Six Years of PLI: Rs 2.58 Lakh Crore Investment, 14.57 Lakh Jobs - Machine Maker",
+  "text": "Six Years of PLI: Rs 2.58 Lakh Crore Investment, 14.57 Lakh Jobs Machine Maker",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGMyb1JyN2dHbnMwSTk3V2ltN3BxMUdPNWdPdWdOdGFhdFpwVHpPd2Q1VnNCNmw2bWRrQW41RmM1STlVamJZcHZEUF85TDhOSWlPQ3MxQTMwcGdqRGVKZGdMQVBXT0RRSlFFaWw2T1hUV2xzUUVBUi1aRGhMOFFRYnhsdGprc0xnM0lZVXhKcw?oc=5",
+  "ts": 1795499879,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing",
+   "jobs & gig work"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.858
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit? - Fortune India",
+  "text": "Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit? Fortune India",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGRLM0FBOVlhNGdTY1RUNVJrMW42Q1g0OVo1SG0wVFlSdHBoeFNsZjBXN1NaX3lBNTZSUnpuR1hJUmlKMFVKc0otRmh6aGlXVE82eE5zS0dSVGZ1eDZNTWJoRnFpS3NYWDRkeXoyZ281dVRoZWwzTEZQNm1SaVF2VGZ1MURwZEJvRkt5WWRuRXRvUFlwTmJ6LTdBYjlLb1hlN3AwQTJqOS1Fb291ZzE4UTRzcmlUZTdQWGdBLVF5czFUYTI3S05faVRDTWZ5cGpMWWhR0gHgAUFVX3lxTFBIZGw1cDlBOHVoYnBJNlZJYlpuTW9oel84QWo2QzRnWjVuNTJtcldFdHpFeEdUdWlhLXZDVm8tMTRQQmVrcTY5aTJyLWJrcXJqVVN6MDZKY2JIOG53Q1VmNWQ4RFVxRVJoc2J4TkttUWJPbFJkOG1RNVJUT2JCdnRnSUsyZjBpLXNiUXYybVlYcVJUNEJBOU9uejVORmtXd2djaEVLQ1MtdnQ4WldFNEVNQ3ZyYWhIaTJvQVJhbHRKUVBsVEpKM2tyN19uQmp4NEM1ckZJREZ1MEFiQi0xTWdp?oc=5",
+  "ts": 1795491000,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "headwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.776
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India boosts Venezuelan crude and US gas imports - TradingView",
+  "text": "India boosts Venezuelan crude and US gas imports TradingView",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkpBRWltQzBZQU5wWkdfQVAtZ3NVeHVxd0VyZTRmZ0MxcmN0SEJDeDJWdFhRQmlGdmVfWGZGa3BnY1BxUGZCS0hfaDJJb3V4RGJiWW43R0hMMTJZUmRlbmM2WGZkeUxsR2pQZkppRURTS19GN3EwdzFkSW84YlUxcUxaZlFNQ3pFRHcyaURPanlPOWhBUFJCVDU2V090S1c1NjFTYmdlOFQ?oc=5",
+  "ts": 1795484040,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "oil & fuel"
+  ],
+  "direction": "tailwind",
+  "theme": "trade",
+  "pain": [],
+  "score": 4.711
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India Auto PLI Scheme: ₹44,326 Crore Invested, Yet Sales and Job Creation Trail Projections - ACKO Drive",
+  "text": "India Auto PLI Scheme: ₹44,326 Crore Invested, Yet Sales and Job Creation Trail Projections ACKO Drive",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFFMaFdsdlpsWjRwdXdQZ1U2T1NnNTlpSnpDMVZpLS1qSG9zYWtpUXdyUWQwOWZfRzBSMC1GTjBpWnd0VFBJLXVaV1M5aGhiWW1NMXkzQjlkVkFvMzY5clJBazB0QkNUNEdfckJjdVpseUlCTUpWclVmRFZtMDhTZFVlVWN0NDR4SzRVbHh6WDFQZ0tnLU56OG1EcHEzckJvRjRiTVFaNDZUdWdzOXk2VUdBZUk2cTQ?oc=5",
+  "ts": 1795469266,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.575
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Construction of Anganwadi Building Maharashtra Tender by Government - Urban Acres",
+  "text": "Construction of Anganwadi Building Maharashtra Tender by Government Urban Acres",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzNmc19PV1hHUnRNODI2cFhuelJ6ZnBfR01WT2F6c0RKS1hnMG1GR044eVEzbkNLUlVYZy15ZFkwNXAyOGpaRWhCZWJnZFpGcDd6Q2Q4SXlqNkNHazJpTW1TNm1sNVpYVE1EMmtBbUdhOVpKdXhVeUxJdUNSWHIwMDUyQjlSQTdVeURYMmxBRQ?oc=5",
+  "ts": 1795463196,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction",
+   "government tenders"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.518
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Higher volumes, price hikes to drive earnings growth for cement sector - Business Standard",
+  "text": "Higher volumes, price hikes to drive earnings growth for cement sector Business Standard",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmFqWVR2UVVWWk9LVGd1ekJCSl9nVmtyajBFd3ZYejFKSWxTTmlmcE9JU0V5cWVVdTZac3BYQlF6a2ZjSGItNnpDdFBHSE1GVU5fVjdWNTBTY0NlT19iYUZzelpsTk9xUjdsVTJEcFNMX1dHWUVuLUFpOXFIUllwMDJ4TE1Fem10emhJV2hfckpuR09Hc1RrSVkwcGFHVE9YT3k1cDNGZFVmUGQ0Z1h0bFVDb2FLVlZTRnk2R213dzNGZFB1Y2hFVnhESFZwMkhRRlHSAdcBQVVfeXFMUHlBdFhTOGZPa0xqdTMwNmhSNVlNNndNVF9WQnFHUWZkWWFYY2R4elBOZy1uLXJwQWdRajFLc1ROTnRhOE5CM2NMaG85MTFWX0M0Sld3TklrcmFEdS1xMTNiOGNlYVdOZTRqT2NZY2t2M2RvamNQbFlfNWdOQ0VKc0gtRzBmNTY5NmtBQjdhLTdKR2lydmFrMmJXZkdTX0F0WE5vbmN4ZFFhVTI3MEtLSFR2SnQxR3lnazdLMnNhMV9pQ3hlZEtFMDdpUm5FWUxFZzQxZ013RWM?oc=5",
+  "ts": 1795443370,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "headwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.335
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Stop publishing grey mkt premiums for IPOs: Sebi to market players - Business Standard",
+  "text": "Stop publishing grey mkt premiums for IPOs: Sebi to market players Business Standard",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTlZPaTUtNmhyTVZuUUxxaERrZlNYbGdfYnE0S1Aza0lrOWtIaUllMW9GT19UQ1VyNDdWU0g3ZURRTWxaZzVkSFhHZ0JsOHBpZWxYT3lYR0VtTkxna25RdGdXb0xOTlA1VmZjUUFsT0M5U0hKdUpfVFRGSEpCQ2NNZDdaTWR6eEhIekJKVGlPVkRKX2JTYXptSUdkcjZtNmplTkNrbHRhM1NaMW9KODZ5WnplNTRZaDFxd05fS21vTnRiZ1Z3UDJycms1RWx1cndtRGZZXzlsY9IB3AFBVV95cUxNZFRnNFRxRkZyUE9hc3pfczZHc1Y0cWM2OXozWDR1Ry1HU280WFp0eEtfc1lUTHNsN1NGSHUyeXlxX0hUME9FS2RYSldRYjAxZlJTaURkMVRfaUVlUms1TjNDMTNhZEtfNGxiSHZQVXhoZmNqRVAwTy1qZ0dob3hDMDBFczhSS1Rnd2IyM2xnQ081NXRySG5hcXlPcU9hTWduekNRaTlYS0xaaG0xclJCYmxoX0s2V1VEZmxBNl9rZWxuNzN0aDZiYXluVFJ1WHItd0lWaldSSWctdTF4?oc=5",
+  "ts": 1795443071,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "insurance",
+   "stock market"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.332
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "West Bengal Issues Rooftop Solar Tender - https://www.mvapulse.com/",
+  "text": "West Bengal Issues Rooftop Solar Tender https://www.mvapulse.com/",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoMHgwTlRzLTBxMGtlVERlanhPSzFvQ0xLcmRhNWpMdlE1TmNwa2l0dG9mR2ZlWUVYWE1ycENKUDBueUR0S0JsY3Z6UEtNSDdOZmRkMEk4SDBXQ1lZUU5RSDJHeGprZHh5Tm05MXpsMXNaQ1U?oc=5",
+  "ts": 1795440915,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "solar & energy",
+   "government tenders"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.312
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI press releases",
+  "title": "Governor, Reserve Bank of India meets Chairpersons and Managing Directors & Chief Executive Officers of select UCBs and Industry Representatives in Mumbai on November 23, 2026",
+  "text": "As part of the Reserve Bank of India's continued engagement with regulated entities, the Governor today met in Mumbai with the Chairpersons and Managing Directors & Chief Executive Officers (MDs & CEOs) of select Urban Cooperative Banks (UCBs) across different tiers. Representatives of the National Urban Cooperative Finance and Development Corporation Limited and the National Federation of Urban Co-operative Banks & Credit Societies Limited also participated. The meeting was also attended by Deputy Governors Shri Swaminathan J., Dr Poonam Gupta, Shri S. C. Murmu and Shri Rohit Jain, along with other senior officers of the Reserve Bank. In his opening remarks, the Governor noted that credit growth in the sector had improved, while growth in profitability had lagged. He emphasised the need to strengthen governance standards and support sustainable growth through prudent lending, with due regard to borrowers' repayment capacity. The Governor welcomed participants' positive feedback on Mission SAKSHAM, the Reserve Bank's ongoing training initiative for UCBs, and urged banks to make full use of it. As UCBs adopt technology, he advised them to put robust cybersecurity frameworks in place, underscoring that cyber risk affects banks of every size. He also emphasised the importance of customer centricity and of maintaining high standards in internal grievance redressal. Participants offered feedback and suggestions on policy and operational matters concerning the UCB sector. (Brij Raj) Chief General Manager Press Release: 2026-2027/1553",
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
+  "ts": 1795515309,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI press releases",
+  "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+  "text": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer. The list of D-SIBs is as follows: Bucket Banks Additional Common Equity Tier 1 requirement as a percentage of Risk Weighted Assets (RWAs) 5 - 1% 4 State Bank of India 0.80% 3 - 0.60% 2 HDFC Bank 0.40% 1 ICICI Bank 0.20% Background: The Reserve Bank had issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, 2014 , which was subsequently updated on December 28, 2023 . The D-SIB framework requires the Reserve Bank to disclose the names of banks designated as D-SIBs starting from 2015 and place these banks in appropriate buckets depending upon their Systemic Importance Scores (SISs). Based on the bucket in which a D-SIB is placed, an additional common equity requirement has to be applied to it. In case a foreign bank having branch presence in India is a Global Systemically Important Bank (G-SIB) , it has to maintain additional CET1 capital surcharge in India as applicable to it as a G-SIB, proportionate to its Risk Weighted Assets (RWAs) in India, i.e., additional CET1 buffer prescribed by the home regulator (amount) multiplied by India RWA as per consolidated global Group books divided by total consolidated global Group RWA. The Reserve Bank had announced SBI and ICICI Bank as D-SIBs in 2015 and 2016 while HDFC Bank was classified as D-SIB in 2017 along with SBI and ICICI Bank. The current update is based on the data collected from banks as on March 31, 2026. (Brij Raj) Chief General Manager Press Release: 2026-2027/1547",
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+  "ts": 1795515309,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+  "text": "RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Section 45L of the Reserve Bank of India Act, 1934, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified. 3. The Amendment Directions shall come into effect from April 01, 2027. 4. The Amendment Directions modify the Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 as under: (1) Para 26 shall be substituted by the following, namely: “26. The issuance, holding and subsequent transfer of securitisation notes under these Directions shall only be in a dematerialised form. The minimum ticket size shall be ₹1 Crore at the time of issuance as well as at any subsequent transfers. The originator shall ensure that the agreement with the SPE requires the latter to put in place necessary arrangements with entities such as the registrar, depository, stock exchange etc., as may be applicable, to ensure compliance with the minimum ticket-size requirement. Provided that securitisation notes with amortisation structures shall be permitted to be traded at amortised value, if the ticket size falls below ₹1 crore. Explanation: Ticket size, for the purpose of these directions, refers to the size of investment by a single investor.” (2) Para 27 shall be substituted by the following, namely: “27. With respect to offer of securitisation notes to the public, Regulation 21 of SEBI (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008, as amended from time to time, shall be complied with.” (3) Paragraph 27A shall be inserted as below: “27A. Transactions in securitisation notes issued prior to April 01, 2027, shall also be undertaken in compliance with the requirements mentioned in Paragraph 26 & 27 above.” (Vaibhav Chaturvedi) Chief General Manager",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+  "ts": 1795515310,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+  "text": "RBI/2026-27/305 DOR.STR.REC.257/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues the Amendment Directions hereinafter specified. 3. The Amendment Directions shall come into effect from April 01, 2027. 4. Amendment Directions modify the Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 as under: (1) Para 26 shall be substituted by the following, namely: “26. “The issuance, holding and subsequent transfer of securitisation notes under these Directions shall only be in a dematerialised form. The minimum ticket size shall be ₹1 Crore at the time of issuance as well as at any subsequent transfers. The originator shall ensure that the agreement with the SPE requires the latter to put in place necessary arrangements with entities such as the registrar, depository, stock exchange etc., as may be applicable, to ensure compliance with the minimum ticket-size requirement. Provided that securitisation notes with amortisation structures shall be permitted to be traded at amortised value, if the ticket size falls below ₹1 crore. Explanation: Ticket size, for the purpose of these directions, refers to the size of investment by a single investor.” (2) Para 27 shall be substituted by the following, namely: “27. With respect to offer of securitisation notes to the public, Regulation 21 of SEBI (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008, as amended from time to time, shall be complied with.” (3) Paragraph 27A shall be inserted as below: “27A. Transactions in securitisation notes issued prior to April 01, 2027, shall also be undertaken in compliance with the requirements mentioned in Paragraph 26 & 27 above.” (Vaibhav Chaturvedi) Chief General Manager",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+  "ts": 1795515310,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Rubber Board chief backs Tripura’s push for mission extension, better rubber processing",
+  "text": "The proposed extension aims to sustain rubber cultivation, strengthen processing infrastructure and improve returns for growers across the northeastern State",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/rubber-board-chief-backs-tripuras-push-for-mission-extension-better-rubber-processing/article71738004.ece",
+  "ts": 1795514849,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.197
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "SpiceJet operations shrink to six aircraft, just over 20 daily flights",
+  "text": "Promoter Ajay Singh meets Civil Aviation Ministry officials to provide an update on the airline’s situation",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/spicejet-operations-shrink-to-six-aircraft-just-over-20-daily-flights/article71737916.ece",
+  "ts": 1795513428,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 3.183
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Travel agents ask Malaysia govt to extend visa free entry for Indian tourists",
+  "text": "The appeal follows Malaysian government’s decision to end visa free entry for Indians from January 1, 2027.",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/travel-agents-ask-malaysia-govt-to-extend-visa-free-entry-for-indian-tourists/article71737588.ece",
+  "ts": 1795505300,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.108
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Vallarpadam: Exporters seek waiver of detention, demurrage charges levied during scanning boycott by trailer crew",
+  "text": "Importers say they face steep detention, demurrage and storage costs following the disruption of operations which was beyond their control",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/exporters-seek-waiver-of-detention-demurrage-charges-at-vallarpadam/article71737476.ece",
+  "ts": 1795503782,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 3.094
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Dairy firm Doodhvale to expand operations to western and central India",
+  "text": "The New Delhi-based firm sees potential in selling ghee abroad and is looking at North America, says co-founder and CEO Aman Jain",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/dairy-firm-doodhvale-to-expand-operations-to-western-and-central-india/article71737390.ece",
+  "ts": 1795500948,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.068
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Indian shrimp exports show signs of recovery, value-added products gain traction",
+  "text": "CRISIL Ratings says that shrimp exporters are expected to report revenue growth of 10–12% in FY2026–27",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-shrimp-exports-show-signs-of-recovery-value-added-products-gain-traction/article71737399.ece",
+  "ts": 1795500831,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 3.067
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "VOC port’s coastal shipping volume rise by 32% in H1’27",
+  "text": "Coastal cargo now accounts for nearly one-third of total port traffic; coastal vessel movements increase 38% during April–October 2026",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/voc-ports-coastal-shipping-volume-rise-by-32-in-h127/article71737245.ece",
+  "ts": 1795498248,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "logistics"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.043
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "IRDAI Reconstitutes Insurance Ombudsman Advisory Committee for Two Years - TaxGuru",
+  "text": "IRDAI Reconstitutes Insurance Ombudsman Advisory Committee for Two Years TaxGuru",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakViZXZnczFuYmJ5X0UybGJUaElaTEpLdmhJVXQ1NWxKODJYVENKMzMxUnlCMFRHaWY5RjFIdjhEWmdTS2hfV1ZPR0dZenZvWVF6MEdRcjlEcFpnX25WeWkwRUt4S0dfbk9hV3g1NGxtZDZ5X3RVbWl0QXp6NlYzTGtxMUdVMmVoLTB6d0xFSUZxX3c1NmhXM1dFcW0xcVh3R0M4Qg?oc=5",
+  "ts": 1795513825,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "insurance"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.987
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "SEBI Amends The FPI Regulations To Transition Fees To Indian Rupees And Streamline Registration Requirements - Legal 500",
+  "text": "SEBI Amends The FPI Regulations To Transition Fees To Indian Rupees And Streamline Registration Requirements Legal 500",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUk1aUDNhWEcwVTI2TDhNbGZ5ajlBcUlVSDFVQmpPQTNYVnBmT1hPNE15azBwczdQcm1tQ2ZKcFJrUEZ4eUIwbDRYTTZ5RzBHekZGNFlYb1ZJQjRHckFBcTEyNWktNzd1TTN3S3U0RVV3ZzU0Ni02WGpadHJRNG5oWHZXeUxBaVIxTFJtY01xelg0NFhkMmhGOWV5aFI1RW04d2ttdzQxM0gtbTltSWMwclZFTkg5RFZCRm9Ed09ZSTVGcWxnZ2ZsMnduYWZHUE4tMFE1ODVlc2pLR0JuZXFESVJDQUVCSGZucEdvWVZzdzVBVk5UY3JyUFZNb2RtaG9kVXVFbmROU20?oc=5",
+  "ts": 1795509035,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "stock market"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.943
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Foodlink F&B Holdings India's Rs 361 Crore IPO From Nov.26 - Deccan Chronicle",
+  "text": "Foodlink F&B Holdings India's Rs 361 Crore IPO From Nov.26 Deccan Chronicle",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSG9OVWl0YzZid1VNQWNmTmNVNGRoZFRydjRrcGJjS2xxMW9vb1dRVG92TmEtWmZocEdlamZGRDhzRGxZUEg0MFpoQU1QVU9wbGxUelJSTkthMmVJcGx6TWtwVGFKd0lwN2pvR1BiMm4xeGVPLVh3U0NOSHZsSEJLaGtyUkdTZkVaYmlLVERoMHlTVDVibVVtSjlaOE5rZV8tczdpM053aEZpR0NMMWZ5aHQzd0hmUdIBtgFBVV95cUxQSG9OVWl0YzZid1VNQWNmTmNVNGRoZFRydjRrcGJjS2xxMW9vb1dRVG92TmEtWmZocEdlamZGRDhzRGxZUEg0MFpoQU1QVU9wbGxUelJSTkthMmVJcGx6TWtwVGFKd0lwN2pvR1BiMm4xeGVPLVh3U0NOSHZsSEJLaGtyUkdTZkVaYmlLVERoMHlTVDVibVVtSjlaOE5rZV8tczdpM053aEZpR0NMMWZ5aHQzd0hmUQ?oc=5",
+  "ts": 1795504917,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "stock market"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.905
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "ESIC’s Amnesty Scheme 2025 Extended Until 31 December 2026 - www.pib.gov.in",
+  "text": "ESIC’s Amnesty Scheme 2025 Extended Until 31 December 2026 www.pib.gov.in",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNnk3cDBHeFA5RHQtQmljTzU0R3d2WXJiWmtvR2hzQjFTclpzeG9ka0stTDVnNS1jaHVzZmIxdV90V2lseW1ObWNIX1dRb04yeTJVTnhLaFUwQ0VBYjFxY21QZklObDN2?oc=5",
+  "ts": 1795503060,
+  "engagement": 0,
+  "label": "",
+  "sectors": [],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.887
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Korea’s crude oil supply remains stable despite Middle East tensions - Korea JoongAng Daily",
+  "text": "Korea’s crude oil supply remains stable despite Middle East tensions Korea JoongAng Daily",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSF9VZ2s5aVNOTlBzQ2pZQ1N3VHhjd3Zlb1BGMDFoX3RoMkRrNlkwU2d0WFdCbExFTS1veU44MDFSUHNKc2ZMYm1aMk5FbTlMa0xKR0NJZVE3LXlDVWZKN183b1VLdmZXNUpqUzF2bUdUaEVzaEFDRkxBaXJ6UVJ3aGNJSUtUeHdIdzBKY1BFck1MZ01UMS1vV2xxQ09RU2g4anh0d1Y3U3A0UTU2OUN5MnZFdmJQdnMtNy1lbw?oc=5",
+  "ts": 1795498820,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "oil & fuel"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.848
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Cabinet approves Emergency Credit Line Guarantee Scheme 5.0 - pib.gov.in",
+  "text": "Cabinet approves Emergency Credit Line Guarantee Scheme 5.0 pib.gov.in",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96VHFLSHRXSFFHamZQdVoxRnpKN3FBQmdaYWdGaHFvYkpFY2FiWWVEQ1k2RzNzNjlwWU9IWl9hSDVjVkJMeEFZVFBZcWJZUTdkVkNISGZFZVhEcHo5NncyOTJOT3dfQjFuekE1U2xaWE9yTlZkVGd4YjNBNW9ZZw?oc=5",
+  "ts": 1795497540,
+  "engagement": 0,
+  "label": "",
+  "sectors": [],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.836
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/US",
+  "title": "Huang reinstatement points to developing crisis at the heart of the AI bubble - World Socialist Web Site",
+  "text": "Huang reinstatement points to developing crisis at the heart of the AI bubble World Socialist Web Site",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KZHliV2hSQ0VfNlY2SzRFVkpHMHJnbzRsOWJMNU4wTWRtMWNQRzJfYW5UTWh4ZXZaQ2VGVzJuMkVicTBTRmc1ZjVENmZZWUt3MlA5RmZTTWxkQzVJLUZuRk5vbURsZUxM?oc=5",
+  "ts": 1795493120,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.795
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India may import 2 million tonne of sugar to bolster domestic availability",
+  "text": "Production likely to be 27.5-28.5 million tonne in the 2026-27 season, while closing stock at the end of the current season is estimated at 2-2.5 million tonne",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/india-may-import-2-million-tonne-sugar-to-bolster-domestic-availability/article71734268.ece",
+  "ts": 1795448955,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 2.586
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
+  "text": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5",
+  "ts": 1795470305,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.584
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "High cost of US gas makes Indian urea production 47% costlier",
+  "text": "Industry hopes the government will import more of the fertilizer in addition to the 7.2 million tonne shipped in till October",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/high-cost-of-us-gas-makes-indian-urea-production-47-costlier/article71734832.ece",
+  "ts": 1795447606,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 2.574
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Pilots body questions DGCA’s selective action, seeks enhanced oversight of SpiceJet ops",
+  "text": "The pilots association said that the regulator vigorously enforces rules concerning notice periods and NOCs when pilots seek to leave an airline",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/pilots-body-questions-dgcas-selective-action-seeks-enhanced-oversight-of-spicejet-ops/article71735449.ece",
+  "ts": 1795447398,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.572
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "New tur arrivals begin in Karnataka, Maharashtra",
+  "text": "Drought likely to hurt yields, shrink the crop size in these major producing states",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/new-tur-arrivals-begin-in-karnataka-maharashtra/article71735238.ece",
+  "ts": 1795446228,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "weather",
+  "pain": [],
+  "score": 2.561
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "How SEBI Writes People In and Out of Power - BW Businessworld",
+  "text": "How SEBI Writes People In and Out of Power BW Businessworld",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUkyU2tzTmNpWDZiNmR6VGJBUGJ2RzBWYmNzT3NvbXBWa1Zta1hGOVBoQVlacHN5a2tFOGtEWWZWekp1cEVrVm5sbHR4X21aZXh6VzhkbTZZd0EwUXdPVWJGZl82bi1sRVVkVDFqaWpxMDVyY1ZBYmpJem16MlFfdWh1UDNaV00yQmxzbWNDOA?oc=5",
+  "ts": 1795462205,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "stock market"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.509
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India announces $1.63 billion package for Nepal, marking PM Balen Shah’s visit",
+  "text": "Modi says assistance will support reconstruction, create new opportunities; eight MoUs signed in health, traditional medicines, satellite communications, livestock & fisheries, sustainable urban development, among others",
+  "url": "https://www.thehindubusinessline.com/economy/india-announces-163-billion-package-for-nepal-marking-pm-balen-shahs-visit/article71734309.ece",
+  "ts": 1795439183,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "healthcare & pharma"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.496
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "EUR/INR 101.6395 — -4.36% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795515214,
+  "engagement": 436,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 10.36
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "USD/INR 92.92 — -2.13% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795515214,
+  "engagement": 213,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 8.129999999999999
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Kolkata — PM2.5 daily mean up to 154 µg/m³ (3 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795515214,
+  "engagement": 3,
+  "label": "3 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 8
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 147 µg/m³ (2 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795515214,
+  "engagement": 2,
+  "label": "2 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 7
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Delhi — PM2.5 daily mean up to 146 µg/m³ (1 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795515214,
+  "engagement": 1,
+  "label": "1 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 6
+ }
+]
