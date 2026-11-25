@@ -1,383 +1,395 @@
-# Opportunity Radar digest — 2026-11-24
+# Opportunity Radar digest — 2026-11-25
 
-Generated 2026-11-24 10:15 UTC · window 30h · collected 1154 → 741 new after dedupe → 60 selected
+Generated 2026-11-25 08:59 UTC · window 30h · collected 1198 → 789 new after dedupe → 61 selected
 
 ## Source status
 
 | source | items | status |
 |---|---|---|
-| Hacker News | 170 | ok |
+| Hacker News | 164 | ok |
 | YouTube | 0 | skipped (no YOUTUBE_API_KEY secret) |
-| Google News | 712 | ok |
+| Google News | 779 | ok |
 | Google Trends | 20 | ok |
-| RSS feeds | 87 | ok |
-| Policy & economy news | 82 | ok |
-| Policy feeds (RBI, ET, Mint, BusinessLine) | 78 | ok |
+| RSS feeds | 84 | ok |
+| Policy & economy news | 84 | ok |
+| Policy feeds (RBI, ET, Mint, BusinessLine) | 61 | ok |
 | Weather (Open-Meteo) | 0 | ok (15 cities checked, 0 alerts) |
-| Air quality (Open-Meteo) | 3 | ok (15 cities checked, 3 alerts) |
+| Air quality (Open-Meteo) | 4 | ok (15 cities checked, 4 alerts) |
 | Currency (Frankfurter/ECB) | 2 | ok |
 
 ## Rising terms (today's mentions vs 7-day daily average)
 
-- **stock** — 11 today (avg 0.0)
-- **game** — 10 today (avg 0.0)
-- **board** — 9 today (avg 0.0)
-- **less** — 7 today (avg 0.0)
-- **six** — 7 today (avg 0.0)
-- **small businesses** — 7 today (avg 0.0)
-- **onesafe** — 7 today (avg 0.0)
-- **sentiment** — 7 today (avg 0.0)
-- **consumer sentiment** — 7 today (avg 0.0)
-- **gulf** — 7 today (avg 0.0)
-- **gulf business** — 7 today (avg 0.0)
-- **early** — 6 today (avg 0.0)
-- **approach** — 6 today (avg 0.0)
-- **agentic** — 6 today (avg 0.0)
-- **returns** — 6 today (avg 0.0)
-- **faster** — 6 today (avg 0.0)
-- **put** — 6 today (avg 0.0)
-- **projects** — 6 today (avg 0.0)
-- **smartphone** — 6 today (avg 0.0)
-- **journal** — 6 today (avg 0.0)
-- **expand** — 6 today (avg 0.0)
-- **duty** — 6 today (avg 0.0)
-- **increase** — 6 today (avg 0.0)
-- **reviews** — 6 today (avg 0.0)
-- **insights** — 6 today (avg 0.0)
+- **confidence** — 19 today (avg 0.0)
+- **consumer confidence** — 17 today (avg 0.0)
+- **msme** — 10 today (avg 0.0)
+- **close** — 9 today (avg 0.0)
+- **hub** — 8 today (avg 0.0)
+- **gas prices** — 8 today (avg 0.0)
+- **xai** — 8 today (avg 0.0)
+- **industrial** — 8 today (avg 0.0)
+- **behind** — 7 today (avg 0.0)
+- **shein** — 7 today (avg 0.0)
+- **global market** — 7 today (avg 0.0)
+- **epochal** — 7 today (avg 0.0)
+- **pakistan** — 7 today (avg 0.0)
+- **analysis** — 6 today (avg 0.0)
+- **image** — 6 today (avg 0.0)
+- **open source** — 6 today (avg 0.0)
+- **aeravti** — 6 today (avg 0.0)
+- **aeravti ventures** — 6 today (avg 0.0)
+- **million seed** — 6 today (avg 0.0)
+- **unveils** — 6 today (avg 0.0)
+- **solar** — 6 today (avg 0.0)
+- **expansion** — 6 today (avg 0.0)
+- **shein pay** — 6 today (avg 0.0)
+- **size forecasts** — 6 today (avg 0.0)
+- **forecasts global** — 6 today (avg 0.0)
 
 ## Pain-point signals (people describing a problem or need)
 
-**[P1]** Ask HN: Anyone know someone at GitHub to help expedite a support request?  
-_hn/ask_hn · 1 pts · 0 comments · pain: is there any, frustrating_  
-Background: I've been working with a new company to help deliver a project. I got set up with a Google account for them (so I have myname@example.com), and I created a new Github account to associate with that email, and connected everything together. For the first week everything was fine, I was…  
-<https://news.ycombinator.com/item?id=50618910>
+**[P1]** Launch HN: Versine (YC F26) – MCP to send and receive money  
+_hn/front_page · 84 pts · 69 comments · pain: frustrating_  
+Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and…  
+<https://news.ycombinator.com/item?id=50634426>
 
-**[P2]** Ask HN: Is there a way to get a human at OpenAI support?  
-_hn/ask_hn · 3 pts · 0 comments · pain: is there any_  
-My previous work ChatGPT account got banned when the employer did a charge back on a six months worth of ChatGPT Pro. Because I also linked my personal accounts to it I seemed to be banned across the board. Is there anyone at OpenAI who can help get my case looked at?  
-<https://news.ycombinator.com/item?id=50620290>
+**[P2]** I got $487 MRR in 3 days with zero ads. the exact distribution process I used  
+_hn/ask_hn · 1 pts · 0 comments · pain: struggling with_  
+A few weeks ago I launched a product for accountant, to get easier the info of clients. No audience, no ad budget. no knowledge about accountant or similar arguments. Here’s what actually i did to get this numbers (487 are low, but guys in 3 days is crazy i think): 1. Where I posted sub-reddit, x,…  
+<https://news.ycombinator.com/item?id=50635126>
 
-**[P3]** Ask HN: Can I map all the arguments in a topic to "approach the truth"?  
-_hn/ask_hn · 1 pts · 1 comments · pain: is there any_  
-Hi HN, I wanted to take a stance on these topics people have been arguing all around. There should be some sort of answer, right? I used to go to debates for that end. But I often only see the repetition of the same points, the hardest objection being dodged, etc. I tried AI as well, but it only…  
-<https://news.ycombinator.com/item?id=50620275>
-
-**[P4]** Show HN: Outloud Reader – photograph a page and listen to it phrase by phrase  
-_hn/show_hn · 1 pts · 0 comments · pain: waiting list_  
-Hi HN, I built Outloud Reader, an iOS and Android app that reads any page aloud. You take a photo of a page, open a PDF, or paste text, and it reads it aloud in a natural voice, highlighting each phrase as it is spoken. How the idea was born: My wife has been learning English for many years but…  
-<https://news.ycombinator.com/item?id=50622161>
-
-**[P5]** Show HN: Tripup – Type words not in a text corpus as fast as you can  
-_hn/show_hn · 1 pts · 0 comments · pain: struggling with_  
-This is a fast typing word puzzle game meant to make you think about what words might not ever have been written (or said) in some long or famous texts. You can combine texts for a harder challenge, and when you're done you can send your results and the link to your friends if you'd like. I'm the…  
-<https://news.ycombinator.com/item?id=50620993>
-
-**[P6]** PURC resolves 91% of 1,300 complaints, facilitates replacement of 33 transformers in Bono - Asaase Radio  
-_news/IN · pain: complaints_  
-PURC resolves 91% of 1,300 complaints, facilitates replacement of 33 transformers in Bono Asaase Radio  
-<https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3RCZkJfQm5TMDVPSlBPYzFrY0tLeHFxNnYtdWZuSExrQ0JIMHVsLVFTcWI1cGhYbC0tSWNrYUYtY0dfRTNFRk9RR1dWUUNnLTA5dmdBcEtIU3VIZ1VpOXNYR2d5cUFIQmJtdk9OUDhBbFIyVlhiTkxNRHlaVy02M0JSS1daNjJEUVczX0g0QU1JeUJFTVlOaW9tRk1ORTk2TTdycEtobkowdkJqaTlVTA?oc=5>
-
-**[P7]** Competition Complaints India: Which Forum to Use - Global Advisory Experts  
-_news/IN · pain: complaints_  
-Competition Complaints India: Which Forum to Use Global Advisory Experts  
-<https://news.google.com/rss/articles/CBMinwFBVV95cUxONS1nanZrRDBPNnZXWGgycnBua2ZqMzJVRnFfcjNWRm0xRUJxM1lvQjlXTVlKZ1pFQVlLUEo3WXRsQ1VIUThFY29lclhiMTlpSGVIQWdQUXJfdDF6R3ZyMXpFd0hlXzNRb09JRjBDdy0zeS1jVHZNNUJaZ3prTXF0QTF3UXpPUmNIS3NTUk9UT3JRVHRoTDVQN0o5WWMydGc?oc=5>
-
-**[P8]** Let Property faces unprecedented complaints over buyers’ premiums - SSBCrack  
-_news/IN · pain: complaints_  
-Let Property faces unprecedented complaints over buyers’ premiums SSBCrack  
-<https://news.google.com/rss/articles/CBMilgFBVV95cUxNajhxUVh1VmFjZ3VFbUJIeVY3MWthQjREaWhrWEFuWDVNNF9JU1dxMW5fZGIxdDJWQ0RXZTY0Q0JPY2QtUGVUaW5NTEZ0dHp3TlNjMEhaS2h4ay12Q2ZKQ19xYnB6NldmaTBhOVFoT2hISTY3cTFMb2tlS1RqcnFhdVZDZmtaeDBwZDFlQzUwc3pZdUNscUE?oc=5>
-
-**[P9]** Let Property ordered to repay £277,725 after Sales complaints - شبكة تواصل الإخبارية  
+**[P3]** Shein to pay $100m over misleading cotton claims and customer complaints - Retail Gazette  
 _news/US · pain: complaints_  
-Let Property ordered to repay £277,725 after Sales complaints شبكة تواصل الإخبارية  
-<https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hZlZ3Uzl3OUVyQXNJRS1BUm5lemVZcW9PUTdsTjcxakNWOWh6YUI2bmxxUXlPX2ZpMHpoVjNFTDFKWFpycEJHTE8tdmV2dW9PcEs4?oc=5>
+Shein to pay $100m over misleading cotton claims and customer complaints Retail Gazette  
+<https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZHVNN0E1VWRUSHhVcm13RUdpcEdwTjhfUnlFd3llNEN2bVEwM0pqUUlQNEJLVHdlSVFuNUh2aW5uVVVkWlVsdGp2RkFPMXlNSGg5SnJvOE52UlNPcjY1Mzh5aXozajE0QUtOclI2eDQ2UTcyZUZVZlhJdnc2Ukg2UEszdDluZ1BCbzN6Rm5tR2ZRTEFYcG9BUUkwTjFoRFpWZ0dnQjdRcnE0MUs1YlJJcFlKUkxlckFX?oc=5>
 
-**[P10]** PCB Orders Surge 56.1%: Why Is the AI Industry Chain Still Facing Circuit Board Shortages? - 36Kr  
+**[P4]** Construction industry labor shortage: A challenge for contractors. - Vietnam.vn  
 _news/IN · pain: shortage_  
-PCB Orders Surge 56.1%: Why Is the AI Industry Chain Still Facing Circuit Board Shortages? 36Kr  
-<https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ra0YtRThNRGNUdDRaN041Y0dGVUVCNkswNmlSb3IzMnpCMWxYX0pHdmJfQzRxQnJxYWxNQUM4MU5jT3dpUlRkWmxMV1pIVzRVYXNv?oc=5>
+Construction industry labor shortage: A challenge for contractors. Vietnam.vn  
+<https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWtCMGtCS0NKVF9kVEFXMzVtRzduVDhiSGYzaldaV0ZwMFF4aVljVnBRMktnYWlaWnJiM1NPVjhrMVJCZzA3OFZJWEllRFIyTFZhZUJCZzY1X1BhLUpINThLVV9qMmo3RkJfMlpPYlo5WjdLR2ZxanpTbUxhdWVCNlB3NDh3cllk?oc=5>
 
-**[P11]** Phytomem ONE Reviews and Complaints (2026): We Tried It Consumer Report - MyPhone.gr  
-_news/IN · pain: complaints_  
-Phytomem ONE Reviews and Complaints (2026): We Tried It Consumer Report MyPhone.gr  
-<https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzM1NBeUVkSFgxUFo2UW1EVGo2dE9IY2JZeHZZbDVsajJMMURTeGRxZWxNX3EtTW53UlRtY1pOS002Yk16M3ljOHFSd0tPcmM?oc=5>
+**[P5]** AI data center shortage presents growth and balanced development opportunities for Korea - 머니투데이  
+_news/IN · pain: shortage_  
+AI data center shortage presents growth and balanced development opportunities for Korea 머니투데이  
+<https://news.google.com/rss/articles/CBMia0FVX3lxTE9lOGhiNTNpVG5rM0ZIZEh1dmV2VXMwZ25ka09XS3oxdFFnTGhKamlqcDAtamkxUnhFM2ZaRGlUTkFXa095RVVtZ0NyWnFMejNLcURmZEExVkw1a0lIOXB6TlVWV05fZFp0Q3VZ?oc=5>
 
-**[P12]** KatuSharp Reviews and Complaints: Is the $99.99 Rolling Sharpener a Fit for Your Knives? - Newswire  
-_news/US · pain: complaints_  
-KatuSharp Reviews and Complaints: Is the $99.99 Rolling Sharpener a Fit for Your Knives? Newswire  
-<https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXVoc2R4dHl4czdBSTBFdEhnOEl5Vm5QNEVlNy12OVZ3NnlpQ1ctb3M1ZDRDQ19hVFJ1SV9RTGxwUHBpeVRHX1BiZmpzVEFfTVZPa05FNEVZaDRRNHdlZ3dsRGVEVGY1bGt6SlEtUE51bmpLQVFVaHZ2T19rQzlBbzdiNmtBTXdZN0x4WGFhNXJVMTlJcm9xSWVOV3lTcTBaX0piY0hKTzJmblow?oc=5>
-
-**[P13]** Kenjin Titanium Cutting Board Reviews and Complaints: A $59.95 Upgrade From Plastic? - ACCESS Newswire  
-_news/US · pain: complaints_  
-Kenjin Titanium Cutting Board Reviews and Complaints: A $59.95 Upgrade From Plastic? ACCESS Newswire  
-<https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdl9lQ3dPU0xBSjZVTzJYUDEwZkxXQTZtUG9yM2diSm5GTlREVHd3elpoS1Y4U29jSzRwbWlfWGlZdlRmc0tYUjdpSmZiYWl2eTBpcFNmb3o1MkpOZHd6a0dySXY0TGprZl9sRFhZTUFzUl9tbldGc0RPWFdwMUl0cHJSb3RLcjdjMUFEOExSYVdOVXNCYjlEa3QyZkcydi1jOGdaYWZscE9nLWtHdURMRFZkUXl3LWRJV3FENEtQZmMyT3Etd2hoc0VYSm9ReUVqU09fZG9YbGlUWkdvRFZHLWQzaWc?oc=5>
-
-**[P14]** Crystal Vision Glasses Reviews and Complaints: Still Swapping Glasses? Inside the $39.95 One-Pair Pitch - ACCESS Newswire  
-_news/US · pain: complaints_  
-Crystal Vision Glasses Reviews and Complaints: Still Swapping Glasses? Inside the $39.95 One-Pair Pitch ACCESS Newswire  
-<https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2UxeFQ1RkNDTkcxWHVPbi1wSDltbW5jMDE3V3lLdV93REg1NUFSSGhtQmFmZ0t2TzV5blRJYnN2SmNmZVZTa0JlZVNwZTJDQzV1MV9wUzJ3eFV2dExkdEplOEo1cXlrWXpNMGVpaElCQVdQbDRRd1RsVUs1MldLNjhIZWlTTThqaklLbmhpWXpnM1ZOUEdLcXRMT0l5dmN4czVVbWFtT2ZYbkxPUWF4dG9tbW5HeUx2czVEZUVSdGY3V3AyOW5feTM1TXluQlh4RDBMZ2ZYM1U4bkJOU0xkUXlhRTc?oc=5>
-
-**[P15]** Maryland Reviews Car Insurance Rates Amid Complaints - Wisevoter  
-_news/US · pain: complaints_  
-Maryland Reviews Car Insurance Rates Amid Complaints Wisevoter  
-<https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlotdTZCQ1VmRWJjVmFMUnNqYm5YeFZxcnlKSEM0WGpKSHp4dHM4cEg0OFNQdFhOVFRwa2hhVlBuUzZfT05PUGd2OFUwTjRoSUl0Yjg2Njk5clROUEdrZFp5YXItR1pXMktSNEtRR3NuNFpDc1VtdnJVcHgxLWVHc3Q2b2owNzF4cjFubUpyeTRZaDNlZ2hB?oc=5>
-
-**[P16]** Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux  
+**[P6]** Calculate how many mesh radio nodes your city needs  
 _hn/comment · comment · pain: wish there was_  
-It sounds like a cool idea, at least the way OpenAI presents it. However, going to the page and requirements, I have to nope out. This basically requires a full measured boot setup (TPM2, unified kernel image etc.). This is definitely not a simple "vibe-code your patch" platform you can deploy in…  
-<https://news.ycombinator.com/item?id=50622142>
+The radio situation in the US seems - in my opinion - to be trapped between the over-regulated/licensed HAM space which forbids encryption/private comms and LORA which suffers from the "tragedy of commons" noted... I wish there was spectrum that could be used for private long-range that would be…  
+<https://news.ycombinator.com/item?id=50638718>
 
-**[P17]** 7 Frequent Customer Complaints About Arby's Roast Beef Sandwiches - Tasting Table  
+**[P7]** Consumer Council urged to improve complaints handling - RTHK News  
 _news/IN · pain: complaints_  
-7 Frequent Customer Complaints About Arby's Roast Beef Sandwiches Tasting Table  
-<https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW1qSDA0bF9OMUVjTW12M3NqQzFVdm84c01fMlhWczBKajFGdm1PMXBVWkZZT2Rsak9WZExjc3Q1cFcxeUdrd19sN1JObXpHTXdEMlZacTFGYzlqT1pVejR2aDB0bjFBdjlNZXlCaHNaMkxQVDczTXlnY1c3dGlsODNDalAwYlFpNVhWbm13?oc=5>
+Consumer Council urged to improve complaints handling RTHK News  
+<https://news.google.com/rss/articles/CBMib0FVX3lxTE81cDk1YUNQU1hDbDBEOWprbDd6dU1xUkxIQktEbVZZTDczSzJUdFJuTjF3WGF4SE9ER1JqMEk0NUQwaUEwTzVOSUxKeUkydS1TUXM3WFdITTlRdmZSNUNUYy05UVpSOVd4RHo4MmJ1bw?oc=5>
 
-**[P18]** Complaints Against NYC Construction Labor Brokers Are Rising. Workers Say Abuse Continues. - Documented  
-_news/IN · pain: complaints_  
-Complaints Against NYC Construction Labor Brokers Are Rising. Workers Say Abuse Continues. Documented  
-<https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9CampUOFJ2RzJhY0VVamI2X3pXVkswYjRqOTJwTGFSd2JPQ1BMU0xaSTZReFNRMTR6b1F3dEwtRVBNNjBpbklKYmNRNzJyWlYyVWpLQkpwVHhVVTY3V3BqeTViV2g5bDEzQk5qQWVENnV0LTNhbkd3QVpFeVM3cF9tRE8?oc=5>
-
-**[P19]** Boltz Retro Device Reviews and Complaints: Want Classic Games Without Wi-Fi? Compare Standard and MAX Before Ordering - Newswire  
-_news/IN · pain: complaints_  
-Boltz Retro Device Reviews and Complaints: Want Classic Games Without Wi-Fi? Compare Standard and MAX Before Ordering Newswire  
-<https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDJfLUppRVREZ3NWcU9KWkZRdjB6TC1tc2dsU0tiZWliYUFtWG0zZVZPSzdPQXo0ZXdBYWQ0THRfUTJfQnJMWWRHOGJqZDhCaXp2bnhXV2stenpFRWlKVzI4RkpCaWp5WnFhOVc3dlRQRVBjWEh3bXhrN2dfNWZ4VXBNRm5oRE5OekRra3BZMVM3amFja0RoYzE0aGpIbU8zXzFvVENlbw?oc=5>
-
-**[P20]** A desert city’s quest to curb water waste and lower bills as shortage looms - Boston Herald  
+**[P8]** Micron Stock Price Forecast: Stock May Hit $509 as AI Memory Shortage and NAND Price Cut Expectations Coexist - TradingKey  
 _news/IN · pain: shortage_  
-A desert city’s quest to curb water waste and lower bills as shortage looms Boston Herald  
-<https://news.google.com/rss/articles/CBMif0FVX3lxTE5ldXhTSHltNnlYZ3kxNW53OTg1Xy1DSWhzSnV3bm4yMTBTVnJBUFd0MTJFcUVfb0lIOXcwYjAyTmVjTExTOWlPZEMtWmxVejhWT2w5STQ3TGgyOUhUTDhuaHFOVEpDaGdPRElmcTRQX1JFY3IwanRQaTIyMEhaWUU?oc=5>
+Micron Stock Price Forecast: Stock May Hit $509 as AI Memory Shortage and NAND Price Cut Expectations Coexist TradingKey  
+<https://news.google.com/rss/articles/CBMixgFBVV95cUxOR180dnJDa2VOSTVDWTRmcEdIU1o0cHRNVkliVXVObEtIc0N2Ull0VGlncGZmNW83ZHlYRkxQVkUyZnhEdHdDdm1udDBNa0hNVnR0ZDRIUzJxTnJaMDFPcmh2UEFrTUc0bjVCcTlKaHB3SW5RX0Ruakw2VkpVdWJaNm8xcUdNeTNWMDJPZGE0eTFUSHV6ZlFrcDlWZUIwNUV4MV80d0p1Z0tGYWdxY04wMEotaXduY1RFTG9ERjhmOHkxQVZ0LXc?oc=5>
+
+**[P9]** Inflation rises more than expected in 'RBA's worst nightmare' - ABC News & Headlines – Australian Broadcasting Corporation  
+_news/IN · pain: nightmare_  
+Inflation rises more than expected in 'RBA's worst nightmare' ABC News & Headlines – Australian Broadcasting Corporation  
+<https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTdQVVhHalgzTE5NNWNxUE9hajBfQmpLM2hWaHBlMzhGLUtOR1dZaW9XeWNkaGgtdDlFNjdaU2g4TzRUcmxfNDEtc2xUTUZiVXY2WGYzQW9WZ2RqNTR4TlNpeGtJeC1XRWRMdERCYU9STS15UUpjR2hzcC1GaGFoeHp1MUtEUnNwNGpVZFRHbw?oc=5>
+
+**[P10]** Renewa Micro-Infusion System Reviews and Complaints: What About Published Microneedling and Peptide Research? - Newswire  
+_news/US · pain: complaints_  
+Renewa Micro-Infusion System Reviews and Complaints: What About Published Microneedling and Peptide Research? Newswire  
+<https://news.google.com/rss/articles/CBMipAFBVV95cUxNTC1xU3BPallpRkZEOFdLUThxTFIxTXlCLTRCN3hHc081emJPN3dUajBZSWVIRjl4YjlCSFpUT29kWUxvakgyZG1zdlY5NTlfSEczYkNwS2JkX1FRQmd5cjVDejFVRlYzVWV3dnpVNlVJSEo2QzBMYmVRUWVZTkFpY0tKaTRPV0FPTUhQUzg1QU1odnRUSzl5Y1NObTNOeEdmY2Jmeg?oc=5>
+
+**[P11]** Shein to Pay $100 Million Over Customer Complaints, Cotton Sourcing Claims - WSJ  
+_news/IN · pain: complaints_  
+Shein to Pay $100 Million Over Customer Complaints, Cotton Sourcing Claims WSJ  
+<https://news.google.com/rss/articles/CBMirgFBVV95cUxQMW9TcFJqTVZnc2dHLWhGZjBWZ0RsN2FpRTZleGM1UWhvWmtpVkZsc2QzYmZXUFBZSmI3WXY1dVBmYlVPQkZFTlRlZmxiUnZ5Z1ZOSnVLeGZUbkFXeG02WVVrV20tY3hGcEsyQkxkd0wwRno3SXJxT2hJaXlFZDZBdFM0UU5EckhJY0l0YW12WW5CRGJQRUxXNmFIWVpaa2hjLUh4Zzg0MzNNU2lNbHc?oc=5>
+
+**[P12]** Klajdi Tozaj: Complaints in "Alert", 84 out of 120 of them have been resolved - Balkanweb.com  
+_news/US · pain: complaints_  
+Klajdi Tozaj: Complaints in "Alert", 84 out of 120 of them have been resolved Balkanweb.com  
+<https://news.google.com/rss/articles/CBMipgFBVV95cUxOcko3VHJOd0hmTzIzZWtwNS1Xd1JiMUhoS294aEcwdW5mVVlMWmhvbkd4aDFxV1VpUVcxREtkd2h1SE9NaHJNWWR6dWhmempXblBwS1podk1tYjVwUmd3dmZ2eFp4TUZPSG0xb3JXYjBpdW1LdHJBMVh0a2R0U3hnOEdfbkZIcW90T3Z1RUpzT0FfbjFpUlNIMnFpaFl1dm9uQUE4SDVn?oc=5>
+
+**[P13]** Consumer Council receives 12 complaints about bed bugs in accommodations across Fiji - Fijivillage  
+_news/IN · pain: complaints_  
+Consumer Council receives 12 complaints about bed bugs in accommodations across Fiji Fijivillage  
+<https://news.google.com/rss/articles/CBMivwFBVV95cUxOR252YTVHVGp2MTNSem9zUDRtSVdIaGJaSTI2YklQNVRvX0FCbjdHbVF0cHdRd2psT3JULU5KeFlVOFA3NTlOeDhzZWhUeXlhVk11aG9kSGRidl8tQ0VZZzY5NFZ0RjhFd0xEci1qRUMxSTFlODQ2ODBYYURfTF9wQmU4S19NNmNOdHdEcWRtNG5URURkUlNZRUlWUEhXNWZiQ1dSek40N2toQlNmM1dIUkVvZXExZE10X3BvWGxvYw?oc=5>
+
+**[P14]** GTA VI hype drives console sales surge and shortages in Lithuania - LRT  
+_news/IN · pain: shortage_  
+GTA VI hype drives console sales surge and shortages in Lithuania LRT  
+<https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFpzbTBqY1g1REtPckt5LU03eTZlWExOY3JiajhqVUVnN292bGloamtsVVpCZ3VDX3Q1ZURRb05TXy1TcTN0U09BMVY3elZrM2g2Z19zcDF3OWhEb2JyZGZ6VzltRXZLU3pCeTcyNWVUV1N4N1RLZXZ0dGhBUndvZ2NZNG9icHo0ZW80dXZFcXhFVGRlZVFLSFVGeExxbUZXWGFyRXhVX3psazBudngtZWJQR3U?oc=5>
+
+**[P15]** CASE receives 168 car-sharing complaints in first 10 months; three operators accredited to strengthen consumer protection - 联合早报  
+_news/IN · pain: complaints_  
+CASE receives 168 car-sharing complaints in first 10 months; three operators accredited to strengthen consumer protection 联合早报  
+<https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRHFzQUR3NzlrYXZJal8wT1JtY2I4YV9ULVhIRWZuYThqS1ZkLUtyMS1fanRpM01IUFhvRTJNcE9PWVBQcDZpRUpQTnRKbGt4dzdST1pEUUthWVZaeEQyVGNFRzQzOEUzaXczTEVrRm1UQXJBYk9KaUhaT0VjN2pkQnJ2SXNTZDZOdDZMcHVTd1hFNTNpMTdJS2VhZEVhdUNtX1h3aVBHdFljdEFJS0ptWXQ5NU9teDJGU1VOZVlWSldWM3pad3RtM2laWlpoSk9sS0JRQ3hwbWZEby1kVHlSZmxOQW5sOGpRZjZGMFJyaWc?oc=5>
+
+**[P16]** Finance Talent Crisis: 57% of Professionals Demand 10% Pay Rise Amid Severe Skills Shortage - FF News  
+_news/IN · pain: shortage_  
+Finance Talent Crisis: 57% of Professionals Demand 10% Pay Rise Amid Severe Skills Shortage FF News  
+<https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWZzam1TbXp6aXBpVmRoTEthU1JBRVNTb3laUmlyUGV6Q2FHS1gxOFlBNDlIRkw0NkZzLTZmS29fMThFV0dHMmY4cUhYUHBPSXFWYkFleEhJME5ySjdlcTZqOXBtR3RaUVd6QV9UUjA4dG5wSmoyU0xZSXlhTlZ3LUt0ZU9neW5abHV0dkpHSlkybWViNnFkUEVUWlJqWnRSODQydnRITmdUT2xIRndoYnFyTQ?oc=5>
+
+**[P17]** Switzerland Continues to Tap into Its Aviation Fuel Reserves Due to Supply Shortages - blue News  
+_news/IN · pain: shortage_  
+Switzerland Continues to Tap into Its Aviation Fuel Reserves Due to Supply Shortages blue News  
+<https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkpVQWU3M29sY0hjNjFhaElWUTFZRUJpa2IwQWIyalVoOExKSnJtXzRzRktNQlVMNzdoSGo5SFZFNUs2REMwdzdQT05MSWZIYnNXd2ZsekNnZGJsMWVLcU9KZVJIN2xEcF9rRUxESURUVXNhRWV5bzlRNXUtcjFUZGxZTU1FbVBya2VUS3lHVVgydXh2UzZhZEpPT3ctYXhSaWkyY2tDRzRlNnI2eWMxeC12THM1SVhhbDZuaHZDb2d4LWs4?oc=5>
+
+**[P18]** Synchrony Store-Card Complaints and Lawsuits: RI Guide - Uprise RI  
+_news/IN · pain: complaints_  
+Synchrony Store-Card Complaints and Lawsuits: RI Guide Uprise RI  
+<https://news.google.com/rss/articles/CBMitAFBVV95cUxOU19JU1pRZk9nSlFlUnFCTU9IVTdvRFdsWU91MU1icGV3WHFXWVFCQjc2VDVCRWIyMWlvQkdxdVdFbGg3OFU3bGg1Z01YUTBZNnF2SGtPMmhmdEVjbUx4ZlJqZGhVd0tPSTZkZEgzTGE5UXZJRWcwUnNkbWJVVUJBbTF0RjMxX3NqR1lXRTlKUlpZTG9wMVFpYS1FTFBvdVBMWHZBSHF4N2Ffdm1Fam9DVlRqODA?oc=5>
+
+**[P19]** PURC resolves 91% of 1,300 consumer complaints in Bono Region - MyJoyOnline  
+_news/IN · pain: complaints_  
+PURC resolves 91% of 1,300 consumer complaints in Bono Region MyJoyOnline  
+<https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWZQYmJHU1l2cDAwcTlDdjlJempNUGJTa3dJLXdTQlk2VDFFOVhMT2pFQmxMY0Jmb0pMMm5PdHROS0FNWThxMWRpQ1JscUNkdlZ2NDNFM0J4UzhZTmw5dGt0a0dvRm5HTjJrckFXbFFsZHlTZkMwRUhKOU1nRXV5dEN3SWhrZWtoeW5jQjJxZ2dfUQ?oc=5>
+
+**[P20]** Italian Pharmaceutical Study Links Drug Shortages to Channel Regulation and Pricing - Bioengineer.org  
+_news/IN · pain: shortage_  
+Italian Pharmaceutical Study Links Drug Shortages to Channel Regulation and Pricing Bioengineer.org  
+<https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGxndXN4RmRmMWRBeUVlZHdHSG1HMnhnakg0TDg2SlRTWVkwUGdqX0M0WTE2N1F1SkZvaklQVldSOEZaQ09FLUI4SkpoRkNGNzk3dVJvajh2REJOWXExS05mS1p6NTNHLWlhN0h6UHpsVnlia2s5RGtzS3NWV05fcmVIRVBUS1NXa2ZkX1c0b0tPbzd2bFNaREhTejRTd01hMnEwSGdSbHFFLUV2?oc=5>
+
+**[P21]** Concerns about winter supply shortages led to a surge in European gas prices at the start of the week. - Vietnam.vn  
+_news/IN · pain: shortage_  
+Concerns about winter supply shortages led to a surge in European gas prices at the start of the week. Vietnam.vn  
+<https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2JlTklucWJUa1VaanZLbEkzX2gxNjcwV3F6VU1kS2lIck9uOUxxQVc5aVgtaHNjWGxYcVhDSFpjN1V6QUhxOENGSERHX0t6bU93UXVJVzRoTy15UFQ0VXJBMGxiSmh0YzU1bW8wS2lIbjdWNG5fdGNWa1lWQlMwNERfODlTM2E5Zy1mNkVUTDJsNFFRdmZCRDFMVXB4OVhjdk8zYjRPS2dTcElFOEhNWjNJSQ?oc=5>
 
 
 ## Trend & news signals
 
-**[T1]** "Dario is hyping the dangers so OSS models are illegal and he stays in control"  
-_hn/front_page · 1673 pts · 940 comments_  
-<https://news.ycombinator.com/item?id=50615308>
+**[T1]** Matrix Multiplication is Θ(n^2.25) [pdf]  
+_hn/front_page · 576 pts · 279 comments_  
+<https://news.ycombinator.com/item?id=50637220>
 
-**[T2]** Ladybird is now in alpha  
-_hn/front_page · 1957 pts · 459 comments_  
-<https://news.ycombinator.com/item?id=50614249>
+**[T2]** GTA 6 Running on Windows  
+_hn/front_page · 383 pts · 465 comments_  
+<https://news.ycombinator.com/item?id=50627783>
 
-**[T3]** Per Arm's request, this site will be discontinued on 4 December 2026 :(  
-_hn/front_page · 1042 pts · 238 comments_  
-<https://news.ycombinator.com/item?id=50617499>
+**[T3]** Ternary Bonsai 2.5 27B  
+_hn/front_page · 438 pts · 137 comments_  
+<https://news.ycombinator.com/item?id=50633922>
 
-**[T4]** Stalwart is now a drop-in replacement for Microsoft Exchange  
-_hn/front_page · 474 pts · 250 comments_  
-<https://news.ycombinator.com/item?id=50620349>
+**[T4]** Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?  
+_hn/ask_hn · 266 pts · 207 comments_  
+Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their…  
+<https://news.ycombinator.com/item?id=50630809>
 
-**[T5]** New York Bans Subscription and Post-Purchase Fees on Cars  
-_hn/front_page · 360 pts · 110 comments_  
-<https://news.ycombinator.com/item?id=50622774>
+**[T5]** I've been drinking wine in my kitchen  
+_hn/front_page · 179 pts · 151 comments_  
+<https://news.ycombinator.com/item?id=50637874>
 
-**[T6]** GPUI is getting its own repository  
-_hn/front_page · 259 pts · 99 comments_  
-<https://news.ycombinator.com/item?id=50619103>
+**[T6]** Button Sounds – collection of professionally-recorded button clicks and presses  
+_hn/front_page · 326 pts · 36 comments_  
+<https://news.ycombinator.com/item?id=50638032>
 
-**[T7]** 2035 Came Early  
-_hn/front_page · 214 pts · 45 comments_  
-<https://news.ycombinator.com/item?id=50624497>
+**[T7]** Active intrusion campaign against Check Point security management servers  
+_hn/front_page · 282 pts · 140 comments_  
+<https://news.ycombinator.com/item?id=50630594>
 
-**[T8]** Bored.com: Fun, interesting and cool websites to explore when bored  
-_hn/front_page · 243 pts · 52 comments_  
-<https://news.ycombinator.com/item?id=50619207>
+**[T8]** Gemini refused to give me the lyrics to Twinkle Twinkle Little Star  
+_hn/front_page · 168 pts · 109 comments_  
+<https://news.ycombinator.com/item?id=50638320>
 
-**[T9]** NariQ: BF16-level Qwen3.8-27B in a 10 GB file  
-_hn/front_page · 171 pts · 35 comments_  
-We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.…  
-<https://news.ycombinator.com/item?id=50611402>
+**[T9]** Models Can Communicate via Inference Servers Despite Being Sandboxed  
+_hn/front_page · 208 pts · 79 comments_  
+<https://news.ycombinator.com/item?id=50637686>
 
-**[T10]** AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years  
-_hn/front_page · 81 pts · 31 comments_  
-<https://news.ycombinator.com/item?id=50624061>
+**[T10]** GPT-6 models demonstrate intrinsic protein-design capabilities  
+_hn/front_page · 254 pts · 76 comments_  
+<https://news.ycombinator.com/item?id=50634658>
 
-**[T11]** Drone Maps of Salvage Yards  
-_hn/front_page · 83 pts · 31 comments_  
-<https://news.ycombinator.com/item?id=50623515>
+**[T11]** PenGPT: A Generative Transformer for Handwriting and Sketches  
+_hn/front_page · 229 pts · 39 comments_  
+<https://news.ycombinator.com/item?id=50637056>
 
-**[T12]** Making a dumb TV just smart enough  
-_hn/front_page · 76 pts · 25 comments_  
-<https://news.ycombinator.com/item?id=50622934>
+**[T12]** Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native  
+_hn/front_page · 154 pts · 57 comments_  
+<https://news.ycombinator.com/item?id=50637890>
 
-**[T13]** Freeing the iPod Nano 5G  
-_hn/front_page · 110 pts · 9 comments_  
-<https://news.ycombinator.com/item?id=50620721>
+**[T13]** Marginalia Search, Money, C++, Rust, AI, Stuff  
+_hn/front_page · 97 pts · 37 comments_  
+<https://news.ycombinator.com/item?id=50638220>
 
-**[T14]** The Power of GraphQL, Without GraphQL  
-_hn/front_page · 55 pts · 31 comments_  
-<https://news.ycombinator.com/item?id=50621466>
+**[T14]** Show HN: Old Nvidia and ATI tech demos, running again in the browser  
+_hn/show_hn · 93 pts · 21 comments_  
+<https://news.ycombinator.com/item?id=50638503>
 
-**[T15]** The search for a top dark matter candidate  
-_hn/front_page · 46 pts · 28 comments_  
-<https://news.ycombinator.com/item?id=50620831>
+**[T15]** Macrohistory in Six Facts  
+_hn/front_page · 64 pts · 28 comments_  
+<https://news.ycombinator.com/item?id=50637891>
 
-**[T16]** Coworker rejects PR (one month in) because it does not meet his standards  
-_hn/ask_hn · 16 pts · 26 comments_  
-just joined this new team about 1 year into their development. Demoed the work to the team about two weeks ago (half way in). Work is practically complete & runs well no issues. I create PR & assign the two PR reviewers (one my rank another a rank above me). one colleague (the one at my level)…  
-<https://news.ycombinator.com/item?id=50622809>
+**[T16]** Gödel Enigma  
+_hn/front_page · 123 pts · 41 comments_  
+<https://news.ycombinator.com/item?id=50625265>
 
-**[T17]** Rune: Rust VM for Emacs  
-_hn/front_page · 41 pts · 11 comments_  
-<https://news.ycombinator.com/item?id=50622804>
+**[T17]** Taking over US Treasury subdomains for $3 each  
+_hn/front_page · 67 pts · 12 comments_  
+<https://news.ycombinator.com/item?id=50638478>
 
-**[T18]** Latent Introspection: LLMs Can Detect Prior Concept Injections  
-_hn/front_page · 60 pts · 4 comments_  
-<https://news.ycombinator.com/item?id=50620328>
+**[T18]** Lua for data representation (2025)  
+_hn/front_page · 52 pts · 16 comments_  
+<https://news.ycombinator.com/item?id=50637888>
 
-**[T19]** Lowering Perplexity Without Scaling  
-_hn/front_page · 50 pts · 13 comments_  
-<https://news.ycombinator.com/item?id=50607512>
+**[T19]** Serving Qwen via AWS Lambdas for fun and 80x negative profit  
+_hn/front_page · 61 pts · 10 comments_  
+<https://news.ycombinator.com/item?id=50638070>
 
-**[T20]** Neem Raises Seed Funding from ADB Ventures - FinSMEs  
-_news/US_  
-Neem Raises Seed Funding from ADB Ventures FinSMEs  
-<https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHE2RUlaRVdBaWdJSDU1YTlHUUdMZnZCVUFjUDVuU2dZNnI2M3Zob2dhYTVPNmZyZER0bDFXYXVKeXR0d203R3FKRDZpdEtERjluUGZ4TjhUay1kYjZIa3dNT09iNlFFRWlDZFBIOVI2aDl3MDFRX0Jxb3NnVEt1ZUo2RF8xdw?oc=5>
+**[T20]** Top open problems in mathematics ranked by LLM-assessed importance  
+_hn/front_page · 47 pts · 17 comments_  
+<https://news.ycombinator.com/item?id=50637871>
 
-**[T21]** RFAs: GROW Project Business Plan Competition Grant (Uganda) - fundsforNGOs - Grants and Resources for Sustainability  
+**[T21]** New rewritable antimony selenide display shows an image for months without power  
+_hn/front_page · 32 pts · 20 comments_  
+https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.70...  
+<https://news.ycombinator.com/item?id=50626430>
+
+**[T22]** Ask HN: Am I the only one whose AI hype is cooling down a lot?  
+_hn/ask_hn · 23 pts · 15 comments_  
+I am in the industry for 15+ years, studied CS, and actually, never really "liked" programming. It was a means to an end. I have written about programming (and published books), so don't get me wrong: I like the craft and I miss the sense of accomplishment after hours and days of struggling and…  
+<https://news.ycombinator.com/item?id=50633601>
+
+**[T23]** Third phase of compliance burden reduction reforms may begin soon: MSME Secretary Bharat Khera - ANI News  
 _news/IN_  
-RFAs: GROW Project Business Plan Competition Grant (Uganda) fundsforNGOs - Grants and Resources for Sustainability  
-<https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFZEeWNxZEVrWDFuYWtuZ09EdG5ZS1dWRU1wczNIYk9XNzREUmZyN3c0emluLWVETnA4NEk2eG1vbDRZMzZydU56dXNSTlBFZEd6aUJYT0laMjJwNGVuaTk4MHFQLVM0X3ljZ3g1QUMzSlEyZktLUDFnem0zMkdGM3BNdXRzQ3VKRkV1REdoZC1aQkJkMUhSTXZabEphUHI00gGmAUFVX3lxTE1LckVLY3d0OXBpdHk5aEdGSGFzalQxYXE5QTI1S1JOMEtNYVotN005UlRLSVlWejEwQ3hNc24xVGxNUmc0UFZyRFFrS0lhUnJaQ2swaUx4S0lUVVI5S1lDTERhRk1VZnZaeDRfUWw3bDFNcDlnLVAyOGlrdUtrX0FhckVsZF83MEl3ODdIUXlNdVJnbC01ZC10eG9qZWZpeHRHSmJWc2c?oc=5>
+Third phase of compliance burden reduction reforms may begin soon: MSME Secretary Bharat Khera ANI News  
+<https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTEpBOVo1YVdzcUk5dnR3VkJvMW0weU9obVFOT3VRSjBySkY3QTktSUJ0cGFZalJVcWRKS0Vmbjh4dWtOT2RtQkdyLXFiemVvbXZ3dUR0NGZUdWNXYWYzMTJFYkhXMFE0ZVRESDhLVUJyQVpQdlRCSzhGZjR1MEM0YlRvSlViUDRuYWFCb01mXy1FZG50TDlOamdzTWloeTE2dXpBWXEwdnZDc2RkUGprSThkZzN0eXZUcjQwWDJLTjZUblZYdXlZQ1p2bTJBRTh0OVVmLTd1Q0Uxc1la?oc=5>
 
-**[T22]** Mint Explainer: Can SpiceJet raise ₹5,500 crore to stay afloat? - Livemint  
+**[T24]** Pakistan secures 25,000-tonne tuna quota, eyes investment - Profit by Pakistan Today  
 _news/US_  
-Mint Explainer: Can SpiceJet raise ₹5,500 crore to stay afloat? Livemint  
-<https://news.google.com/rss/articles/CBMiigJBVV95cUxOUFphWWIxbmtmOW40QnJPSDVqX3RpWThrRmJIZkNTUUd4M3JGSWFoM1NKQllmcHcwY1NFRUdObFg0ZkVBRXk0eUF6T2VmQ212Ym1tVHB2blVyaTBSMWxHdDJkX1UyY0tUb0NKc3NITExNUFZ4dEktdGJjc0lZYXoxcVhxYkhZMzg2cnp3U3RsbzJ6dG85WGxKbEtDNjkteHF6YjdyZTJ1eWlTdElRc2pfVFZMTjBDLVRlZnA5Sk5jbFBmbE83VmZfaGVoaHlYNG5pVzdITEx1QkpTdkxFRTNnd294M2dqend1Q1lOanVla3dmRE5vbmFZTWZjN09RR3g4RGFRdVVSMnNPd9IBjwJBVV95cUxOZFN6cHA0NXBfWUYwVzVZMFNvT1dLTm5vRnpUTk83UVI4YkRPaUR1QnFZRnk0M0VGOTRXeHBoSTVlLTAyZU0zMjNxa2s0WExMUGZUTDZhWVoyeEFlMC1DZG0yV2lFSnFYXy12aU9sR3RZa195dU1VcjM4am5JaVFLakxFc2tDaGtremZudS02aXVucHZDZW5rZUM0RXUwQVdlRndlWGlzOXRGMmI5U3JNYnBsTzZoTTVxS1hpY0tkMHUxZ1EtdThNTUptOXRpekM3NHFmdER6SkpIUm02OVN3MlFIbzg2d0V6c1RJa05ZY0txbklqbEJwcUlwUnZuRmpBVi1CY1FfTnpUTmZXUkww?oc=5>
+Pakistan secures 25,000-tonne tuna quota, eyes investment Profit by Pakistan Today  
+<https://news.google.com/rss/articles/CBMihgJBVV95cUxQMHF1QURnTzAwZGZaaloyQmFqRXRuMlZ0Ri1LNVVUakFOa19icEwtM0ktRHhRWFNOdmJSTGZXXzJ1Q0o2MW5NR0UtT29GczVUaTMtQmdVLXJmaHNSN3JZYWxLQ0c1d0FPTnBRLWxRZ01vMmNWaDc0R0lBTEZlaTdLSlk1RjdyUFRDQU9wQkp6UU9JdDRGMmJTWUU0b0xEc0gzajRTc2FaV0k0blVvb3M3YWNjLUd2WFdRaUFmRWxNWnlPS19QYWNVXzJtcThiZVMxZGtiakNTUUY1ZjVuR2YtMGhfbUlhakJkRi1IN1E5V1VSMXNJamdleWRNZ0FHTVJodnFXbjl3?oc=5>
 
-**[T23]** Why Florida consumers are expected to step up Black Friday spending - Daytona Beach News-Journal  
-_news/US_  
-Why Florida consumers are expected to step up Black Friday spending Daytona Beach News-Journal  
-<https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3lvT1NmWW85R0VvYk5Pd0FST3EyWUk4dzNCU2ZLbUJNRGNKTk1TTmRsT3BOTUtYOFBXZWtZbHUydDFFdjljT1J6QThJS1pCcWVtbTc3WTc4R2JXUFNCYzgzRTBPeTBfRVFmWGx3NHdHd0dXalJ2Mnc1MlBWQVVRQ0tUMTdOaC1HN0xybFljdnE0YnJUWXhVV0lHelgwUmpEMzFYbEhTVzFKYmJMajNTOVNhTmJjbEpnRzBFclZSZzNzaWQ5TWowOFYwdHJKMHRYaVlBc3BEMUY?oc=5>
-
-**[T24]** A Ukrainian company has raised $5 million to develop a drone flight prediction system - LIGA.net  
+**[T25]** Sumlabs' Sume AI video generation platform tops 1 billion won in cumulative payments - 디지털투데이  
 _news/IN_  
-A Ukrainian company has raised $5 million to develop a drone flight prediction system LIGA.net  
-<https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGFKWmMwSlh0Z1VzdW5DWWdNeEJCQmlDdEFRVm9IaENMY1pzY3Q2SzJJcVQ0YTZ6czFQa3VHdFB3NzlGa1ZlTTg1dVBzeWRvNzRxMU9MNmo3NU9ycVBWT21ObjRxOTJVdTNlOWhqbjQ1dzlCRGR4ZEhZbThtdzhEOUx0REN5X0tjOFRoRVBRc21FNzVqSEs2N1VLbmY0NWlydGpYYXJHUjVmQ0RNVVFrRXFobElQUHZsZC1WcE9HY1RXcW00eWhv0gHMAUFVX3lxTE54QzREODlCQndwZnpnektmckRJeVd5cFpaTjBlc0x4dnJNUmQwd21ncjJEXzJpZ3BJQ0h5bjdLMXBZMVVza1BNX0o1SjVnRXc3Yk1WTEphN0RZX3JqR2tGM2ZIV3NLU2pKREpteWRVYU9FWExmd3A1WkVMa3RxQko4eDlSVzNsTE1HVkRNMElGVmowOWNhc2dVc3BCR2Q0X05nTGR3Wm56czkwMDZIR1FuU3paYnJ1a1ljdS0wZUkzSUZzRGJneVVXcEVpRA?oc=5>
+Sumlabs' Sume AI video generation platform tops 1 billion won in cumulative payments 디지털투데이  
+<https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnZGRm5JWFVCUkhiOTBOdmRnSXNRaHdOWWJZZUhEMjdFQ1VLZmZ4T1I1c3NpZ3dkZEt2V2JBc1EtZkdsUElDNEhYVndHdTVGWUtZTzF5dTBpVEZKdEM1ejRYbFFlRHdfd1RvV1VHaUNlVjFFYmVzYU9aWE8xWFFtWlIxYmM1VTZsVjBuS3VMMDJTSUVyRUx2U3lucUQ1QnpTWHlJc0pCdHBjSnBYVkNvRklBOTZwT2NHUDFienJpNmwxNUU?oc=5>
 
-**[T25]** Rise in Concert Ticket Prices Outpace Inflation by 29%: Economists Call for CMA Investigation - Business Wire  
-_news/IN_  
-Rise in Concert Ticket Prices Outpace Inflation by 29%: Economists Call for CMA Investigation Business Wire  
-<https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRk9XVUtGeHM4YUNyb0NHNFhnMU1iZlVRUEVvcE5abHp1aGFaWC1BLWRFLWtXTmxFdXUyTHU3MzhjRXVaNk5VY0o5bDg2NmFzQ0lkNVdJbHhiU1gxR1lFSEs1TFRoUlp4SG1rSHdUdmd1TTBTSkFJdXlZTjBoV09tTFF3V1pyR3I5QmwxTTFhYnVsZjZGZFNVQ0JpV3B0dDd3VExUTWpwRHp1bUVaUGFKMGk5cktXLW5UcVhtRkZscVlhWEpGdTF0Ull4WmdqOFRVWW5Jc0FiN056bkh6bEY0Nk93?oc=5>
-
-**[T26]** Uttarakhand Joins List of States Offering Cash Transfers to Women Ahead of Elections - TheWire.in  
-_news/US_  
-Uttarakhand Joins List of States Offering Cash Transfers to Women Ahead of Elections TheWire.in  
-<https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU9KdktGWnV4Y0dRbk1wNVF6QlVZaXRQdFdrM0lWbHZjUzJ1eVd0SHNwR3E2V2VFTlFucm8ydXlfTzk0MVQ4NkRwT0V1cll2M0VDRy0zejdUTkw5UlltTFJJMll4YU1iNkItc3p3VXItaXVPNkxZZFNFcFNYRThCQXlHbnktMF9mR2w5dFIyMmhXYkt1dlNvUm1sRDlTaVVuOVF1QUZibHNyLTRWWEYtVmtiS0pxNFJMU0lMREY0QdIBxAFBVV95cUxPaG9ROGhGdlNHUG9PX0dQWm1UUnVuamdNbnduck5fejJzQkVycTRjMEw1UU1VSHV0RmJkMkYwdks4SnZmMmNUZnpScDBMTXJOYjV4OTJNR2w5ZlZINzV4MWQzVWtyVFlVTE83emJ3amVocHM1WG9UbEg4LWQ3QUZVNENFWmo3RmlUbzRZNHJIUW1kUFIyZnRHLThvRzhEQVlFSzdudGFKTURsdDZfUlprZjJHUE5aUG1McS13bG1QanRVVV9K?oc=5>
-
-**[T27]** A double bonanza is shaping up for investors, businesses and consumers - The Economic Times  
-_news/IN_  
-A double bonanza is shaping up for investors, businesses and consumers The Economic Times  
-<https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdmQ1UXc4Zll2bi1KZ0ozaUpfbHNTVEtBWjlDdkJsdmNsZ29uQlFTMTN5SXY0aDBvUjVMOHUtUXFMTk91T3pieGJRTENwSEVXUkt0d0JmSXRGLWY3dGhIOVNvM0M2UU5ObGdYaW5LRTRRUzRENjlBd1ZOMkluSE9ZRko0dTc5Nnlvd0FEVVdySkM0Qmc3aFN3TEZibE1Pb2NJYXdLUDIzWTJSRVhEM2pCVWE1akRVV0JHNFBaMTRLVGw3azN1X3IyN3NJSm5qRTJxM0d2UUt0YXFiX2dKNDBfV3J0b3ZEUzlxOGJBa0g5STJsOHEtbnhmc2hjWnhWZFo3bUVFMlhyeHhWeDdxVjZ4ekVpM2tnaDJlLUJhZTZJM2FOVTYtM2JreHItc1QtUnZrb3h1TWxzZ0VmYW5iVXVmdnIwZWUzVHlqemg4Tm83LUhlcHF2b3hlQmxmMDhwbnZnNXZtaGw5RFBoUWQzQmfSAfMCQVVfeXFMT1dmamJudEdxbldWMlVuYUN2WnN0UGt6Z1VOblpJNmtmdWl2c1NaZWZTbkZ2Y2thRm1TUFU2N0pKeFEwSUNyU3hGcC1DWXVfWGphZ2hKN3JPODJvYkQxUFhpUzhTUklSNUlWYy1lcDNRMmZYckZiU21uVHNwVThQZzdzaGhsSFF6d1NjRXp1ZmNHV2pGTkVGWW9UTlZlUlU4ZFFJc2V3RHZoUFgtamt0WHdYX3NudjJxZWFwaDhqelZsUkg1b3VDdHpaUG1kRzlHb3lEcHFrQ09lOTdRXzhfLUtvSjdmdk5NV0FEV18xeHladEdBV1lJY3QtdkJEZllSSWxTR2V2REFGY0hVWjdBT0JpRHdEMVVMMFZJU2FIS2c0QUxQN01NcVAxVDNaR0REaHFEa1F3SmFiNWNKY05yMS1ZYlVNOHR3aGg4ZWtJZGJELV85ZXkyR3VaY1RwYWtvT0dGLTlWVTRORUx0NnVJbkd2ZUE?oc=5>
-
-**[T28]** FirstCry Strengthens Omnichannel Retail Operations with Faster Deliveries - Indian Retailer  
-_news/US_  
-FirstCry Strengthens Omnichannel Retail Operations with Faster Deliveries Indian Retailer  
-<https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUhnUnVvT0hkclBlbV9yMXFrWXl4aWRCX3BpUi1VenNrNGNzZ0kzVUc5d1dHNi1tWUJySnRKM2VCcEE4d0J5UUlxN2pPQmFqa3p1aUJtaW1RaUozUWU2NFBJZG1ra2lMR3lsVmo5WlNJbllpN1lwNi0xODVQMkFVZ3JxVFd4MUUwWHB0WGNUeC1uUUFzd2g3bFVSWXp1Q2w0NEVVR3ZRYw?oc=5>
-
-**[T29]** Thanksgiving Dinner Costs More, Farmers and Consumers Get Squeezed - Oklahoma Farm Report  
-_news/US_  
-Thanksgiving Dinner Costs More, Farmers and Consumers Get Squeezed Oklahoma Farm Report  
-<https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NREpDbU1iNkZQM20zdDBrLTMzT1BKUVpkNkFUS1BrX3VPLWdJQ016bGxmTDMwMlg5NkFpVHZwNWpDeWhKWjkyUGkzNkl1QUZBNzB4dmdKR2pMNEs5VzlB?oc=5>
-
-**[T30]** Car-sharing operators Car Lite, GetGo and Tribecar receive CASE accreditation , Singapore News - AsiaOne.com  
-_news/IN_  
-Car-sharing operators Car Lite, GetGo and Tribecar receive CASE accreditation , Singapore News AsiaOne.com  
-<https://news.google.com/rss/articles/CBMiekFVX3lxTFBtdlpHM1pORHpmUmdXTHRLOEFhaDUtbzVTZzRXZHE5dmViRkNkT1BPVlZXemVzN1NDSTFieTFuZ3RXS1hVMmRubXBndUdFVFlvNUJxY0dZMmdacXU1ZGZDNmxCbTVZXzlUU2FET1owNmVGcUhfQmVCYmN3?oc=5>
-
-**[T31]** 7 Habits that make you a better listener and build trust  
+**[T26]** Wiz webinar: Bringing a sharper, connected focus to AI security  
 _YourStory_  
-Discover seven simple listening habits that strengthen relationships, build trust and help you become more understanding and approachable.  
-<https://yourstory.com/2026/11/7-habits-that-make-you-a-better-listener>
+From AI discovery to threat detection, Wiz brings security into focus in a new virtual webinar  
+<https://yourstory.com/2026/11/wiz-webinar-bringing-sharper-connected-focus-to-ai-security->
 
-**[T32]** Cosine Robots Bags ₹22.4 Cr To Scale Robotics Hardware Production  
-_Inc42_  
-Bengaluru-based robotics hardware startup Cosine Robots has raised ₹22.4 Cr (about $2.4 Mn) in a funding round led by Avaana…  
-<https://inc42.com/buzz/cosine-robots-bags-%e2%82%b922-4-cr-to-scale-robotics-hardware-production/>
-
-**[T33]** Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI  
-_Inc42_  
-Former Sequoia Capital India investor Sudhanshu Mishra has launched an agentic AI startup called Demi.AI in the US, seeking to…  
-<https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/>
-
-**[T34]** Startup news and updates: Daily roundup (November 24, 2026)  
+**[T27]** Lakshmi Venu files suit seeking partition of Venu Srinivasan family assets  
 _YourStory_  
-YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, November 24, 2026.  
-<https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-24-2026>
+Lakshmi Venu has filed a suit in the Madras High Court seeking partition of Venu Srinivasan family assets and access to records, after efforts towards an amicable settlement failed to make progress.  
+<https://yourstory.com/2026/11/lakshmi-venu-files-suit-partition-venu-srinivasan-family-assets>
 
-**[T35]** Google Cloud Confirms Around 30 Job Cuts In India, Rejects Wider Layoff Rumours  
+**[T28]** Compliance Checklist: A Foreign Investor’s Guide To Doing Business In Nigeria - Legal 500  
+_news/IN_  
+Compliance Checklist: A Foreign Investor’s Guide To Doing Business In Nigeria Legal 500  
+<https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjlUM05PWk9UWjYzUjRDSXp0cGRVYU42R0Z5RnF1WU5DWGlLWUZMUERhRVBFdWpMWGgxMExtWlVjczJFUk5xV213NzR0Wlg5U0JibmJ5WVhGd2hGT0pLdmJocy0tZmgtQUhYQVhoeDdQc3dKVldVUlRKSmVRUW5Kd1p2TFUwRm5BWjRjeGdBaTdvaW5Pc1N2TGhBLTVObnZmNTVudTRTcjlXaEhGejFha3ItMF94TmxpWnBsZmVqN0Z0QjIyQmF1eWV1WWJwcm1DSjNQNU53Z2ozQXJ2anI4?oc=5>
+
+**[T29]** Labor Of Love, Part 1: Why People Matter For Successful AI Transformation - Legal 500  
+_news/IN_  
+Labor Of Love, Part 1: Why People Matter For Successful AI Transformation Legal 500  
+<https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUk1rRXBPU3dZdkRDeDkxckpxNlRGWjk5R2YyNURaWDJtQllvS0RYR0xNbm5UQUNnRGo0RThIVENWbzB3cjZtYW16UDkxSnFoUXlXVE9CdnZZVnNCSWhQTng4djV0MFhuVHN4LTBnTzJVS2tBSFY4Rk9mcjR3RVhJUGVFNmItaEVaZFF4dUZEUFhDY0xRYkM0ay1ZT2lvUHFyS1NtUllTUUljbXFFX09LRWtxYjkwRjZkd3VOR3ctNWtPSE9JSGFHQkswSWg5ek1nb05BdFlDY2I?oc=5>
+
+**[T30]** KNCCI opens china market for kenyan coffee farmers - Sacco Review  
+_news/US_  
+KNCCI opens china market for kenyan coffee farmers Sacco Review  
+<https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmZnSUtkbHR4MDhEVEtocnRvVEN5OW5NUEdJcXYzalZOVlRWVHprQ3VaV21hRzBZZWtlWHBEaWFONmlhMUZnc0lMelJjQ2h6M043aEdfR1VHYi1LSG16UFF1YkhiMVg0ZDlpak5fdGIwVG9UMDZ2dHBYWUJyZ0NXZ3QyMA?oc=5>
+
+**[T31]** Consumer watchdog urged to speed up complaint handling after audit finds three-year case delay - The Standard (HK)  
+_news/IN_  
+Consumer watchdog urged to speed up complaint handling after audit finds three-year case delay The Standard (HK)  
+<https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNGpJbXNoRUJJQmhsTWJVWnppNzdWMXk3WGcxUTk4eUFMMDUxVHV3N0w5dE5FbFEycVhMWm40R2NyUmlzd3JNcVZTVUJEbHRhWEdxbVpRZVQzcS01djl6bVo0ZTluTHNxMVJubERfTU1jYkFOdk84M29LOVctVE9xdkx5ZEJ5WkJTSGVYVnVudm43ZVJsRlBuSlB4OVBoejVSeUp3Nl9sOTJ5RVBvNVZnWldLaWg0TEtzU2pHTzBiRnVjZkN3a3pfSXNMWjYtUjNvREZUcFdiMV9QZ3l6bEE?oc=5>
+
+**[T32]** Kalyan Krishnamurthy To Exit Flipkart After Nearly A Decade At The Helm  
 _Inc42_  
-Google Cloud has confirmed that it eliminated approximately 30 roles in India last week, while rejecting rumours of large-scale layoffs…  
-<https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/>
+Walmart-owned Flipkart Group CEO Kalyan Krishnamurthy is set to step down in the coming weeks after being asked to leave…  
+<https://inc42.com/buzz/kalyan-krishnamurthy-to-exit-flipkart-after-nearly-a-decade-at-the-helm/>
 
-**[T36]** Sarvam AI Launches Dictation API For English, 22 Indian Languages  
-_Inc42_  
-AI unicorn Sarvam AI has launched Sarvam Dictate, an API that lets developers add voice dictation in English and 22…  
-<https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/>
-
-**[T37]** CortexSpark Ventures launches Rs 1,000 Cr deeptech fund  
-_YourStory_  
-CortexSpark Ventures will back deeptech startups that have created IP and looking to translate this into commercial applications  
-<https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund>
-
-**[T38]** Willow iOS 2.0  
+**[T33]** Homa IR Test  
 _Product Hunt_  
-No switching apps while you dictate Discussion | Link  
-<https://www.producthunt.com/products/willow-voice>
+heath is main things Discussion | Link  
+<https://www.producthunt.com/products/homa-ir-test>
 
-**[T39]** Agenda Hero Magic Labs  
-_Product Hunt_  
-Any schedule. Any layout. Any style. Discussion | Link  
-<https://www.producthunt.com/products/agenda-hero-magic>
+**[T34]** Piramal Alternatives invests Rs 225 Cr in Ardee Engineering  
+_YourStory_  
+The investment will help Ardee expand manufacturing capacity and pursue larger industrial projects, including opportunities in data centres.  
+<https://yourstory.com/2026/11/piramal-alternatives-invests-rs-225-cr-in-ardee-engineering>
 
-**[T40]** Ex-Infosys Executives’ CortexSpark Ventures Launches ₹1,000 Cr Deeptech Fund  
+**[T35]** Manufacturing for many Indias: Balancing standardisation with regional needs  
+_Economic Times Small Biz_  
+Building for many Indias does not mean a different machine for every market. It means knowing where conditions differ, and who is holding the handles.  
+<https://economictimes.indiatimes.com/small-biz/sme-sector/manufacturing-for-many-indias-balancing-standardisation-with-regional-needs/articleshow/136151864.cms>
+
+**[T36]** Aeravti Ventures Launches ₹300 Cr Fund II, Marks First Close At Over ₹150 Cr  
 _Inc42_  
-CortexSpark Ventures, founded by former Infosys executives Vinay Peshwa and Sanjay Khanduri, has launched its debut fund, Viksit Bharat Fund-I,…  
-<https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/>
+Bengaluru-based VC firm Aeravti Ventures has launched its second fund, Aeravti Ventures II, with a target corpus of ₹300 Cr,…  
+<https://inc42.com/buzz/aeravti-ventures-launches-%e2%82%b9300-cr-fund-ii-marks-first-close-at-over-%e2%82%b9150-cr/>
+
+**[T37]** PB Fintech, Turtlemint Shares Rally Up To 8% After IRDAI Forms Reforms Review Panel  
+_Inc42_  
+Shares of Policybazaar parent PB Fintech jumped 7.9% to an intraday high of ₹1,176.3 apiece on the BSE today, while…  
+<https://inc42.com/buzz/pb-fintech-turtlemint-shares-rally-up-to-8-after-irdai-forms-reforms-review-panel/>
+
+**[T38]** Beyond UPI: Why many Indians still need help accessing basic banking services  
+_YourStory_  
+Assisted banking is not an alternative to regular banks or the mobile application that banks provide. Through the extension of their services via designated local access points, banks can make use of the business correspondent model to extend basic banking functions to the local population.  
+<https://yourstory.com/2026/11/beyond-upi-why-many-indians-still-need-help-accessing-basic-banking-services>
+
+**[T39]** Fintech Unicorn Oxyzo Posts 19% Rise In H1 FY27 Profit To ₹208 Cr  
+_Inc42_  
+Oxyzo Financial Services, the lending arm of OfBusiness, reported a 19% increase in standalone net profit to ₹208.2 Cr in…  
+<https://inc42.com/buzz/fintech-unicorn-oxyzo-posts-19-rise-in-h1-fy27-profit-to-%e2%82%b9208-cr/>
+
+**[T40]** MAGI-2  
+_Product Hunt_  
+Sand AI's 480B model for cinematic video generation Discussion | Link  
+<https://www.producthunt.com/products/magi-1>
 
 
 # Macro layer — policy, economy, weather, currency
 
 _Direction and sector tags are keyword hints made by the collector, not conclusions. Judge each item yourself._
 
-## Sector pulse (policy/economy news, last 2 day(s) of history)
+## Sector pulse (policy/economy news, last 3 day(s) of history)
 
 | sector | ↑ tailwind items | ↓ headwind items | net | net previous period |
 |---|---|---|---|---|
-| manufacturing | 6 | 0 | +6 | — |
+| manufacturing | 7 | 2 | +5 | — |
+| real estate & construction | 1 | 4 | -3 | — |
+| ev & mobility | 3 | 0 | +3 | — |
 | agriculture | 3 | 0 | +3 | — |
-| real estate & construction | 1 | 3 | -2 | — |
+| food & beverages | 2 | 0 | +2 | — |
+| oil & fuel | 2 | 0 | +2 | — |
+| msme & exports | 1 | 2 | -1 | — |
 | it & ai | 1 | 0 | +1 | — |
-| food & beverages | 1 | 0 | +1 | — |
 | jobs & gig work | 1 | 0 | +1 | — |
-| ev & mobility | 1 | 0 | +1 | — |
 | stock market | 1 | 0 | +1 | — |
 | healthcare & pharma | 1 | 0 | +1 | — |
 | education | 1 | 0 | +1 | — |
-| msme & exports | 0 | 1 | -1 | — |
-| oil & fuel | 1 | 0 | +1 | — |
+| textiles & apparel | 1 | 0 | +1 | — |
+| insurance | 1 | 0 | +1 | — |
+| travel & hospitality | 1 | 0 | +1 | — |
+| banking & rates | 1 | 1 | +0 | — |
 
 ## Data alerts (weather, air quality, currency — next days)
 
-**[D1]** EUR/INR 101.6395 — -4.36% in 30 days (rupee stronger) — BIG MOVE  
+**[D1]** EUR/INR 101.867 — -4.34% in 30 days (rupee stronger) — BIG MOVE  
 _economy · sectors: msme & exports, travel & hospitality, manufacturing_  
 imports, foreign travel and education get cheaper; exporters' margins shrink.  
 <https://www.frankfurter.app/>
 
-**[D2]** USD/INR 92.92 — -2.13% in 30 days (rupee stronger) — BIG MOVE  
+**[D2]** Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 158 µg/m³ (4 of next 4 days)  
+_weather · sectors: healthcare & pharma, cooling & appliances_  
+Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).  
+<https://open-meteo.com/en/docs/air-quality-api>
+
+**[D3]** USD/INR 92.92 — -2.37% in 30 days (rupee stronger) — BIG MOVE  
 _economy · sectors: msme & exports, travel & hospitality, manufacturing_  
 imports, foreign travel and education get cheaper; exporters' margins shrink.  
 <https://www.frankfurter.app/>
 
-**[D3]** Air quality very poor: Kolkata — PM2.5 daily mean up to 154 µg/m³ (3 of next 4 days)  
+**[D4]** Air quality very poor: Kolkata — PM2.5 daily mean up to 161 µg/m³ (3 of next 4 days)  
 _weather · sectors: healthcare & pharma, cooling & appliances_  
 Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).  
 <https://open-meteo.com/en/docs/air-quality-api>
 
-**[D4]** Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 147 µg/m³ (2 of next 4 days)  
+**[D5]** Air quality very poor: Delhi — PM2.5 daily mean up to 190 µg/m³ (2 of next 4 days)  
 _weather · sectors: healthcare & pharma, cooling & appliances_  
 Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).  
 <https://open-meteo.com/en/docs/air-quality-api>
 
-**[D5]** Air quality very poor: Delhi — PM2.5 daily mean up to 146 µg/m³ (1 of next 4 days)  
+**[D6]** Air quality very poor: Lucknow — PM2.5 daily mean up to 128 µg/m³ (1 of next 4 days)  
 _weather · sectors: healthcare & pharma, cooling & appliances_  
 Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).  
 <https://open-meteo.com/en/docs/air-quality-api>
@@ -385,203 +397,203 @@ Who is affected: air purifiers, masks, respiratory care, indoor activities and d
 
 ## Policy & economy signals
 
-**[M1]** In search of emerging signals, RBI casts a wider data net  
-_ET Economy-Policy · policy · · neutral · sectors: agriculture, fintech & lending, banking & rates, logistics_  
-The central bank tracks FASTag transactions to gauge freight movement and economic momentum, alongside GST collections, e-way bills and digital payment metrics. Satellite and radar imagery, combined with ground-level environmental data, help assess weather shocks and agricultural output.…  
-<https://economictimes.indiatimes.com/news/economy/policy/in-search-of-emerging-signals-rbi-casts-a-wider-data-net/articleshow/136113362.cms>
+**[M1]** Construction equipment makers seek fiscal support for domestic manufacturing  
+_ET Economy-Policy · trade · ↓ headwind · sectors: manufacturing, real estate & construction, msme & exports_  
+China imposed curbs on export of certain equipment, including tunnel boring machines (TBMs), walking excavators, plateau-type wet shotcrete machines and certain dredging components used in projects in hilly, high-altitude and border areas, effective November 18. India largely depends on China for…  
+<https://economictimes.indiatimes.com/news/economy/policy/construction-equipment-makers-seek-fiscal-support-for-domestic-manufacturing/articleshow/136140650.cms>
 
-**[M2]** RBI Governor asks NBFCs, housing finance firms to bolster cyber defences  
-_ET Economy-Policy · policy · · neutral · sectors: fintech & lending, real estate & construction, it & ai_  
-RBI Governor Sanjay Malhotra called on non-banking finance companies and housing finance companies to bolster cybersecurity measures. He emphasized the importance of a comprehensive, risk-based approach to managing cyber threats. Malhotra also highlighted the necessity for responsible credit…  
-<https://economictimes.indiatimes.com/news/economy/policy/rbi-governor-asks-nbfcs-housing-finance-firms-to-bolster-cyber-defences/articleshow/136109553.cms>
+**[M2]** Centre extends regional air connectivity fund’s tax exemption through FY30  
+_BusinessLine Economy · economy · ↑ tailwind · sectors: banking & rates, travel & hospitality_  
+Relief covers government grants, airline levies, forfeited bank guarantees and interest income  
+<https://www.thehindubusinessline.com/economy/logistics/centre-extends-regional-air-connectivity-funds-tax-exemption-through-fy30/article71739216.ece>
 
-**[M3]** Keralam to promote tuber crops as intercrops as part of scheme to achieve self-sufficiency: Minister  
-_BusinessLine Economy · policy · ↑ tailwind · sectors: agriculture_  
-The initiative will be implemented in coordination with Krishi Bhavans, tribal communities and farmers, the state Agriculture Minister T. Siddique said  
-<https://www.thehindubusinessline.com/economy/agri-business/keralam-to-promote-tuber-crops-as-intercrops-as-part-of-scheme-to-achieve-self-sufficiency-minister/article71738007.ece>
+**[M3]** Maharashtra likely to see sharp dip in output of kharif pulses, foodgrain on drought  
+_BusinessLine Economy · weather · · neutral · sectors: agriculture, food & beverages, textiles & apparel_  
+Production of oilseeds, cotton and sugarcane also impacted as per the State Agri Departmentt’s first advance estimates  
+<https://www.thehindubusinessline.com/economy/agri-business/maharashtra-likely-to-see-sharp-dip-in-output-of-kharif-pulses-foodgrain-on-drought/article71738744.ece>
 
-**[M4]** PLI Schemes: From Manufacturing Momentum to Global Competitiveness – What Should India Do Next? - Machine Maker  
-_policy-news/IN · policy · ↑ tailwind · sectors: manufacturing_  
-PLI Schemes: From Manufacturing Momentum to Global Competitiveness – What Should India Do Next? Machine Maker  
-<https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWnJGcHlBQjBDLVEtVTJMVnlmMnFUdmo0eG1XVkpERlg1ZEZlVzlrWUdmWGNzNHE1N2c2MnpRYlg0Y0NWdVFCM2VLcjRVOVRkNzM4ZDJPZGN6Umxfa0FTdXpEVXVrbmxmUjZLWDJrZWZUeGNPcHgybDl0U3NrRzNZSzg1YW5nMmNWZDU4TjIyMzJpRVY4OWR1d0hVcDFnNEhKQ2U3Q05LYU5wTnlFd21CNG9jc1NsN2k0X211Y1A5QXQxRmZaRC1xM19Ga2VJT3owbDFhTXZIQm8tQnJRR0E?oc=5>
+**[M4]** Private investment announcements surge 58.5% to ₹26.6 lakh crore in H1 FY27: CII  
+_BusinessLine Economy · economy · · neutral · sectors: solar & energy, manufacturing, real estate & construction_  
+Fresh data point to a sharp revival in corporate investment, with project announcements spanning manufacturing, electricity and digital infrastructure sectors  
+<https://www.thehindubusinessline.com/economy/private-investment-announcements-surge-585-to-266-lakh-crore-in-h1-fy27-cii/article71738605.ece>
 
-**[M5]** Auto PLI scheme exceeds investment target, incremental sales only 23% - Team-BHP  
-_policy-news/IN · policy · ↑ tailwind · sectors: manufacturing_  
-Auto PLI scheme exceeds investment target, incremental sales only 23% Team-BHP  
-<https://news.google.com/rss/articles/CBMingFBVV95cUxQRmxzcnZOWkg5dFBzR1RDTVRDWjlRbFU4Q3FCS0xQblpBU0NmRVc3MzlIaWtQeFowVW8yaU1VTXB6WGtCOHozazRwQTBEN2tXRUc5T2FCOVpSNE5wNGdfVWFEaEVteWoyWG1IZWl3M3NObDVBRmFKWWUwWWRCaEZpWG16M0dnZEc0TkZnN3ZNNXhINzdnVldadXVsSUVmUdIBowFBVV95cUxPU3g2cERjekY0X1dkbjQtZTg3UDZkYlE4NHc3S1J5Qm4yR2EzbzJNOHdGNWVwRF9QT1h0eEQ5SlhBV0pYWFNzWEo0YXFBQWpHU1hwUUgtbkFZVTdPemhoTDBQM0Fyam05bHU1cGptVkRrVll3SXdUZVFRMUE1aTMxaEJtclhGbzZ5NDZRTmVFbnBHYnRGaVlCRThHaElIMlFjOEFr?oc=5>
+**[M5]** SFIA India, China’s CCPIT CHEM in pact to promote specialty fertilizers  
+_BusinessLine Economy · trade · · neutral · sectors: agriculture, manufacturing, msme & exports_  
+The partnership aims to strengthen engagement between Indian and Chinese manufacturers, technology providers, exporters and industry stakeholders, opening new avenues for trade, investment, technology transfer and industrial collaboration in specialty fertilizers and agriculture  
+<https://www.thehindubusinessline.com/economy/agri-business/sfia-india-chinas-ccpit-chem-in-pact-to-promote-specialty-fertilizers/article71738308.ece>
 
-**[M6]** IFF asks TRAI to extend telecom AI guidelines comment deadline - Elets eGov  
-_policy-news/IN · policy · · neutral · sectors: it & ai, telecom & internet_  
-IFF asks TRAI to extend telecom AI guidelines comment deadline Elets eGov  
-<https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnFwenpYUjIxN1dTVWxUTy1uR19KNGJQU0VPcUw4Z1BqQ0hVR1N4bEdESGNfSEFSWFE0OHBXa01sQzc4RnpEQUlEVmRIWjd1cW9DUmJIWDQtRmpKSWFQQVo1blM0bmVvZmFVS2xqQjZWMDcyYnJobDluaGdLc250RHd1SmVraEd4cDFvMXVwbkJaUHhwQWJGampJRG4xeUNOSXc?oc=5>
+**[M6]** Global airports court private capital to fund upgrades, raising cost concerns  
+_BusinessLine Economy · policy · · neutral · sectors: real estate & construction, travel & hospitality_  
+More than $4 trillion is expected to be spent over the next 30 years on such infrastructure, according to data from trade group Airports Council International presented at a UN aviation gathering ‌in Montreal  
+<https://www.thehindubusinessline.com/economy/logistics/global-airports-court-private-capital-to-fund-upgrades-raising-cost-concerns/article71741167.ece>
 
-**[M7]** UP AI Stack Tender Plans One AI Platform for All Departments - Elets eGov  
-_policy-news/IN · economy · · neutral · sectors: it & ai, government tenders_  
-UP AI Stack Tender Plans One AI Platform for All Departments Elets eGov  
-<https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Wl9taDJieENSSVFMUXZWUjhyNXV3dUxfaTZzTWZkX2M2R2xQa2locGlDWnluOTJ3VDRqSnFhUlVndVFsVDhOc1F0YjFIMHh0TmtQaFBoXzlQZl9sT2hBc2hwdWFfaXM?oc=5>
+**[M7]** India Limited Fuel Price Rise to 7 Per Cent amid Global Surge - Construction World  
+_policy-news/IN · economy · · neutral · sectors: oil & fuel, real estate & construction_  
+India Limited Fuel Price Rise to 7 Per Cent amid Global Surge Construction World  
+<https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjZLY3V4NXBTRml6eHRZb2pHZThwR29YQzR6YlYtM05IQmxLZlVEdE5sWjNYS1JiVVpEX3g4d29ub2FTblEtbnNReDd3U2VwMEMydFJJQ2RmZXZGZUZoSjA0Uk5Hb0RDMy1YSm1GdE1wZTJCb202b1NQdTVUemNscmt3THNQS1pmUXJOd0V3Vk84ZV9jX0N4TXRZdUtESU8zUUxSYWhIa3lxU25rc3pOeHUwdV9DMFUxUnpKR01JdHpldzBKZXM0ZmxrUnF3N0U?oc=5>
 
-**[M8]** Six Years of PLI: Rs 2.58 Lakh Crore Investment, 14.57 Lakh Jobs - Machine Maker  
-_policy-news/IN · economy · · neutral · sectors: manufacturing, jobs & gig work_  
-Six Years of PLI: Rs 2.58 Lakh Crore Investment, 14.57 Lakh Jobs Machine Maker  
-<https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGMyb1JyN2dHbnMwSTk3V2ltN3BxMUdPNWdPdWdOdGFhdFpwVHpPd2Q1VnNCNmw2bWRrQW41RmM1STlVamJZcHZEUF85TDhOSWlPQ3MxQTMwcGdqRGVKZGdMQVBXT0RRSlFFaWw2T1hUV2xzUUVBUi1aRGhMOFFRYnhsdGprc0xnM0lZVXhKcw?oc=5>
+**[M8]** NTPC-SAIL Power Company Invites Bids for 25 MW Solar Project - Construction World  
+_policy-news/IN · economy · · neutral · sectors: solar & energy, real estate & construction_  
+NTPC-SAIL Power Company Invites Bids for 25 MW Solar Project Construction World  
+<https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmNSV05sMmNIVUVoOWcxUTFWckZNVTBvN2Zsc3pheWV5eU94SEFldnBLdExJOXVNZDVzN3ZTX3p4blRwakotWWtXOC1MREQtcnpPMmg4MzJkV0VIdHBPOXktemJ5QURIckc2VTQtNUpacllrODJub1lLdGVJZmQtMVVvRkM5RjRxSFRqQm5USlB3cDZXcUxLZkxOeUJoaEdjM2F2LU9yXy05Y3pUQTI0cjFNMmc4S2xfbGJxbU1XRWUxdW1tcl9RenQxZlgwbVR4T2FWMmY4S2J2UlpYSGJ5MUN3OA?oc=5>
 
-**[M9]** Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit? - Fortune India  
-_policy-news/IN · policy · ↓ headwind · sectors: real estate & construction_  
-Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit? Fortune India  
-<https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGRLM0FBOVlhNGdTY1RUNVJrMW42Q1g0OVo1SG0wVFlSdHBoeFNsZjBXN1NaX3lBNTZSUnpuR1hJUmlKMFVKc0otRmh6aGlXVE82eE5zS0dSVGZ1eDZNTWJoRnFpS3NYWDRkeXoyZ281dVRoZWwzTEZQNm1SaVF2VGZ1MURwZEJvRkt5WWRuRXRvUFlwTmJ6LTdBYjlLb1hlN3AwQTJqOS1Fb291ZzE4UTRzcmlUZTdQWGdBLVF5czFUYTI3S05faVRDTWZ5cGpMWWhR0gHgAUFVX3lxTFBIZGw1cDlBOHVoYnBJNlZJYlpuTW9oel84QWo2QzRnWjVuNTJtcldFdHpFeEdUdWlhLXZDVm8tMTRQQmVrcTY5aTJyLWJrcXJqVVN6MDZKY2JIOG53Q1VmNWQ4RFVxRVJoc2J4TkttUWJPbFJkOG1RNVJUT2JCdnRnSUsyZjBpLXNiUXYybVlYcVJUNEJBOU9uejVORmtXd2djaEVLQ1MtdnQ4WldFNEVNQ3ZyYWhIaTJvQVJhbHRKUVBsVEpKM2tyN19uQmp4NEM1ckZJREZ1MEFiQi0xTWdp?oc=5>
+**[M9]** IRDAI Relief Sends HDFC Life Soaring Near 6% Today - Equitypandit  
+_policy-news/IN · economy · ↑ tailwind · sectors: insurance_  
+IRDAI Relief Sends HDFC Life Soaring Near 6% Today Equitypandit  
+<https://news.google.com/rss/articles/CBMihgFBVV95cUxQWnhxY1JvNHFBY3JZd19YUXk1d1dLNld1emREVTJVaDh1S1dEZ1hKTHB0dVVsUmNDb0FzSzNUUnlHLXdXQmlvZ1VfUmxoalM0MzN1YmpJVFN6di1XY2FuLU5sbDZ3UWlHN1Z5dlIxLVdHOHNZUHFHRnFuaWVyU2hnd3F6QllYdw?oc=5>
 
-**[M10]** India boosts Venezuelan crude and US gas imports - TradingView  
-_policy-news/IN · trade · ↑ tailwind · sectors: oil & fuel_  
-India boosts Venezuelan crude and US gas imports TradingView  
-<https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkpBRWltQzBZQU5wWkdfQVAtZ3NVeHVxd0VyZTRmZ0MxcmN0SEJDeDJWdFhRQmlGdmVfWGZGa3BnY1BxUGZCS0hfaDJJb3V4RGJiWW43R0hMMTJZUmRlbmM2WGZkeUxsR2pQZkppRURTS19GN3EwdzFkSW84YlUxcUxaZlFNQ3pFRHcyaURPanlPOWhBUFJCVDU2V090S1c1NjFTYmdlOFQ?oc=5>
+**[M10]** Explained | While US-China agreement offers trade relief, why firms may not reverse their costly supply-chain moves  
+_Mint Economy · trade · ↑ tailwind · sectors: msme & exports_  
+China has extended its suspension of restrictions on exports of key minerals to the US until Jan 27, 2027, easing supply concerns. But repeated trade negotiations have pushed businesses to diversify suppliers, often at higher cost, and many may retain those alternatives despite the extension.  
+<https://www.livemint.com/economy/explained-while-us-china-agreement-offers-trade-relief-why-firms-may-not-reverse-their-costly-supply-chain-moves-11795537295690.html>
 
-**[M11]** India Auto PLI Scheme: ₹44,326 Crore Invested, Yet Sales and Job Creation Trail Projections - ACKO Drive  
-_policy-news/IN · policy · ↑ tailwind · sectors: manufacturing_  
-India Auto PLI Scheme: ₹44,326 Crore Invested, Yet Sales and Job Creation Trail Projections ACKO Drive  
-<https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFFMaFdsdlpsWjRwdXdQZ1U2T1NnNTlpSnpDMVZpLS1qSG9zYWtpUXdyUWQwOWZfRzBSMC1GTjBpWnd0VFBJLXVaV1M5aGhiWW1NMXkzQjlkVkFvMzY5clJBazB0QkNUNEdfckJjdVpseUlCTUpWclVmRFZtMDhTZFVlVWN0NDR4SzRVbHh6WDFQZ0tnLU56OG1EcHEzckJvRjRiTVFaNDZUdWdzOXk2VUdBZUk2cTQ?oc=5>
+**[M11]** PB Fintech, Turtlemint Shares Rally Over 5% Today; What Has IRDAI Announced on Insurance Commission Reforms? - Kotak Neo  
+_policy-news/IN · economy · · neutral · sectors: fintech & lending, insurance_  
+PB Fintech, Turtlemint Shares Rally Over 5% Today; What Has IRDAI Announced on Insurance Commission Reforms? Kotak Neo  
+<https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHRPeFZId3RjdUs3R3BQN2dPRUVSclVWUzREeUVPR3prRWwwZkQzZlQxQlVOTTd0Y3prME5wZWtmemRWek9NUzYtMHNQWExlbFJpQmdYNHB6bW9WSjYwSktaTGNsdV9FTGNJdTRfLV90ZTllaVZIaWJqLWZrblg3MG5DTTZRTVJ1YlJvYUphd2NYX21TQWptOVJSdmlza3pDakJMSjVfc1p0c2pUY24xM3hjSWZHMTFHVmI2UjJrVUhoeXZkT2JiUlFlWFk?oc=5>
 
-**[M12]** Construction of Anganwadi Building Maharashtra Tender by Government - Urban Acres  
-_policy-news/IN · economy · · neutral · sectors: real estate & construction, government tenders_  
-Construction of Anganwadi Building Maharashtra Tender by Government Urban Acres  
-<https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzNmc19PV1hHUnRNODI2cFhuelJ6ZnBfR01WT2F6c0RKS1hnMG1GR044eVEzbkNLUlVYZy15ZFkwNXAyOGpaRWhCZWJnZFpGcDd6Q2Q4SXlqNkNHazJpTW1TNm1sNVpYVE1EMmtBbUdhOVpKdXhVeUxJdUNSWHIwMDUyQjlSQTdVeURYMmxBRQ?oc=5>
+**[M12]** Auto PLI payouts hit ₹4,365 crore so far in FY27  
+_BusinessLine Economy · economy · ↑ tailwind · sectors: manufacturing_  
+The acceleration comes even as nearly 74% of the total outlay remains undisbursed ahead of its scheduled conclusion in FY28  
+<https://www.thehindubusinessline.com/economy/auto-pli-payouts-hit-4365-crore-so-far-in-fy27/article71738183.ece>
 
-**[M13]** Higher volumes, price hikes to drive earnings growth for cement sector - Business Standard  
-_policy-news/IN · economy · ↓ headwind · sectors: real estate & construction_  
-Higher volumes, price hikes to drive earnings growth for cement sector Business Standard  
-<https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmFqWVR2UVVWWk9LVGd1ekJCSl9nVmtyajBFd3ZYejFKSWxTTmlmcE9JU0V5cWVVdTZac3BYQlF6a2ZjSGItNnpDdFBHSE1GVU5fVjdWNTBTY0NlT19iYUZzelpsTk9xUjdsVTJEcFNMX1dHWUVuLUFpOXFIUllwMDJ4TE1Fem10emhJV2hfckpuR09Hc1RrSVkwcGFHVE9YT3k1cDNGZFVmUGQ0Z1h0bFVDb2FLVlZTRnk2R213dzNGZFB1Y2hFVnhESFZwMkhRRlHSAdcBQVVfeXFMUHlBdFhTOGZPa0xqdTMwNmhSNVlNNndNVF9WQnFHUWZkWWFYY2R4elBOZy1uLXJwQWdRajFLc1ROTnRhOE5CM2NMaG85MTFWX0M0Sld3TklrcmFEdS1xMTNiOGNlYVdOZTRqT2NZY2t2M2RvamNQbFlfNWdOQ0VKc0gtRzBmNTY5NmtBQjdhLTdKR2lydmFrMmJXZkdTX0F0WE5vbmN4ZFFhVTI3MEtLSFR2SnQxR3lnazdLMnNhMV9pQ3hlZEtFMDdpUm5FWUxFZzQxZ013RWM?oc=5>
+**[M13]** India’s non-basmati rice export surges 6.7% in April-October  
+_BusinessLine Economy · trade · · neutral · sectors: food & beverages, msme & exports_  
+Up on demand for white and broken varieties as exporters offer the cereal at competitive prices  
+<https://www.thehindubusinessline.com/economy/agri-business/indias-non-basmati-rice-export-surges-67-in-april-october/article71738885.ece>
 
-**[M14]** Stop publishing grey mkt premiums for IPOs: Sebi to market players - Business Standard  
-_policy-news/IN · policy · · neutral · sectors: insurance, stock market_  
-Stop publishing grey mkt premiums for IPOs: Sebi to market players Business Standard  
-<https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTlZPaTUtNmhyTVZuUUxxaERrZlNYbGdfYnE0S1Aza0lrOWtIaUllMW9GT19UQ1VyNDdWU0g3ZURRTWxaZzVkSFhHZ0JsOHBpZWxYT3lYR0VtTkxna25RdGdXb0xOTlA1VmZjUUFsT0M5U0hKdUpfVFRGSEpCQ2NNZDdaTWR6eEhIekJKVGlPVkRKX2JTYXptSUdkcjZtNmplTkNrbHRhM1NaMW9KODZ5WnplNTRZaDFxd05fS21vTnRiZ1Z3UDJycms1RWx1cndtRGZZXzlsY9IB3AFBVV95cUxNZFRnNFRxRkZyUE9hc3pfczZHc1Y0cWM2OXozWDR1Ry1HU280WFp0eEtfc1lUTHNsN1NGSHUyeXlxX0hUME9FS2RYSldRYjAxZlJTaURkMVRfaUVlUms1TjNDMTNhZEtfNGxiSHZQVXhoZmNqRVAwTy1qZ0dob3hDMDBFczhSS1Rnd2IyM2xnQ081NXRySG5hcXlPcU9hTWduekNRaTlYS0xaaG0xclJCYmxoX0s2V1VEZmxBNl9rZWxuNzN0aDZiYXluVFJ1WHItd0lWaldSSWctdTF4?oc=5>
+**[M14]** Daily Voice: Nifty 50 at 30,000 in 2027? Strong fundamentals and domestic liquidity support outlook, says... - Moneycontrol.com  
+_policy-news/IN · economy · · neutral · sectors: banking & rates, stock market_  
+Daily Voice: Nifty 50 at 30,000 in 2027? Strong fundamentals and domestic liquidity support outlook, says... Moneycontrol.com  
+<https://news.google.com/rss/articles/CBMikgJBVV95cUxQdF83Mm1DRUVGcHZ4SlpVVFFDMUtmV1JTTXNrVGJsTGxjZHdZWFR6aUJaX3B3bUN3d2ptUjhzRVpLTWNCNG1pVjJvZENzNkJWWGl3RTgxcmlZTml1ZWdxQW5XY1lWVHgtN2FZTTZrakpPMVlxbjZtckRqMS1BS3BaSEk5ZTVLa1g1LTJ5WDZzaTE3WWVKOEptS01XZDc4Snc2dnoxS0p3eTFmY1V3WlZJMno1ZlYwN250RzI5emY3ZXdHMnd3QTB0VTZTQXUwTjlmaEdWS19QMHU5VXUyLTU1YlhtY1ZqNkxQdk5IM2IwQVNOYmJoSnpWdWxWLVNjQXBMQUplbS16aWxqV1ZyUmJVMUpB0gGSAkFVX3lxTFB0XzcybUNFRUZwdnhKWlVUUUMxS2ZXUlNNc2tUYmxMbGNkd1lYVHppQlpfcHdtQ3d3am1SOHNFWktNY0I0bWlWMm9kQ3M2QlZYaXdFODFyaVlOaXVlZ3FBbldjWVZUeC03YVlNNmtqSk8xWXFuNm1yRGoxLUFLcFpISTllNUtrWDUtMnlYNnNpMTdZZUo4Sm1LTVdkNzhKdzZ2ejFLSnd5MWZjVXdaVkkyejVmVjA3bnRHMjl6Zjdld0cyd3dBMHRVNlNBdTBOOWZoR1ZLX1AwdTlVdTItNTViWG1jVmo2TFB2TkgzYjBBU05iYmhKelZ1bFYtU2NBcExBSmVtLXppbGpXVnJSYlUxSkE?oc=5>
 
-**[M15]** West Bengal Issues Rooftop Solar Tender - https://www.mvapulse.com/  
-_policy-news/IN · economy · · neutral · sectors: solar & energy, government tenders_  
-West Bengal Issues Rooftop Solar Tender https://www.mvapulse.com/  
-<https://news.google.com/rss/articles/CBMic0FVX3lxTFBoMHgwTlRzLTBxMGtlVERlanhPSzFvQ0xLcmRhNWpMdlE1TmNwa2l0dG9mR2ZlWUVYWE1ycENKUDBueUR0S0JsY3Z6UEtNSDdOZmRkMEk4SDBXQ1lZUU5RSDJHeGprZHh5Tm05MXpsMXNaQ1U?oc=5>
+**[M15]** India’s unincorporated businesses grow at record pace, but hired jobs rise just 5%  
+_BusinessLine Economy · economy · · neutral · sectors: msme & exports, jobs & gig work_  
+The latest NSO survey highlights a widening gap between the expansion of small businesses and the creation of conventional wage-paying jobs  
+<https://www.thehindubusinessline.com/economy/indias-unincorporated-businesses-grow-at-record-pace-but-hired-jobs-rise-just-5/article71738577.ece>
 
-**[M16]** Governor, Reserve Bank of India meets Chairpersons and Managing Directors & Chief Executive Officers of select UCBs and Industry Representatives in Mumbai on November 23, 2026  
-_RBI press releases · economy · · neutral · sectors: banking & rates_  
-As part of the Reserve Bank of India's continued engagement with regulated entities, the Governor today met in Mumbai with the Chairpersons and Managing Directors & Chief Executive Officers (MDs & CEOs) of select Urban Cooperative Banks (UCBs) across different tiers. Representatives of the…  
-<https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031>
+**[M16]** PM E-DRIVE Scheme - पीआईबी  
+_policy-news/IN · policy · ↑ tailwind · sectors: ev & mobility_  
+PM E-DRIVE Scheme पीआईबी  
+<https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2Z6U3NDd1JOVHlPLWlGVHEtcDlYYkR6bmxmUlRxRkN4NzVCeXp3SU5YbDlBMEtkUVRvMWxfMkpwdkhnY0hDLWJYUGFsZTVaelk5ME0yRWdoX3lDWTVhS0dQSV8zV1psek12Z3lodGVSM19ULVJsNGpiMTd0VFRQUUZfc1d2Y0E?oc=5>
 
-**[M17]** RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)  
-_RBI press releases · policy · · neutral · sectors: banking & rates_  
-State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital…  
-<https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025>
+**[M17]** Federal cabinet approves sugar sector deregulation policy - ARYnews.tv  
+_policy-news/IN · policy · ↑ tailwind · sectors: food & beverages_  
+Federal cabinet approves sugar sector deregulation policy ARYnews.tv  
+<https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHZnQU42enVvSFVycExWOHNSUUwxOFhFTXJRQ1NzYzJ4RWIwTURycTE1MU1HbjBpNjk0YmVzemtBU3cwTTZ3ckdqemx4Qm5DMzNPZGRxbmJDLTRqanpob0UwbUdVX2NGNzBXdEliUG5Qa2VsZm1ZZnhZVFVyQnU0OGNB?oc=5>
 
-**[M18]** Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026  
+**[M18]** Govt cuts petrol by Re1, diesel by Rs4 for Nov 25 - The Express Tribune  
+_policy-news/IN · economy · ↑ tailwind · sectors: oil & fuel_  
+Govt cuts petrol by Re1, diesel by Rs4 for Nov 25 The Express Tribune  
+<https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVYxdV85eUxsTURmVm9FR1pnVzUxMGxFazhmRE9UeVo0T0lJX0RCQXczeXJ3VzQ3d1lWT3RGeERvWWRESER6VDhuRW01c2w5QUFtbjlEc0lxMHB4Wm84Z1JMeEx0V0xYV2U4amEzYUpja2xuMFZiLURseE4wRWp0dnpVcDYwRjBLd3FSYkZR0gGWAUFVX3lxTFA4MmEyZ0FYcDNhNTlhX3NzYU41azNHNTJpb3B1Z3A3QzJ6U0RRS1hNMkxlSTkzYXlMc2E2Wl92c1pOV05pMWJEWGx6aDJIMnNuM1hJOUNCYlp5Mk44UHJadW9icGw3LUZlX3hrZjVfc3VFb1V6MU9GallqLXEtdlJseFFvQThTT290VWhQdk1Ca0lZeUhMUQ?oc=5>
+
+**[M19]** Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters  
+_policy-news/US · trade · ↓ headwind · sectors: manufacturing_  
+Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say Reuters  
+<https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5>
+
+**[M20]** NTPC NVVN Invites Bids for 187.5 MW/750 MWh Battery Energy Storage Projects Under VGF Scheme - Indian Masterminds  
+_policy-news/IN · policy · ↑ tailwind · sectors: ev & mobility_  
+NTPC NVVN Invites Bids for 187.5 MW/750 MWh Battery Energy Storage Projects Under VGF Scheme Indian Masterminds  
+<https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNpLXNaQ0RtNHFxanVYQmtJVm8xWnZacFRCcFZyaF9TOExjRW1oWGNfYTM3ZDEwUlRyb2JTQ19xeGo5T0taOXczVm5FMTJyWjFTNkN5OGlCbEQ1allMeFlOVUpXRlE2WlQyU0ZlWHFvVG1TOFdCWTBfVm9wZTlZVzlVMlA0TC1leGxlR3E3alJXTFZpeVpCSGVaZjZDQ1VHcGZKbFlaTmhoYkQzUDdyWVFiQQ?oc=5>
+
+**[M21]** Indonesia’s solar manufacturers struggle to compete with Chinese imports as industry calls for protection - Indonesia Business Post  
+_policy-news/IN · trade · · neutral · sectors: solar & energy, manufacturing_  
+Indonesia’s solar manufacturers struggle to compete with Chinese imports as industry calls for protection Indonesia Business Post  
+<https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVFp4cWM1OVlzOC16THA2MF9RSkZWd0h3cmxUNGRmTUk0R0Q0WjRMRXlXVlVXMUlScGpvTlFXcDJkdmtsWHNyUU54Z0RGSGVtTVhLcV9iOEJsYnIxWEQwNng5eXF5Q1hDUm5fbTR4YXo1Tk80N0JlTnlrVElfci01V3JGdnBCX0tIUXJOSXliTmxNWndGcW9RVUVHLUk2aG5fczVWc0tmNXlrVnZRcVE1Ql9LZmU0VG14R2RKb0pfVnJ1MnZXMWp5dnNyUy14U2NQcHIwRjRUaWxWSWs4ZlRFa2RtcEZqeEIzZHFLVVVBTEY0UHRSejF4TQ?oc=5>
+
+**[M22]** RBI MPC Meet: Why economists expect a 25 bps repo rate hike amid El Niño concerns - The Financial Express  
+_policy-news/IN · policy · ↓ headwind · sectors: banking & rates_  
+RBI MPC Meet: Why economists expect a 25 bps repo rate hike amid El Niño concerns The Financial Express  
+<https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeG1FRkdlYkU0QjA3UkVXUVNyWUFBYjJ2Q0dzbGhSOFE5cHNuSl9sY0dFUG1mWGFDc3dXZktQRk9MUDRQZDd4RWlzcEdqMkV3OVc1RFA1TFliREw0cWwyZGpMU1V0cEV1ZnFkaE9fUHB4WkN4NTVvTk1vcDFjSkJWNTk3NTZHUnhiWkhjT1k5cngyS0pTQm5wR3I0UnRBeXdRM2FhYnN5cldkV1M0a2NMTUc1c2VqZVhDR2ZGZFE3bXkzcmZHZDFRZG44cF9PcTl2bWfSAdgBQVVfeXFMT2J2YVFHX0s2a0xDTXdhV0oyNHoyTElvaXlkRnR2TDFYSy1jVmZSMzA2T0FZaGJZTFFJV1VGVm5xUHhxVkwxVFBVYWZVTGg1QW5mMktlLUpCR2ZhZGlld1ZGVF9Ec3hhVVFvQ2NVenQ5OXN4UUxNb3czRXItZEwxeDJBMEFnVndEZGxfMGdFU1BiWTdBa1JicnlIVVF2VkthMTZyZGtpUy1HN29Idmd4UTM3YlpCcnk4U2ZOYzBqUHRqdUVDLWZ6LVUxRVZOS2pKVXRvbGtPN2ZE?oc=5>
+
+**[M23]** Central Government Approves ₹10,600 Crore Production Linked Incentive Scheme to Strengthen Technical Textiles Sector: Union Minister of Textiles Shri Giriraj Singh - www.pib.gov.in  
+_policy-news/IN · policy · ↑ tailwind · sectors: textiles & apparel_  
+Central Government Approves ₹10,600 Crore Production Linked Incentive Scheme to Strengthen Technical Textiles Sector: Union Minister of Textiles Shri Giriraj Singh www.pib.gov.in  
+<https://news.google.com/rss/articles/CBMiekFVX3lxTE5zVjRZT19XS0hZM014dTk4ak1yX1NLUjcyVFNjbEcyWXlFa01VOUplV1NSbVBVWHNaRTZzT3JJMy1WOVB1QjJoSFN3WWRwZW11OUE5cU92MWd2cGdRQmdlV2tVUmVDeENGaTVUa01LUmR4aXpSdkZuQkFB?oc=5>
+
+**[M24]** AI investments, borrowing costs to shape 2027 global growth: Major banks - Anadolu Ajansı  
+_policy-news/US · economy · · neutral · sectors: banking & rates, it & ai_  
+AI investments, borrowing costs to shape 2027 global growth: Major banks Anadolu Ajansı  
+<https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3dTYVBkRWpKX0xyTDlpakhHMTlSaDlCWFdHUWJhSng4OFgyald0VmRkZU14aVpKb00tSkJ2cUt6LXJmR1NVNVhKVDNGZEg0RjBNbFlUamwxU2lpd2hVMlZFUjM0eUxFd25qeUxoc2ZmeVdlMzBpR0NYZ2ZjVDExbXJyYlpQd0MzNVBzSFVlLWkyMlA3WGlCc3FBc1Z5VHhZMmNXSlFoU0g0YjZUa2NaYUo0UVVaMlRkSllSY0JOSWhsM19jU0E?oc=5>
+
+**[M25]** Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026  
 _RBI notifications · policy · · neutral · sectors: banking & rates_  
-RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions,…  
-<https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0>
+RBI/2026-27/304 DOR.STR.REC.256/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in…  
+<https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0>
 
-**[M19]** Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026  
-_RBI notifications · policy · · neutral · sectors: banking & rates_  
-RBI/2026-27/305 DOR.STR.REC.257/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and…  
-<https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0>
+**[M26]** Industrial parks, renewables, automotive and engineering lead Tamil Nadu’s ₹58,214 crore investment commitments  
+_BusinessLine Economy · policy · · neutral · sectors: solar & energy_  
+The new Industrial Policy is also under preparation and is expected to be ready by January 2027, said Industry Secretary S Vijayakumar  
+<https://www.thehindubusinessline.com/economy/industrial-parks-renewables-automotive-and-engineering-lead-tamil-nadus-58214-crore-investment-commitments/article71741454.ece>
 
-**[M20]** Rubber Board chief backs Tripura’s push for mission extension, better rubber processing  
-_BusinessLine Economy · economy · · neutral · sectors: real estate & construction_  
-The proposed extension aims to sustain rubber cultivation, strengthen processing infrastructure and improve returns for growers across the northeastern State  
-<https://www.thehindubusinessline.com/economy/agri-business/rubber-board-chief-backs-tripuras-push-for-mission-extension-better-rubber-processing/article71738004.ece>
-
-**[M21]** SpiceJet operations shrink to six aircraft, just over 20 daily flights  
-_BusinessLine Economy · policy · · neutral · sectors: travel & hospitality_  
-Promoter Ajay Singh meets Civil Aviation Ministry officials to provide an update on the airline’s situation  
-<https://www.thehindubusinessline.com/economy/logistics/spicejet-operations-shrink-to-six-aircraft-just-over-20-daily-flights/article71737916.ece>
-
-**[M22]** Travel agents ask Malaysia govt to extend visa free entry for Indian tourists  
-_BusinessLine Economy · economy · · neutral · sectors: travel & hospitality_  
-The appeal follows Malaysian government’s decision to end visa free entry for Indians from January 1, 2027.  
-<https://www.thehindubusinessline.com/economy/logistics/travel-agents-ask-malaysia-govt-to-extend-visa-free-entry-for-indian-tourists/article71737588.ece>
-
-**[M23]** Vallarpadam: Exporters seek waiver of detention, demurrage charges levied during scanning boycott by trailer crew  
-_BusinessLine Economy · trade · · neutral · sectors: msme & exports_  
-Importers say they face steep detention, demurrage and storage costs following the disruption of operations which was beyond their control  
-<https://www.thehindubusinessline.com/economy/logistics/exporters-seek-waiver-of-detention-demurrage-charges-at-vallarpadam/article71737476.ece>
-
-**[M24]** Dairy firm Doodhvale to expand operations to western and central India  
-_BusinessLine Economy · economy · · neutral · sectors: food & beverages_  
-The New Delhi-based firm sees potential in selling ghee abroad and is looking at North America, says co-founder and CEO Aman Jain  
-<https://www.thehindubusinessline.com/economy/agri-business/dairy-firm-doodhvale-to-expand-operations-to-western-and-central-india/article71737390.ece>
-
-**[M25]** Indian shrimp exports show signs of recovery, value-added products gain traction  
-_BusinessLine Economy · trade · · neutral · sectors: msme & exports_  
-CRISIL Ratings says that shrimp exporters are expected to report revenue growth of 10–12% in FY2026–27  
-<https://www.thehindubusinessline.com/economy/agri-business/indian-shrimp-exports-show-signs-of-recovery-value-added-products-gain-traction/article71737399.ece>
-
-**[M26]** VOC port’s coastal shipping volume rise by 32% in H1’27  
-_BusinessLine Economy · economy · · neutral · sectors: logistics_  
-Coastal cargo now accounts for nearly one-third of total port traffic; coastal vessel movements increase 38% during April–October 2026  
-<https://www.thehindubusinessline.com/economy/logistics/voc-ports-coastal-shipping-volume-rise-by-32-in-h127/article71737245.ece>
-
-**[M27]** IRDAI Reconstitutes Insurance Ombudsman Advisory Committee for Two Years - TaxGuru  
-_policy-news/IN · economy · · neutral · sectors: insurance_  
-IRDAI Reconstitutes Insurance Ombudsman Advisory Committee for Two Years TaxGuru  
-<https://news.google.com/rss/articles/CBMipAFBVV95cUxOakViZXZnczFuYmJ5X0UybGJUaElaTEpLdmhJVXQ1NWxKODJYVENKMzMxUnlCMFRHaWY5RjFIdjhEWmdTS2hfV1ZPR0dZenZvWVF6MEdRcjlEcFpnX25WeWkwRUt4S0dfbk9hV3g1NGxtZDZ5X3RVbWl0QXp6NlYzTGtxMUdVMmVoLTB6d0xFSUZxX3c1NmhXM1dFcW0xcVh3R0M4Qg?oc=5>
-
-**[M28]** SEBI Amends The FPI Regulations To Transition Fees To Indian Rupees And Streamline Registration Requirements - Legal 500  
-_policy-news/IN · policy · · neutral · sectors: stock market_  
-SEBI Amends The FPI Regulations To Transition Fees To Indian Rupees And Streamline Registration Requirements Legal 500  
-<https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUk1aUDNhWEcwVTI2TDhNbGZ5ajlBcUlVSDFVQmpPQTNYVnBmT1hPNE15azBwczdQcm1tQ2ZKcFJrUEZ4eUIwbDRYTTZ5RzBHekZGNFlYb1ZJQjRHckFBcTEyNWktNzd1TTN3S3U0RVV3ZzU0Ni02WGpadHJRNG5oWHZXeUxBaVIxTFJtY01xelg0NFhkMmhGOWV5aFI1RW04d2ttdzQxM0gtbTltSWMwclZFTkg5RFZCRm9Ed09ZSTVGcWxnZ2ZsMnduYWZHUE4tMFE1ODVlc2pLR0JuZXFESVJDQUVCSGZucEdvWVZzdzVBVk5UY3JyUFZNb2RtaG9kVXVFbmROU20?oc=5>
-
-**[M29]** Foodlink F&B Holdings India's Rs 361 Crore IPO From Nov.26 - Deccan Chronicle  
-_policy-news/IN · economy · · neutral · sectors: stock market_  
-Foodlink F&B Holdings India's Rs 361 Crore IPO From Nov.26 Deccan Chronicle  
-<https://news.google.com/rss/articles/CBMitgFBVV95cUxQSG9OVWl0YzZid1VNQWNmTmNVNGRoZFRydjRrcGJjS2xxMW9vb1dRVG92TmEtWmZocEdlamZGRDhzRGxZUEg0MFpoQU1QVU9wbGxUelJSTkthMmVJcGx6TWtwVGFKd0lwN2pvR1BiMm4xeGVPLVh3U0NOSHZsSEJLaGtyUkdTZkVaYmlLVERoMHlTVDVibVVtSjlaOE5rZV8tczdpM053aEZpR0NMMWZ5aHQzd0hmUdIBtgFBVV95cUxQSG9OVWl0YzZid1VNQWNmTmNVNGRoZFRydjRrcGJjS2xxMW9vb1dRVG92TmEtWmZocEdlamZGRDhzRGxZUEg0MFpoQU1QVU9wbGxUelJSTkthMmVJcGx6TWtwVGFKd0lwN2pvR1BiMm4xeGVPLVh3U0NOSHZsSEJLaGtyUkdTZkVaYmlLVERoMHlTVDVibVVtSjlaOE5rZV8tczdpM053aEZpR0NMMWZ5aHQzd0hmUQ?oc=5>
-
-**[M30]** ESIC’s Amnesty Scheme 2025 Extended Until 31 December 2026 - www.pib.gov.in  
-_policy-news/IN · policy · ↑ tailwind_  
-ESIC’s Amnesty Scheme 2025 Extended Until 31 December 2026 www.pib.gov.in  
-<https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNnk3cDBHeFA5RHQtQmljTzU0R3d2WXJiWmtvR2hzQjFTclpzeG9ka0stTDVnNS1jaHVzZmIxdV90V2lseW1ObWNIX1dRb04yeTJVTnhLaFUwQ0VBYjFxY21QZklObDN2?oc=5>
-
-**[M31]** Korea’s crude oil supply remains stable despite Middle East tensions - Korea JoongAng Daily  
-_policy-news/IN · economy · · neutral · sectors: oil & fuel_  
-Korea’s crude oil supply remains stable despite Middle East tensions Korea JoongAng Daily  
-<https://news.google.com/rss/articles/CBMivAFBVV95cUxPSF9VZ2s5aVNOTlBzQ2pZQ1N3VHhjd3Zlb1BGMDFoX3RoMkRrNlkwU2d0WFdCbExFTS1veU44MDFSUHNKc2ZMYm1aMk5FbTlMa0xKR0NJZVE3LXlDVWZKN183b1VLdmZXNUpqUzF2bUdUaEVzaEFDRkxBaXJ6UVJ3aGNJSUtUeHdIdzBKY1BFck1MZ01UMS1vV2xxQ09RU2g4anh0d1Y3U3A0UTU2OUN5MnZFdmJQdnMtNy1lbw?oc=5>
-
-**[M32]** Cabinet approves Emergency Credit Line Guarantee Scheme 5.0 - pib.gov.in  
-_policy-news/IN · policy · ↑ tailwind_  
-Cabinet approves Emergency Credit Line Guarantee Scheme 5.0 pib.gov.in  
-<https://news.google.com/rss/articles/CBMifkFVX3lxTE96VHFLSHRXSFFHamZQdVoxRnpKN3FBQmdaYWdGaHFvYkpFY2FiWWVEQ1k2RzNzNjlwWU9IWl9hSDVjVkJMeEFZVFBZcWJZUTdkVkNISGZFZVhEcHo5NncyOTJOT3dfQjFuekE1U2xaWE9yTlZkVGd4YjNBNW9ZZw?oc=5>
-
-**[M33]** Huang reinstatement points to developing crisis at the heart of the AI bubble - World Socialist Web Site  
-_policy-news/US · economy · · neutral · sectors: it & ai_  
-Huang reinstatement points to developing crisis at the heart of the AI bubble World Socialist Web Site  
-<https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KZHliV2hSQ0VfNlY2SzRFVkpHMHJnbzRsOWJMNU4wTWRtMWNQRzJfYW5UTWh4ZXZaQ2VGVzJuMkVicTBTRmc1ZjVENmZZWUt3MlA5RmZTTWxkQzVJLUZuRk5vbURsZUxM?oc=5>
-
-**[M34]** India may import 2 million tonne of sugar to bolster domestic availability  
+**[M27]** India’s net sugar production in 2025-26 at 27.95 million tonne, closing stock 3.55 million tonne  
 _BusinessLine Economy · trade · · neutral · sectors: food & beverages_  
-Production likely to be 27.5-28.5 million tonne in the 2026-27 season, while closing stock at the end of the current season is estimated at 2-2.5 million tonne  
-<https://www.thehindubusinessline.com/economy/agri-business/india-may-import-2-million-tonne-sugar-to-bolster-domestic-availability/article71734268.ece>
+Govt may allow food processing companies to directly import refined sugar  
+<https://www.thehindubusinessline.com/economy/agri-business/indias-net-sugar-production-in-2025-26-at-2795-million-tonne-closing-stock-355-million-tonne/article71741367.ece>
 
-**[M35]** Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in  
+**[M28]** October storms, rising labour costs hit Jammu’s prized Basmati crop  
+_BusinessLine Economy · economy · · neutral · sectors: agriculture_  
+Farmers estimate that production has declined by 25-30% this year  
+<https://www.thehindubusinessline.com/economy/agri-business/october-storms-rising-labour-costs-hit-jammus-prized-basmati-crop/article71741241.ece>
+
+**[M29]** Russia oil loses price edge in India as Middle East exports rise - The Edge Malaysia  
+_policy-news/IN · trade · · neutral · sectors: msme & exports_  
+Russia oil loses price edge in India as Middle East exports rise The Edge Malaysia  
+<https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TERISnVwb1NzMnRUUW5rRm9FNnltbXZYano1T3A4bG1hN21zcE1JV3ZEZEtUZl91SDdBRDJEWHZQRzZTaDBwaWtBbGVlaVZL?oc=5>
+
+**[M30]** India's Oil and Gas Import Bill Rises 60 Per Cent to $16 bn - Construction World  
+_policy-news/IN · policy · · neutral · sectors: real estate & construction_  
+India's Oil and Gas Import Bill Rises 60 Per Cent to $16 bn Construction World  
+<https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0V3YndwdG16bFhMcnJkUlUzY3BYOHBvYUc5dFZxbWFqWGFRMTFHYm5nQ3pMTHBmckFBUTh3TlBjSVpRbG1hZHlzZXBBYnpLYnJsd3czaEhqWFVyOE10WXZEYklyWnk2TEpvZmhwV3JQTHc4QkpBRmJZbkdRLUFUN0NEZUtaWjY2Z2lpX2dleTlEQmRWUDRZQVA5NndoQmw0LWFPX09GM2swMm5hN0pvX3ZmY2xvUXZXa2ZOVGc5MVZqRnN5Y2JZeGZwaw?oc=5>
+
+**[M31]** Building the technology and manufacturing ecosystem for India’s electric mobility growth - Manufacturing Today India  
 _policy-news/IN · economy · · neutral · sectors: manufacturing_  
-Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in  
-<https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5>
+Building the technology and manufacturing ecosystem for India’s electric mobility growth Manufacturing Today India  
+<https://news.google.com/rss/articles/CBMicEFVX3lxTE5HaHFFSlEtTXYzWHZQcVB3bzE2akJaS0pCUk53eFZLclZDbklkVjZxZlJNNXFsWHY3OGFxRExhLXpXSmZSUkxhcGNzVmpVaTFJRUIxb01lbGhXUmhYRnljd080dkI5ZFhnVDE2WmtwWmU?oc=5>
 
-**[M36]** High cost of US gas makes Indian urea production 47% costlier  
-_BusinessLine Economy · trade · · neutral · sectors: agriculture_  
-Industry hopes the government will import more of the fertilizer in addition to the 7.2 million tonne shipped in till October  
-<https://www.thehindubusinessline.com/economy/agri-business/high-cost-of-us-gas-makes-indian-urea-production-47-costlier/article71734832.ece>
+**[M32]** India Achieves 20% Ethanol Blending Target 5 Years Early, but New Procurement Rules Raise Industry Concerns - Dalal Street Investment Journal  
+_policy-news/IN · economy · · neutral · sectors: government tenders_  
+India Achieves 20% Ethanol Blending Target 5 Years Early, but New Procurement Rules Raise Industry Concerns Dalal Street Investment Journal  
+<https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2RmMXdrZ3IxTU1lX2hIcUNoengyajYyN1NjbVp1R3JUcTkwRHoyNzV2VlBPVmFxcmo0cENMd2cxWHNvaWVTUlZCQzBQazVXWFZOVU5jRzBvTDFIUkNOQ1BCZG9MQUloM0daWU9nazlsQTh0Q0w3WXRfRl94eVp0eU5mNDJIUFEwVzNSYXFxRy1PdlloZ2k4U3pvWXh3aE1EQjRTR3hqR2x2aTVvXzczeDZ1S1hHc3VMdkt0c1pxVFBNRGhOX0lrTlBZa0lwalpzakNyamdkaElUSWJ4aWNwTmJ5Vlc1TlJWdUE?oc=5>
 
-**[M37]** Pilots body questions DGCA’s selective action, seeks enhanced oversight of SpiceJet ops  
-_BusinessLine Economy · policy · · neutral · sectors: travel & hospitality_  
-The pilots association said that the regulator vigorously enforces rules concerning notice periods and NOCs when pilots seek to leave an airline  
-<https://www.thehindubusinessline.com/economy/logistics/pilots-body-questions-dgcas-selective-action-seeks-enhanced-oversight-of-spicejet-ops/article71735449.ece>
+**[M33]** No lockdown planned, Government assures amid West Asia crisis; fuel prices stabilised - DD News  
+_policy-news/IN · economy · · neutral · sectors: oil & fuel_  
+No lockdown planned, Government assures amid West Asia crisis; fuel prices stabilised DD News  
+<https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1NGaU5rOGo3bUpOU0dWQjJKMkpoQ1pZeXMxMkhDa3B1dmRDOFRUYnItalFZRVhXV0VxSzZ0MVRlTTBLZktiSmNBeFdiSzlOVGRlV2NQUkRYTjQ5dU92OVpsc0JQb0dyREhXOFBxRXBUNGlpcmY3UWZmMFQwdURra2xISXRnaHZBM2JiTGlIMjhDQmxHU0ZNNE9PNGNQWTAzaURCQUhqZXZWTENpQmc?oc=5>
 
-**[M38]** New tur arrivals begin in Karnataka, Maharashtra  
-_BusinessLine Economy · weather · · neutral · sectors: agriculture_  
-Drought likely to hurt yields, shrink the crop size in these major producing states  
-<https://www.thehindubusinessline.com/economy/agri-business/new-tur-arrivals-begin-in-karnataka-maharashtra/article71735238.ece>
+**[M34]** India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks - Bloomberg.com  
+_policy-news/US · trade · · neutral · sectors: it & ai_  
+India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks Bloomberg.com  
+<https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlkxVkJaV1pfaXFOdkZubU5NNGozd2xmdFp6T1NIa0JLWkJNbWRoRVlORVR6Zzl1X3dQUlRNeEZPNmtqYnppckVnSl9MQTQyWUd1R3dfR2ZNalJIazZyQUlQZmpLRTZkQm5oamlxRkhwbHRDMUZQNW5LeE8ycXNVSFF3dmg4WXU2UzJ5NllhLWxHNXBDaVAwYU5BSTVoSlhRbklOQS1OQzhWVGZMb2RjS2Q1UTJ0QXpYN0U1MlFoSHRNZFduX3c?oc=5>
 
-**[M39]** How SEBI Writes People In and Out of Power - BW Businessworld  
-_policy-news/IN · policy · · neutral · sectors: stock market_  
-How SEBI Writes People In and Out of Power BW Businessworld  
-<https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUkyU2tzTmNpWDZiNmR6VGJBUGJ2RzBWYmNzT3NvbXBWa1Zta1hGOVBoQVlacHN5a2tFOGtEWWZWekp1cEVrVm5sbHR4X21aZXh6VzhkbTZZd0EwUXdPVWJGZl82bi1sRVVkVDFqaWpxMDVyY1ZBYmpJem16MlFfdWh1UDNaV00yQmxzbWNDOA?oc=5>
+**[M35]** Incentive Scheme for Promotion of Domestic PNG Connections - pib.gov.in  
+_policy-news/IN · policy · ↑ tailwind_  
+Incentive Scheme for Promotion of Domestic PNG Connections pib.gov.in  
+<https://news.google.com/rss/articles/CBMid0FVX3lxTE5OS29vN2JCQlVuSlJlSk93dTRoUEtzRTU3T2NHXzFYS2VlLXpweUlTdWhSY2g0TEJVdFlZUVhLMjd2dTN4YUF6eHZRYm52a1lMOFFLNXlad2x6RmI1bThlY0tfaFJsQmJEazh1RlVoeG41NGV2MG9v?oc=5>
 
-**[M40]** India announces $1.63 billion package for Nepal, marking PM Balen Shah’s visit  
-_BusinessLine Economy · economy · · neutral · sectors: healthcare & pharma_  
-Modi says assistance will support reconstruction, create new opportunities; eight MoUs signed in health, traditional medicines, satellite communications, livestock & fisheries, sustainable urban development, among others  
-<https://www.thehindubusinessline.com/economy/india-announces-163-billion-package-for-nepal-marking-pm-balen-shahs-visit/article71734309.ece>
+**[M36]** Commercial LPG gas cylinder prices hiked by Rs 195 across Metropolitan Cities amid West Asia conflict - News On AIR  
+_policy-news/IN · economy · · neutral · sectors: oil & fuel_  
+Commercial LPG gas cylinder prices hiked by Rs 195 across Metropolitan Cities amid West Asia conflict News On AIR  
+<https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVFJbG9oT1dlbmpuMldHTWc2ZUhYNHhhamRFallUSDB6ODZ5Tjc5azJhRHhWQXhCMjU0RDVCVWdVUXlaYUN4ZFBEQ3NoVHZTVGpycFZYWXJkR1hyZGdCT0VndEEwYjMxTnI4d3ZIczZpWE1DcGdSdmowcXlnVFpVZlBYRXlXX3lhWVVaZUln?oc=5>
+
+**[M37]** Hiccups! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India-UK trade deal  
+_Mint Economy · trade · · neutral · sectors: logistics_  
+India has reaffirmed its tariff commitments under the India-UK trade deal amid a Scotch whisky classification dispute. Over 80 containers were held at ports, with duties potentially reaching 162.5%.&nbsp;  
+<https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html>
+
+**[M38]** Energy bills: What is happening to gas and electricity prices? - BBC  
+_policy-news/IN · policy · · neutral · sectors: solar & energy_  
+Energy bills: What is happening to gas and electricity prices? BBC  
+<https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wOFd4UUdmUDRFOXBTY1Vob2RkNW5QYzV2YlRMbklaTzc4ektQNUtyaGN1ZEo3QVNjenFFTFBMZHBBb3ZrTjFrWUxGejk1WU5hdjZrYXB6alhJZw?oc=5>
+
+**[M39]** Three Key Variables for Next Year's Economy: "AI, the War in the Middle East, and the Unpredictability of the Trump Administration" [Issue Interview] - 아시아경제  
+_policy-news/US · economy · · neutral · sectors: it & ai_  
+Three Key Variables for Next Year's Economy: "AI, the War in the Middle East, and the Unpredictability of the Trump Administration" [Issue Interview] 아시아경제  
+<https://news.google.com/rss/articles/CBMiekFVX3lxTE9xX1A4aUJKYnYxNDFrM1U1ZkhKVHlJaTc4TjNfbXNtRHBOa1gyZ1lEU0hkZ28tUkRxVmlWMEpzQkpQanBIbG1CNHFPZGhJOWZZaW12cThaN1NuTVhUcDZWaGZKQWtvNGU4b3pLbno2Uk5aNlZNS1FQMEtB?oc=5>
+
+**[M40]** Trump set to hit India, China, 14 others with new tariffs after probe - The Times of India  
+_policy-news/US · trade · ↓ headwind_  
+Trump set to hit India, China, 14 others with new tariffs after probe The Times of India  
+<https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHNaT0gwbVVEN0tGTVN1ZlBjRzF6WjhqZTktajRDdTNDenZYN25EUjAyQ3V0NXBjQUxvYTk4MlJNZkNnYVFXdk4tbFdINDM3SEtMUTl4UV9SZFdPaHdOVEpRMFEzWGd3c3JaWkFNdXgzOGFYYXhVQ0tMQURVbWlTbmFfa1YydGdtQUgweVZtelhRQ0JjSlB3SWpvUzdpQkx5Zkl4M1VOSTZjc2JhN0lGMXpfeTktT3BjZnlMTU9UX0FGNk1VYTU4OHJTdVN1LXdXTDdlM0dydVQ0VVVRLVV1M3NoY3UyWUVCdkhvMVlNNEJaNmfSAfgBQVVfeXFMTk1SNHFzdEZDSHBvRjdiYVNMT3NBbHFrQTEydXI3V1o4eFJiaWtkSWZFbE5xQkxvUGFHclB3WEJyMUtTNkFDUExyaEZyR0hqNDhLUG13c0I1ZFhNUFhETmdUdVQ1SlAwRk5nV1M4akZ3cTVzVWxmTmVpeE92emFaNGNUaVJ5UjZya2w4RE5oUEF5VnJFWGk0Q2NzSlc3Nm9mV2dOVnFWTm9MZHFOd1hOZ2tuN2xSRDB4a1hBcWprb1JuekZWampLNV93bmNiN1NoWnpBc0FDNUY4Y05CaGRqME1GZzR6ZWJpdHg2cGtUdW9Kc3dubUZRTEg?oc=5>
 
