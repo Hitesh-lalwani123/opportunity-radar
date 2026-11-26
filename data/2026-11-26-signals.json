@@ -2,16 +2,115 @@
  {
   "source": "hn",
   "origin": "hn/ask_hn",
+  "title": "Ask HN: How do you handle corporate life?",
+  "text": "I recently started in a 18000people corporation. I am wondering how people are dealing with corporate life? I am suddenly in a more consulting role, and people from IT tell me to not be too motivated, as the last people with my naive vision quit quite fast when they hit roadblocks everywhere. I read the submission about flailing recently, and while i can relate about having lots of parallel strategies, i am struggling with the human aspect. people talk about so much empty stuff and just push slides back and forth. how do you come to terms with this?",
+  "url": "https://news.ycombinator.com/item?id=50653499",
+  "ts": 1795686505,
+  "engagement": 5,
+  "label": "1 pts · 2 comments",
+  "pain": [
+   "struggling with",
+   "how do you handle"
+  ],
+  "score": 10.736
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "New Side Hustle: Get Paid for the Work You Already Do? (Full Hub Breakdown)",
+  "text": "This new Hub side hustle review will give you an inside look and show if you can really get paid for the work you already do. Or is it a waste of time? ✔️Join Hub (use code: MIKEGO): https://paidfromsurveys.com/JoinHub 👈 I have tested hundreds of ways to make money online. Recently, Hub reached out and invited me to test their site so I could explore this new side hustle and share it with my audi",
+  "url": "https://www.youtube.com/watch?v=UaOupn7Aq9s",
+  "ts": 1795614334,
+  "engagement": 113,
+  "label": "2,416 views · 26 comments",
+  "pain": [
+   "waste of time"
+  ],
+  "score": 7.491
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
   "title": "Ask HN: How to manage \"crown jewel\" files?",
   "text": "I’m looking to understand how organizations manage crown jewel type documents, designs, plans, strategies etc. Files that are not for general consumption across a company, but rather the sensitive material in a company that needs actual protection and access controls. I’m struggling with how to handle this properly for a growing venture. Thanks HN. - Windows shares with permissions? - Some form of content management system? - SharePoint? - Maybe unmanaged on specific users’ PCs (not great but probably the default in smaller organizations?) - Something else. What options are folks using that I may be overlooking?",
   "url": "https://news.ycombinator.com/item?id=50646423",
   "ts": 1795635508,
-  "engagement": 7,
-  "label": "3 pts · 2 comments",
+  "engagement": 9,
+  "label": "3 pts · 3 comments",
   "pain": [
    "struggling with"
   ],
-  "score": 6.731
+  "score": 6.796
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: What's your minimum criteria for a project to be low-AI or not vibecoded",
+  "text": "Let's assume we want to have a monthly thread for projects that are not vibe-coded or no/low-AI. Of course this filter cannot be actually enforced, and maybe very few projects are totally without any use of AI (even research could count as AI use). But if devs want to give a honest indication of the level of AI use, what do you think are good criteria for this? It is an interesting question to ponder. We could have a spectrum of AI use based on the following: - Is the project based on a one-shot prompt (perhaps followed by subsequent prompts), with no look at the code? - Are the tests and/or specs human-written and maintained? - Has AI been used to write any part of the code at all? - Has the dev actually written any part of the code by hand? What estimated percentage. - Is pretty much each edit reviewed/approved by the dev, only PRs? Is there any dev review at all? What do you think is a good criteria to consider a project an AI work, or a human work with AI assistance?",
+  "url": "https://news.ycombinator.com/item?id=50654648",
+  "ts": 1795696755,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "is there any"
+  ],
+  "score": 5.686
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Temu has pledged to change its business practices after complaints from national regulators in European countries - Mezha.net",
+  "text": "Temu has pledged to change its business practices after complaints from national regulators in European countries Mezha.net",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONV9KWWt1SndBakE5X2FhaU50YWNmbTV4dlNqQklXQnBwU1dMMTg5RFBrQm5FcTkxRTI1bW9nRXpuMFBaMm5wRDJ5Y1Nqek9RbU9VQVBmbTB1TkFPMUVXX2JqUGxSY3dMRWVHZWpNWkZINGRRZlpnbDRWV2VaZ3U0SQ?oc=5",
+  "ts": 1795696549,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.961
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Dollar shortage at Israeli banks pushes US currency to 14-month high - The Jerusalem Post",
+  "text": "Dollar shortage at Israeli banks pushes US currency to 14-month high The Jerusalem Post",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHJUc25taUkxSkdsc1I4VW93SDI5R1I5QzM4VmtaSzZ6Yk5yaFd3UHV2VExqZElNTnExS0RMN0I4cmFVYUhtTjNER3JsQlE1Y21FUC1JaHpha0pQRGxPVXdCZHlZaWFvNEJQZ1pLM1U3S2tPcFotcDZra2FkR1JrMmpFQi1yUnc?oc=5",
+  "ts": 1795689300,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.894
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "What everyday problems are Nigerians and Ghanaian businesses willing to pay someone to solve.",
+  "text": "What everyday problems are Nigerians and Ghanaian businesses willing to pay someone to solve. Sources: @Nairametrics | BusinessDay #ghana #nigeria #lagos #business #money",
+  "url": "https://www.youtube.com/watch?v=3GgtEkBabIQ",
+  "ts": 1795605438,
+  "engagement": 2,
+  "label": "25 views · 0 comments",
+  "pain": [
+   "willing to pay"
+  ],
+  "score": 4.881
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "ASIC sues AIG over insurance complaints handling failures - Insurance Business",
+  "text": "ASIC sues AIG over insurance complaints handling failures Insurance Business",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3FFOEFIQTFYcjE1QTJ5azJmc2MtNkFVQ3RLTkxsVUtXR2VyN1ZzTHlXU1NyZlB5MXVPS0xzdlJmTEFzbUM5R3FIbHFnMXdJNVdTNnlIMmhUUlowSlRvQmhfUUkxU21RSnVxVklOeDFyVXc4UWtzTjA4cHFORmZUVnhweUpJNmNNQ0tKaWlmLWdhUjV5S0xnNmpBNXVaOHpvYUoySVpvRkRNWWthU284d0FxVVVTM21HTmRTOGpTd1pJcjJCYVpR?oc=5",
+  "ts": 1795686964,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.873
  },
  {
   "source": "google_news",
@@ -25,7 +124,7 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.975
+  "score": 4.808
  },
  {
   "source": "google_news",
@@ -39,7 +138,7 @@
   "pain": [
    "shortage"
   ],
-  "score": 4.913
+  "score": 4.746
  },
  {
   "source": "google_news",
@@ -53,21 +152,35 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.895
+  "score": 4.728
  },
  {
   "source": "google_news",
   "origin": "news/IN",
-  "title": "ASIC sues AIG over insurance complaints handling failures - Insurance Business",
-  "text": "ASIC sues AIG over insurance complaints handling failures Insurance Business",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3FFOEFIQTFYcjE1QTJ5azJmc2MtNkFVQ3RLTkxsVUtXR2VyN1ZzTHlXU1NyZlB5MXVPS0xzdlJmTEFzbUM5R3FIbHFnMXdJNVdTNnlIMmhUUlowSlRvQmhfUUkxU21RSnVxVklOeDFyVXc4UWtzTjA4cHFORmZUVnhweUpJNmNNQ0tKaWlmLWdhUjV5S0xnNmpBNXVaOHpvYUoySVpvRkRNWWthU284d0FxVVVTM21HTmRTOGpTd1pJcjJCYVpR?oc=5",
-  "ts": 1795667081,
+  "title": "Major Aussie insurer faces legal action from watchdog over handling of complaints after bereaved and injured customers allegedly left waiting - Daily Mail",
+  "text": "Major Aussie insurer faces legal action from watchdog over handling of complaints after bereaved and injured customers allegedly left waiting Daily Mail",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG16VExzUjM5eEtsZ3JMYmNLMVA4Vk85ZElEenVHRjNsZ1ZKTkxrT2x3MnZEdVBuY2FrNXRUYTd0ckJjYW1FaGItVFdKZXVJZTdFODdqcXdRYVlVQTI4Nm1LZVFWQXFkdk5Rb1ZHU294M1h6WkROUzQ5WWxKcHZGczdTdnJ2TkNwUzNrWHVXNjNkRHVxYWtQUkpoNDVDdFNFVHBnUtIBqgFBVV95cUxQc1NqRVpLMm83OUw1YmhsVkcyQkFvZjFWM2VEUWFfNUFrZzkwTTZ4WldudkJmX0d2MndaSUVVWHVtWkdJTWQzMndxajdzbTQ4MEhuLTNnUi1ZMDlpMjVsd3I2V09rWkJVc3MxbjdvMXQ4T25ZMUZLUDZwaFU3U19CNjJQdGFES3ZGSFZBclRrMnFoVV9WYW9CMHRHOXdaY05DWV9oOVBxQUd4Zw?oc=5",
+  "ts": 1795667160,
   "engagement": 0,
   "label": "",
   "pain": [
    "complaints"
   ],
-  "score": 4.856
+  "score": 4.689
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Mopping floors with potable water tops PAANI app complaints - The Times of India",
+  "text": "Mopping floors with potable water tops PAANI app complaints The Times of India",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc256MkY5LVFYZXZNdWJwUlo3dG5kSXVYMkJEdlZJSlVwTUdUWWRuWXEwM0FjTFhUMmN5Slk0NndIOTIxNlRaTU1UQlJkeVNyNUJYRnpkdjNSUmNHVTlLVWY2UmhTUEhRcWZmeHhfS1dNeWtOY2FOOUFFQ056d2xxSFY0YXdXeENRTFRnbFh6UjZpMlp0TWh5V3c0YjFyblpXRmRlMGVld2t5TEp4LVhiNFRxYzVyODdPZGpiVFVUWWVpRDhtZ19RaG5ROWRHN01HT1HSAdcBQVVfeXFMT3dMOVU1OWplRTBTLWdTRHBPVnhzdmh1OWE5NHMxNHE0MXNIaEh5enlRZTNCaUZ6Q1h1NUhmM3huYTMxOUFvcklzR0xmUlZUaUZwdVB4RWNKdFY4aTZneXdNeGZsWmRpS2FjMXktdWFNb0syZjdDaENZWUFoVF9scE9QTVU5WTBTTkVETDdUSk1ITEx0MHlGTWtNZTBpTFdYRjlRRTJsZU9xTkFLd296dmU2UjFIUk9qMnVWZVNrVFcxTTFoYjJCQUcwV0I1Y28zaDdzSG13ck0?oc=5",
+  "ts": 1795664160,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.661
  },
  {
   "source": "google_news",
@@ -81,7 +194,7 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.819
+  "score": 4.651
  },
  {
   "source": "google_news",
@@ -95,7 +208,21 @@
   "pain": [
    "shortage"
   ],
-  "score": 4.813
+  "score": 4.646
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Complaints Over Skin Procedures Double as Refund Disputes Dominate - Seoul Economic Daily",
+  "text": "Complaints Over Skin Procedures Double as Refund Disputes Dominate Seoul Economic Daily",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2JfZlZjSVdUUmxjUC1DaXRMRVNiaENGaUNubWR6bDlVcE5GOVlBU25lZUlhRzZsYWxGOEhmcjVSTkNRZnZid0s4WnlRb3loNGFtMlVZSThZeVY1R3gtSTVxeVdESmpmeF9tQmpTdTNKYjZ6cm5JeldtYlpLSmtPQ0IyTTJBTGg2UW51Y1ptV2U2TmYydGtKelU5MGJMTlk0?oc=5",
+  "ts": 1795662078,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.642
  },
  {
   "source": "google_news",
@@ -109,35 +236,35 @@
   "pain": [
    "shortage"
   ],
-  "score": 4.742
+  "score": 4.575
  },
  {
   "source": "google_news",
   "origin": "news/IN",
-  "title": "Harmoni Pendant Reviews and Complaints: One Necklace, 200+ Claimed Frequencies. What's in the Box? - Newswire",
-  "text": "Harmoni Pendant Reviews and Complaints: One Necklace, 200+ Claimed Frequencies. What's in the Box? Newswire",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREJINWdBazN0ZVBvX09HSUdKNWhBQVNxNmtIZjg3VGtZYzRKWVdmN2R3NG5FRmVlWEIwOVgwVjFtOUdEbmxEOXlHTmJ3aEJwbGFTZ0FObUNZX1ZBLVZzaGE0TXZFd0w2NC0xQ2VrTUJPYVFOV29iMmVtTXdOU3pMSjdYVDdRbVhGM1B4c21hYTZIU0h5YlllWXhzQlg4RWZ0SV9QU29GZVE?oc=5",
+  "title": "Harmoni Pendant Reviews and Complaints: One Necklace, 200+ Claimed Frequencies. What's in the Box? - ACCESS Newswire",
+  "text": "Harmoni Pendant Reviews and Complaints: One Necklace, 200+ Claimed Frequencies. What's in the Box? ACCESS Newswire",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGdqbXJQMVIyMUItSE9jYjVqMUx1cEtXVy1XQTB5cF9rald3anVpWjBzbm1aNjlENXVQeS1RWjRwRTFxTlhOY3pzNmFmU1ViX2xWaXhYYUxPLUJ1OHdwSHUzR1FNTzk0bjF5MFFJZUZubUtkaGd6MUJydHpzSE1KWlUwUmhuaVlEUkpfUUZXaGlGY3c0Z0J4ZkIyaS13LVZ2dlZILVN6UnZVb1g1dU5PcjFNSVU5OWdYTTlhTTZ2V05kN1lfa1Zyb0tRZkVJcG1ON1VOazZ2UU5XM052QnJoZ0oxUHA?oc=5",
   "ts": 1795653900,
   "engagement": 0,
   "label": "",
   "pain": [
    "complaints"
   ],
-  "score": 4.734
+  "score": 4.566
  },
  {
   "source": "google_news",
   "origin": "news/IN",
-  "title": "NewEra Protect Reviews and Complaints: What's in the $79 Bottle for Women Exploring Bladder Support? - Newswire",
-  "text": "NewEra Protect Reviews and Complaints: What's in the $79 Bottle for Women Exploring Bladder Support? Newswire",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzVycHVkb0EtVTRpMldyd2RfTkNnYngyelg0cnpOak9KdmJpMGFaeVY1cVZSY1ZXQTRRV2dqZHotUHJTdzd5bWFsOGxKWHFEYUgzMGhVQzBFbGVJRGZsTnZjSUJNcW9FMURmVlZxTDR6dHRzbFFla1k5dGVwQ3Jkc3lTTnUzRFdLZEhydl9TN3ZWY2NieVNfWTJSNFlUOEczNExN?oc=5",
+  "title": "NewEra Protect Reviews and Complaints: What's in the $79 Bottle for Women Exploring Bladder Support? - ACCESS Newswire",
+  "text": "NewEra Protect Reviews and Complaints: What's in the $79 Bottle for Women Exploring Bladder Support? ACCESS Newswire",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOanhjc1RCM3ZHZnY2QVc1eVI5UWpmNkNkNHAteXZGTmlUdWtXMV8zRTJKSG5PR3pKVWZUc2M3MERSUGllSlYwLWNlNk05eXpyalB0MnlJMWVWTWh3VnNfTGltaENBMnIyZmNWT1BEajNBRVhmQTMwZlY3ZnpWZkFPd1dId2EtdnZzSy02V05rX1lyMk1LS1Q5LXY4aWx5a0plUW1vU2NuajF3UlVGVEcySU8zZlI3ZXNSeTItUFRTcHV0VWhtZDZIdVl0cmpVc0VEaEcwdnlRTllrX3ZsVGZYazFhd1M?oc=5",
   "ts": 1795652100,
   "engagement": 0,
   "label": "",
   "pain": [
    "complaints"
   ],
-  "score": 4.717
+  "score": 4.55
  },
  {
   "source": "google_news",
@@ -151,7 +278,21 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.678
+  "score": 4.511
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Shein settles FTC case over shipping promises, reviews and customer complaints - KHOU",
+  "text": "Shein settles FTC case over shipping promises, reviews and customer complaints KHOU",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMzJTQlFqTEVBajM4aFJobkJ4a2JDakJtMkx4UUdJM2xTMldEUzRfQ3ZYVTVaQXRjVFQ4aEhnN1FhZFhGN04zcXVQNXpOeUdwN2RIRmdqXzVqXzlxemlUMjFlTDg2eXo4dkdVUHhsc0tHTXplMHJtUzBKQ0lhWFlDbkxfNXJtS0ZvWE9ZRE5GYjcwVnBySWxvaWJYWjAtTmxtd1Q4d09yU0VRWHVtaHUwdVp2NTBIRFljTGVndHlLdzRNalVSWGFpX05lVGJGcVlkUVVDV2FLM1RDWjE4V21JZXZJX1gxM1ltVVlmaEs3azM?oc=5",
+  "ts": 1795646276,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.496
  },
  {
   "source": "google_news",
@@ -165,7 +306,7 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.631
+  "score": 4.464
  },
  {
   "source": "google_news",
@@ -179,7 +320,7 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.575
+  "score": 4.408
  },
  {
   "source": "google_news",
@@ -193,49 +334,7 @@
   "pain": [
    "complaints"
   ],
-  "score": 4.466
- },
- {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Inverite Welcomes Federal Designation of Standards and Complaints Bodies as Canada Advances Consumer-Driven Banking Framework - TradingView",
-  "text": "Inverite Welcomes Federal Designation of Standards and Complaints Bodies as Canada Advances Consumer-Driven Banking Framework TradingView",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObnBaUVdJOEQtSUpDaFdKU0RGMldRREhuX2RJc3dNZ1BpdW1LNmV3V2RGT0VQeHNyUDFWUnNYQ0NYdHZObHo1T3k0Z0d2UkNLdDlFX2Ywa2dFR0cycFZadFJBQTd5YjFWLXg0cU8xVEEwTFhwZ3c1QWdNNjZib3REVnFROERHQ1pkeldBWGlGQ0staUpsT3pVX1E0aTJYaGZZQ19WU1dtY2Y3Y3g3X2dMOWZoU3hZbGhybWVDTWF2ak1ZcGMzdWxGTVFHMTl4R3RZaDkwY25YLWZSdURkNTM2UDdnckluRzI4U2RSbXZCeVBZWmlzUFg3bnpyNktXMFg4LXRrdUVXNGtOT09vUlpvNk55bnVrejJzRUw3am14TTNIOVd3S1ptYQ?oc=5",
-  "ts": 1795608004,
-  "engagement": 0,
-  "label": "",
-  "pain": [
-   "complaints"
-  ],
-  "score": 4.309
- },
- {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Surging AI demand triggers equipment shortages in the semiconductor and advanced packaging substrate supply chain. - KuCoin",
-  "text": "Surging AI demand triggers equipment shortages in the semiconductor and advanced packaging substrate supply chain. KuCoin",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmlsbGRwRHJFakpMTnBPVmxtYXZEaC1GeGFQRFBmMWx3cmNzS3Rtb1k4ak1LSE16THYxS200dWQtSnNLcnl1aDZKOU5HdWJHNlZCSkJlMHliaVNFb2VmSUFEM3R3UUdibkNYakNNcndvOVVXZ2lDNV9ORXkyaUZGQUp0cEh1bmpIZ01YREVORk5JZlUtbExwNHJBU3FNcVFqN2V5cXNxZEVBbXFuWTNXeHVqWXpWZm5ZUFlLMjNEWTZXc3gtelFMRGJDTHpuWUtZVUxJTHl3?oc=5",
-  "ts": 1795606690,
-  "engagement": 0,
-  "label": "",
-  "pain": [
-   "shortage"
-  ],
-  "score": 4.297
- },
- {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Consumer Council missed targets on handling complaints, product tests: audit - South China Morning Post",
-  "text": "Consumer Council missed targets on handling complaints, product tests: audit South China Morning Post",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk00SVRTcjVBTVVhZ2tndVp3MmliOFh4MFdmT19WOVQtWndheDktZm1aemVHRjJKYXJlNjNYa1ZUNTBqQjdyVWVKSHlDSG5uM0lBR2xvNWZ0T0JaNWUxbGJWXzJyejBuY1lVdUI4RmJFOFdGZXQ1SGdSQVNiaklROFFkZ1JKWnp3TVFIRllnR0hUQ0RUd2QyQm9GZkt0NlNWNVpSZzhXandETi1DVldJRWJxb0NiV2VvNjRTZ014ZE9XYW5hdWtweGU2Y9IBywFBVV95cUxQMUtMbWxSUElZTzBCRjROUlZvS2VQWGNlazNjWllnT1FEdmVCbnJiS2pES2RmdUFqSy1oVUM4OENIVHBfamxubkgxR29rMmRpTEhZSmk0SEdoNTE5WjUtYU5YM1JvRWZpQ0l0MGZseXJWQk9qejQtYXJDVHc0YUFTMUdNTl9mMzg0SUhBTER6aWNROHJFUllFQWNPQXBvc1BwRF9rcW9kbjl3clc3V21RbkRwRXRmTjktNWIybHZrN0FPQmtDM1JqSmx0NA?oc=5",
-  "ts": 1795602718,
-  "engagement": 0,
-  "label": "",
-  "pain": [
-   "complaints"
-  ],
-  "score": 4.26
+  "score": 4.299
  },
  {
   "source": "hn",
@@ -244,10 +343,10 @@
   "text": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220",
   "url": "https://news.ycombinator.com/item?id=50646108",
   "ts": 1795633887,
-  "engagement": 3954,
-  "label": "1442 pts · 1256 comments",
+  "engagement": 4795,
+  "label": "1709 pts · 1543 comments",
   "pain": [],
-  "score": 9.182
+  "score": 9.215
  },
  {
   "source": "hn",
@@ -256,10 +355,10 @@
   "text": "",
   "url": "https://news.ycombinator.com/item?id=50644817",
   "ts": 1795627106,
-  "engagement": 2565,
-  "label": "1391 pts · 587 comments",
+  "engagement": 2819,
+  "label": "1517 pts · 651 comments",
   "pain": [],
-  "score": 8.668
+  "score": 8.599
  },
  {
   "source": "hn",
@@ -268,10 +367,10 @@
   "text": "https://archive.ph/pcUgy",
   "url": "https://news.ycombinator.com/item?id=50647673",
   "ts": 1795641482,
-  "engagement": 961,
-  "label": "357 pts · 302 comments",
+  "engagement": 1245,
+  "label": "467 pts · 389 comments",
   "pain": [],
-  "score": 7.778
+  "score": 7.881
  },
  {
   "source": "hn",
@@ -280,22 +379,10 @@
   "text": "",
   "url": "https://news.ycombinator.com/item?id=50648050",
   "ts": 1795643290,
-  "engagement": 884,
-  "label": "438 pts · 223 comments",
+  "engagement": 1051,
+  "label": "489 pts · 281 comments",
   "pain": [],
-  "score": 7.708
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Slow Ubuntu security response times",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50647181",
-  "ts": 1795639080,
-  "engagement": 526,
-  "label": "278 pts · 124 comments",
-  "pain": [],
-  "score": 7.129
+  "score": 7.721
  },
  {
   "source": "hn",
@@ -304,10 +391,22 @@
   "text": "",
   "url": "https://news.ycombinator.com/item?id=50651117",
   "ts": 1795664218,
-  "engagement": 404,
-  "label": "204 pts · 100 comments",
+  "engagement": 729,
+  "label": "345 pts · 192 comments",
   "pain": [],
-  "score": 7.087
+  "score": 7.534
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Slow Ubuntu security response times",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50647181",
+  "ts": 1795639080,
+  "engagement": 691,
+  "label": "341 pts · 175 comments",
+  "pain": [],
+  "score": 7.245
  },
  {
   "source": "hn",
@@ -316,58 +415,22 @@
   "text": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments) I believe I found the problem. The pool of stories for https://news.ycombinator.com/ask has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs. p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted without a URL.",
   "url": "https://news.ycombinator.com/item?id=50649864",
   "ts": 1795653814,
-  "engagement": 431,
-  "label": "249 pts · 91 comments",
+  "engagement": 558,
+  "label": "312 pts · 123 comments",
   "pain": [],
-  "score": 7.058
+  "score": 7.159
  },
  {
   "source": "hn",
   "origin": "hn/front_page",
-  "title": "I checked Clojure's core with Lean and found unreported bugs",
+  "title": "Intel One Mono font",
   "text": "",
-  "url": "https://news.ycombinator.com/item?id=50642939",
-  "ts": 1795618612,
-  "engagement": 371,
-  "label": "219 pts · 76 comments",
+  "url": "https://news.ycombinator.com/item?id=50653667",
+  "ts": 1795687861,
+  "engagement": 396,
+  "label": "186 pts · 105 comments",
   "pain": [],
-  "score": 6.576
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50647161",
-  "ts": 1795638950,
-  "engagement": 235,
-  "label": "133 pts · 51 comments",
-  "pain": [],
-  "score": 6.29
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Bare Metal Qwen",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50648365",
-  "ts": 1795644934,
-  "engagement": 207,
-  "label": "139 pts · 34 comments",
-  "pain": [],
-  "score": 6.214
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "The polynomial Hirsch conjecture is false [pdf]",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50644980",
-  "ts": 1795628074,
-  "engagement": 234,
-  "label": "152 pts · 41 comments",
-  "pain": [],
-  "score": 6.185
+  "score": 7.118
  },
  {
   "source": "hn",
@@ -376,70 +439,10 @@
   "text": "",
   "url": "https://news.ycombinator.com/item?id=50649834",
   "ts": 1795653600,
-  "engagement": 182,
-  "label": "150 pts · 16 comments",
+  "engagement": 372,
+  "label": "276 pts · 48 comments",
   "pain": [],
-  "score": 6.161
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Minipg: PostgreSQL as a Single Executable",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50650892",
-  "ts": 1795662048,
-  "engagement": 139,
-  "label": "107 pts · 16 comments",
-  "pain": [],
-  "score": 5.96
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Deriving Black-Scholes",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50644814",
-  "ts": 1795627095,
-  "engagement": 161,
-  "label": "69 pts · 46 comments",
-  "pain": [],
-  "score": 5.788
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50648323",
-  "ts": 1795644745,
-  "engagement": 116,
-  "label": "92 pts · 12 comments",
-  "pain": [],
-  "score": 5.613
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50651719",
-  "ts": 1795669979,
-  "engagement": 91,
-  "label": "73 pts · 9 comments",
-  "pain": [],
-  "score": 5.596
- },
- {
-  "source": "hn",
-  "origin": "hn/front_page",
-  "title": "Qualcomm's Oryon 3 Reaches the Top",
-  "text": "",
-  "url": "https://news.ycombinator.com/item?id=50651158",
-  "ts": 1795664604,
-  "engagement": 70,
-  "label": "44 pts · 13 comments",
-  "pain": [],
-  "score": 5.276
+  "score": 6.736
  },
  {
   "source": "hn",
@@ -448,274 +451,370 @@
   "text": "",
   "url": "https://news.ycombinator.com/item?id=50652184",
   "ts": 1795674768,
-  "engagement": 53,
-  "label": "23 pts · 15 comments",
+  "engagement": 295,
+  "label": "125 pts · 85 comments",
   "pain": [],
-  "score": 5.085
+  "score": 6.691
  },
  {
   "source": "hn",
-  "origin": "hn/ask_hn",
-  "title": "Ask HN: If you had no limitations what would you build in AI?",
-  "text": "- You know the field, even if you are not a top expert. - You know a group of investors who believe in you and will back your next move. - Your idea could be implemented with technology that exists today or could exist in the near future. Please, explain why it fits with the premisses. What would you build?",
-  "url": "https://news.ycombinator.com/item?id=50643310",
-  "ts": 1795620563,
-  "engagement": 45,
-  "label": "9 pts · 18 comments",
-  "pain": [],
-  "score": 4.416
- },
- {
-  "source": "hn",
-  "origin": "hn/ask_hn",
-  "title": "Ask HN: Where are all the amazing AI-generated software?",
-  "text": "I feel like the most amazing thing about AI so far is AI itself. Is anyone using a brand-new tool that was not available 5 years ago? I see people decompiling/reverse engineering the Adobe suite, which is an amazing feat, but the resulting software itself is barely usable. Since it’s so easy to build anything now, I get a sense we’re seeing a proliferation of one-off, proof-of-concept projects, where great software takes time and effort and often multiple people, AI notwithstanding.",
-  "url": "https://news.ycombinator.com/item?id=50643767",
-  "ts": 1795622551,
-  "engagement": 43,
-  "label": "9 pts · 17 comments",
-  "pain": [],
-  "score": 4.388
- },
- {
-  "source": "hn",
-  "origin": "hn/ask_hn",
-  "title": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
-  "text": "In 2024, multiple Nobel Prizes were awarded for AI related accomplishments: > 2024 Nobel Prize in Physics: Awarded to John J. Hopfield and Geoffrey Hinton for foundational discoveries and inventions enabling machine learning with artificial neural networks. (Source https://en.wikipedia.org/wiki/Geoffrey_Hinton) > 2024 Nobel Prize in Chemistry: Awarded to Demis Hassabis and John M. Jumper for developing an AI algorithm (AlphaFold) that predicts complex three-dimensional protein structures (Source https://link.springer.com/article/10.1007/s00146-025-02527-z) I would classify the work that got them the physics prize as basic research that played a big part in enabling AI. And the prize in Chemistry falls into a similar category I think… Now, both openAI + Anthropic are maybe less involved in basic research directly but the things they \"produce\" are now used to solve problems humanity tried to solve for many many years. If they both published all of their papers under a different name, a name that sounds like a real persons name, I am sure that person would be considered for multiple Nobel Prizes. It rarely happens but \"organizations\" can receive Nobel Prizes. Eg.: > The European Union (EU) won the 2012 Nobel Peace Prize for over six decades of advancing peace, reconciliation, democracy, and human rights in Europe So why not OpenAI + Anthropic? (Yes, its maybe still a bit early, given that some of the papers still are pending proper peer review - but overall the question remains: How would humanity deal with \"that\"? \"That\" being that the \"products\" of two companies made those scientific breakthroughs?",
-  "url": "https://news.ycombinator.com/item?id=50647893",
-  "ts": 1795642432,
-  "engagement": 35,
-  "label": "11 pts · 12 comments",
-  "pain": [],
-  "score": 4.363
- },
- {
-  "source": "hn",
-  "origin": "hn/ask_hn",
-  "title": "How can people make money as AI replaces intellectual jobs?",
-  "text": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition?",
-  "url": "https://news.ycombinator.com/item?id=50651911",
-  "ts": 1795671993,
-  "engagement": 24,
-  "label": "12 pts · 6 comments",
-  "pain": [],
-  "score": 4.256
- },
- {
-  "source": "hn",
-  "origin": "hn/show_hn",
-  "title": "Show HN: Openfal, local image and video generation with a fal-style API",
+  "origin": "hn/front_page",
+  "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
   "text": "",
-  "url": "https://news.ycombinator.com/item?id=50647219",
-  "ts": 1795639252,
-  "engagement": 25,
-  "label": "15 pts · 5 comments",
+  "url": "https://news.ycombinator.com/item?id=50647161",
+  "ts": 1795638950,
+  "engagement": 305,
+  "label": "171 pts · 67 comments",
   "pain": [],
-  "score": 3.994
+  "score": 6.394
  },
  {
   "source": "hn",
-  "origin": "hn/ask_hn",
-  "title": "Ask HN: Are you polite to AI? Why or why not?",
-  "text": "I'm often polite to AI, I find myself saying \"please\" and so on. I don't know if that affects its results significantly, but that's not why I do it. I think it's more that it's ingrained in me to be polite in conversation, especially when my interlocutor is as unhesitatingly polite as AI tends to be.",
-  "url": "https://news.ycombinator.com/item?id=50649186",
-  "ts": 1795649306,
-  "engagement": 22,
-  "label": "4 pts · 9 comments",
+  "origin": "hn/front_page",
+  "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50654289",
+  "ts": 1795693849,
+  "engagement": 184,
+  "label": "112 pts · 36 comments",
   "pain": [],
-  "score": 3.959
+  "score": 6.377
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "India’s Car Boom Defies Global Slowdown as Consumers Embrace Credit and Automakers Expand - Sri Lanka Guardian",
-  "text": "India’s Car Boom Defies Global Slowdown as Consumers Embrace Credit and Automakers Expand Sri Lanka Guardian",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHVfQ1EwR1QtQU1BWjdtanBMX3ExYVhuajZTSXVCLXg5VC1RN2tzTXhrUkh3T0RudTA4LUxlYmNJczR3NU9PVHhGVHpGcUZrVW1HR2Z3N0VjaTZoYl8tYTE3Q3ZtOU9iLXB2VDlyS3ExVnozWXQxMzFFcUE3U1ZISFd2ZVBielRramZVdXlyTGlBVmRPX3MzMlotZ1RmcDNQSDdkTkZaeUVuaGk1bWxYeUhn?oc=5",
-  "ts": 1795682404,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Minipg: PostgreSQL as a Single Executable",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50650892",
+  "ts": 1795662048,
+  "engagement": 235,
+  "label": "183 pts · 26 comments",
   "pain": [],
-  "score": 0.998
+  "score": 6.337
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "This Indian startup wants to build machines that can think and act on their own - India Today",
-  "text": "This Indian startup wants to build machines that can think and act on their own India Today",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkxOZTBkNmhFWU9pbGZNeTlXYmczNm13TUw5amhjQWxjNWpuR3BxWnVaM1Q4TTVsX0lUa2MwLTB6UVZCWVBRUWRqb0FCcjhfQmx2YV91cUZiWXFfbllGS2lwVWZnZVl2OXdUZUNockIzZmNuSXFoQmNncGhfWjNnUlVzQS1FOWpLRTVKTjFDTXZNM1EwM1A2X0R5azdrbGEyVDNhTmJtQTZQU3hHQy1jcTc5WFBEOXNUT2szbnpPcjdoRDc3czdaVkFpVk9JV2xLdzh4U1ExMGFnSGU4OHhF0gHfAUFVX3lxTE1iTE5lMGQ2aEVZT2lsZk15OVdiZzM2bXdNTDlqaGNBbGM1am5HcHFadVozVDhNNWxfSVRrYzAtMHpRVkJZUFFRZGpvQUJyOF9CbHZhX3VxRmJZcV9uWUZLaXBVZmdlWXY5d1RlQ2hyQjNmY25JcWhCY2dwaF9aM2dSVXNBLUU5aktFNUpOMUNNdk0zUTAzUDZfRHlrN2tsYTJUM2FOYm1BNlBTeEdDLWNxNzlYUEQ5c1RPazNuek9yN2hENzdzN1pWQWlWT0lXbEt3OHhTUTEwYWdIZTg4eEU?oc=5",
-  "ts": 1795682167,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "This Street Food Business Has a Genius Owner! #shorts",
+  "text": "What if your street food business could run while you work a corporate job? 🤯 Meet a pani puri business owner who operates 3 street food carts while working as an engineer in Gurgaon. Each cart sells around 300 plates of pani puri every day at ₹20 per plate. That's ₹6,000 in daily sales per cart and ₹5.4 lakh in combined monthly sales across all three carts. But here's the real business secret",
+  "url": "https://www.youtube.com/watch?v=G7kluXWPrH0",
+  "ts": 1795598334,
+  "engagement": 8407,
+  "label": "251,717 views · 261 comments",
   "pain": [],
-  "score": 0.996
+  "score": 6.331
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Vance says Jensen Huang’s return gives Nvidia an opportunity to comply with U.S. export controls - The Hindu",
-  "text": "Vance says Jensen Huang’s return gives Nvidia an opportunity to comply with U.S. export controls The Hindu",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSE9sMldZY2FUaE1tbF92N1VGT00weE93UEpMVTk3RENIaDhDX0dwRW1jTGN4QllEX3RHTzd0S2NYOXZyLXJqanp3NldLRXZpSDdqNlRCdTB2ZUJkendZbmtlX2RqWmtHanR3cGVaMlRmMmlfN1ZPNGI2Mk9ZTFhJZWw4ZFZvTEYzTktia05yMmVCNHVVTVY0b1lDMGdabFRzVm5icERfNVlGRU1jMFB4SlRvNDVCLXItNlRZeElBRmVwMjNtQ1JkWU1pb0lLbTNFeDgweHVTSmo5bHZlMjVTcHJrbTVpLVU?oc=5",
-  "ts": 1795682186,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Bare Metal Qwen",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50648365",
+  "ts": 1795644934,
+  "engagement": 263,
+  "label": "183 pts · 40 comments",
   "pain": [],
-  "score": 0.996
+  "score": 6.295
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "ASIC sues AIG Australia over alleged complaint handling delays - streamlinefeed.co.ke",
-  "text": "ASIC sues AIG Australia over alleged complaint handling delays streamlinefeed.co.ke",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcU9XaFJMM1NFV0hsMWlhQUNkLWRqY2x1VTVua2U0U0VaMTBMd19Ba2VGdEhEaXZaQlpXUXNJMnFqbkNKOVFQRXBDSTFfcDdnSE9oSkFsZmp0aDEzOTZfV2RZTml3ZjBiQVFxaFJDMzJ0dzZ5TkE4dUd1eldsOGFJaUZYV1pGYkRyMnF2ZDFyckZTdUJ4UVA3UHduaDc?oc=5",
-  "ts": 1795681996,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Un business à tester à Noël",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=nZFUDhfTlDk",
+  "ts": 1795604435,
+  "engagement": 7192,
+  "label": "162,134 views · 19 comments",
   "pain": [],
-  "score": 0.994
+  "score": 6.279
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "How Does EUDR Compliance Affect Your Business? - Sustainability Magazine",
-  "text": "How Does EUDR Compliance Affect Your Business? Sustainability Magazine",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVBidTBWaGtNRWlBa08wcW1MUklWbFFYREhaNENjTHM3QlozLTBSbFlick1yaUNXZzJlOUlPb2V4bWJDcHE4d3k5RFd2dVJKQkFkblFneUxSRWppMGVMQnVYMGxsanFnVTNvbXR4ZlJON0x6bkdib1d4b2FhV3QyVERwaFE0bzg?oc=5",
-  "ts": 1795681968,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50651719",
+  "ts": 1795669979,
+  "engagement": 204,
+  "label": "154 pts · 25 comments",
   "pain": [],
-  "score": 0.994
+  "score": 6.263
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Warsaw-based WaterSense secures €5.75 million to build and scale water intelligence infrastructure across Europe - EU-Startups",
-  "text": "Warsaw-based WaterSense secures €5.75 million to build and scale water intelligence infrastructure across Europe EU-Startups",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGFCam14Yl82T2wxb25TcTFIS0dFaGxHWXJoaFlOdzV5UElPWTB2SVRaZHhkWlZ4anEwUllXMkMwSnE4MVZzaHZfMkp5c3RKVTVBcG9CQmg0SC1DS2VGc0ZpelJZak1udXdkU2N2ZEZjOHc1U3Q3OVNzZHhaVFRUbUJYSlFTb3BfVG5HN0ktbjRuV3kxU01vNDcwODFpS3ZYck1odVlvOV9FNElwUlVlMTVZLV9HTTNPSElSdEFmQ1hZaVFJZkQxNVY1anBWZmoyMkhKMEM0XzhDb0c3djFPT0txMA?oc=5",
-  "ts": 1795681942,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "A firewood side hustle ￼",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=c8LtuuRv0AQ",
+  "ts": 1795640323,
+  "engagement": 3883,
+  "label": "46,058 views · 204 comments",
   "pain": [],
-  "score": 0.993
+  "score": 6.183
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Inside the Quantum Hiring Surge - AZoQuantum",
-  "text": "Inside the Quantum Hiring Surge AZoQuantum",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yeTRkV0NmVmg1TWpzcER3VFJOd2Zna0NwYm5aX2NRc3pHYWZGU1N5cjNfaUo4S0FyVU1OOHBLcU5QOEw4cjMzdG04WjNaSF9COWR4ZF9pcUlxS2ZHV2FhdUtsaw?oc=5",
-  "ts": 1795681800,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The polynomial Hirsch conjecture is false [pdf]",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50644980",
+  "ts": 1795628074,
+  "engagement": 257,
+  "label": "167 pts · 45 comments",
   "pain": [],
-  "score": 0.992
+  "score": 6.115
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "The AI agents market is expanding rapidly. How far will it grow? - SecurityBrief New Zealand",
-  "text": "The AI agents market is expanding rapidly. How far will it grow? SecurityBrief New Zealand",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2Eya0psUHRqbGYtTVpJVm1OcVlUUG5nZ1ZXbEpLLVd4by11WVlsLTdTejJXdVlNUTVyU3RuRlA2OFpaazE0SzRNOTBWLURTWTU1V2Y0ZGdvQXpOd3Q5czd5X3F0bktCZkYxaGZBQ0wtMm1TM280UW5kdDFmOEM1UXdHbmpLbnQ1RHI4U0xDZTlQdkFMdVROMEoxNU8?oc=5",
-  "ts": 1795681800,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "2026 BEST NEW EARNING APP TODAY | NEW LOOT OFFER TODAY | MONEY EARNING APPS | ONLINE EARNING APP",
+  "text": "2026 BEST NEW EARNING APP TODAY | NEW LOOT OFFER TODAY | MONEY EARNING APPS | ONLINE EARNING APP 👇👇👇 https://tinyurl.com/5xzftpds New earning app today new earning app 2025 paytm cash earning apps free paytm cash Upi cash New Earning Apps Free Upi Cash Best Upi Cash Earning App best self earning app best self earning app for paytm best self earning apps for android instant paytm cash earning",
+  "url": "https://www.youtube.com/watch?v=cpyxamgKspw",
+  "ts": 1795675268,
+  "engagement": 1806,
+  "label": "2,831 views · 802 comments",
   "pain": [],
-  "score": 0.992
+  "score": 5.975
  },
  {
-  "source": "google_news",
-  "origin": "news/IN",
-  "title": "Department Of Labor Finalizes Its Independent Contractor Regulation Applicable To Determining Employee Status Under Key Federal Laws - Legal 500",
-  "text": "Department Of Labor Finalizes Its Independent Contractor Regulation Applicable To Determining Employee Status Under Key Federal Laws Legal 500",
-  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa3Bub2pEREo0MXBCT2xLMmRVT19mdWVaRTFEbnN1RG9jSGJoaEpEZVNPSDZQeUtrT3p6MzI2WGo1cFZseEFwTVVjMTJqcDQwdldDMjhCT0NUUEEtNXRsNGhCOS1hb1dyYko3VWotOGJ1ZHdOdkF4aXNENWt1a1FXOVFoYUNaWHVNOEIydy1rcVlIRjVPSVlRQi16QW9VY2liOEp3Z0pfSDZJZ3dMV1JjSFc4TVFrdUFzcWJsNnBDWHJUX3VJUjhvTElleEM5dkJNS3BjdVBsaGdXWEJYcld6b1ZFZVF4TTlUdEd6UGRtUEdwdE9yVkJ1em14Wnl5eWFNT2p5RUphWHRqR3pCVEVjVFpYcFNDZFhqUFZHckxua0ZNVUZFMmxrcDF3?oc=5",
-  "ts": 1795681345,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "CIA INTRUSION: AI hacking tool just BREACHED a government network",
+  "text": "Former CISA Executive Director Bridget Bean discusses reported CIA, FBI and ODNI cyberattacks and questions surrounding China's possible involvement. #foxbusiness #varney 00:00 — CIA and ODNI reportedly hit by cyberattacks on same day as FBI 01:08 — AI hacking tool reportedly used to access government systems 01:39 — FBI Director Kash Patel responds to cyber threats 03:12 — Bridget Bean explains",
+  "url": "https://www.youtube.com/watch?v=8W0nd_9TfUw",
+  "ts": 1795624233,
+  "engagement": 3247,
+  "label": "198,610 views · 470 comments",
   "pain": [],
-  "score": 0.988
+  "score": 5.91
  },
  {
-  "source": "rss",
-  "origin": "Inc42",
-  "title": "[Update] MIB Reiterates Pakistani Content Ban To Netflix",
-  "text": "Update | November 26, 13:36 IST The Ministry of Information and Broadcasting (MIB) has reportedly asked Netflix to ensure that…",
-  "url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/",
-  "ts": 1795680800,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Paisa kamane wala app 2026 | NEW UPI MONEY EARNING APP | New Earning App Today",
+  "text": "#UPIEarningApp2026 #PaisaKamaneWalaApp #onlinepaisekaisekamaye Paisa kamane wala app 2026 | NEW UPI MONEY EARNING APP | New Earning App Today App Link 🔗👇 https://tinyurl.com/ypmkswma Welcome to Tech Inside In today's video, I am sharing a brand new UPI earning app where you can easily earn money online without any investment. Complete simple tasks like downloading apps and start earning rew",
+  "url": "https://www.youtube.com/watch?v=0ASG3LnoOwI",
+  "ts": 1795671841,
+  "engagement": 1696,
+  "label": "2,912 views · 829 comments",
   "pain": [],
-  "score": 0.983
+  "score": 5.9
  },
  {
-  "source": "rss",
-  "origin": "Inc42",
-  "title": "Anthropic CEO Accuses Rivals Of Using ‘Human Control’ Slogans Without Tackling AI Risks",
-  "text": "Nasdaq-listed Anthropic’s CEO Dario Amodei has criticised rival AI companies for promoting slogans such as “human control and agency” and…",
-  "url": "https://inc42.com/buzz/anthropic-ceo-accuses-rivals-of-using-human-control-slogans-without-tackling-ai-risks/",
-  "ts": 1795680793,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "New Earning App Without Investment | Online Game Earn Money | How to Earn Money Without Investment",
+  "text": "New Earning App Without Investment | Online Game Earn Money | How to Earn Money Without Investment App 👇👇👇 https://tinyurl.com/3zxzkxpf New earning app today new earning app 2025 paytm cash earning apps free paytm cash Upi cash New Earning Apps Free Upi Cash Best Upi Cash Earning App best self earning app best self earning app for paytm best self earning apps for android instant paytm cash earni",
+  "url": "https://www.youtube.com/watch?v=4rHFnU6g7mk",
+  "ts": 1795677246,
+  "engagement": 1458,
+  "label": "2,753 views · 707 comments",
   "pain": [],
-  "score": 0.983
+  "score": 5.845
  },
  {
-  "source": "rss",
-  "origin": "Inc42",
-  "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
-  "text": "Bengaluru-based digital lending startup Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat…",
-  "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
-  "ts": 1795680540,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50648323",
+  "ts": 1795644745,
+  "engagement": 150,
+  "label": "124 pts · 13 comments",
   "pain": [],
-  "score": 0.98
+  "score": 5.711
  },
  {
-  "source": "rss",
-  "origin": "Inc42",
-  "title": "Exclusive: Electronics Manufacturing Startup Elecbits To Raise Up To $15 Mn From Xponentia Capital",
-  "text": "Electronics design and manufacturing startup Elecbits is in talks to raise fresh capital in the range of $12-15 Mn in…",
-  "url": "https://inc42.com/buzz/exclusive-electronics-manufacturing-startup-elecbits-to-raise-up-to-15-mn-from-xponentia-capital/",
-  "ts": 1795678216,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Business idea on peak…😤 #hearttouching #emotional #reality #kindness",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=MS25rVvL9uo",
+  "ts": 1795680035,
+  "engagement": 1124,
+  "label": "37,419 views · 2 comments",
   "pain": [],
-  "score": 0.959
+  "score": 5.69
  },
  {
-  "source": "rss",
-  "origin": "YourStory",
-  "title": "GIVA raises Rs 90 Cr from alternative credit platform BlackSoil",
-  "text": "GIVA said it will use the capital to fund store expansion and working capital requirements as it strengthens its omnichannel presence across India.",
-  "url": "https://yourstory.com/2026/11/giva-raises-rs-90-crore-from-alternative-credit-platform-blacksoil",
-  "ts": 1795676410,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Qualcomm's Oryon 3 Reaches the Top",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50651158",
+  "ts": 1795664604,
+  "engagement": 117,
+  "label": "59 pts · 29 comments",
   "pain": [],
-  "score": 0.942
+  "score": 5.638
  },
  {
-  "source": "rss",
-  "origin": "Inc42",
-  "title": "SC Orders Separate Warning Labels For High Fat, Sugar, And Salt In Packaged Foods",
-  "text": "The Supreme Court has directed the Centre and the Food Safety and Standards Authority of India (FSSAI) to ensure that…",
-  "url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/",
-  "ts": 1795674799,
-  "engagement": 0,
-  "label": "",
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "An algebraic quantization of gravity from the null cone",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50651863",
+  "ts": 1795671471,
+  "engagement": 109,
+  "label": "79 pts · 15 comments",
   "pain": [],
-  "score": 0.927
+  "score": 5.628
  },
  {
-  "source": "rss",
-  "origin": "YourStory",
-  "title": "Dough, design, drool: food entrepreneurship insights from Bakery Business 2026",
-  "text": "In this photo essay from Jio World Convention Centre in Mumbai, we showcase food industry highlights from the exhibition halls along with insights for innovators.",
-  "url": "https://yourstory.com/2026/11/food-entrepreneurship-insights-bakery-business-photography",
-  "ts": 1795674719,
-  "engagement": 0,
-  "label": "",
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "NEW EARNING APP TODAY | Earn Money Online As student | MONEY EARNING APPS | Make Money Online 2026",
+  "text": "NEW EARNING APP TODAY | Earn Money Online As student | MONEY EARNING APPS | Make Money Online 2026 Want to know how to earn money online for students? In this video, I'll show you one of the best work & earn platforms where students, beginners, and anyone looking for an online earning opportunity can start working and potentially earn money from home 📩 Business Enquiries: - paidpromotionwithbla",
+  "url": "https://www.youtube.com/watch?v=hB6geqb7_oU",
+  "ts": 1795674605,
+  "engagement": 1085,
+  "label": "4,686 views · 214 comments",
   "pain": [],
-  "score": 0.927
+  "score": 5.615
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Making $100k freelancing by end of year",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=V54cBJ0roU8",
+  "ts": 1795659506,
+  "engagement": 1322,
+  "label": "10,022 views · 134 comments",
+  "pain": [],
+  "score": 5.613
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Idea de negocio cuando hay escasez en el taller Con Herreria 360 Esta mueble puedes hacerlo en 1 hor",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=gsXvArweVFM",
+  "ts": 1795659700,
+  "engagement": 977,
+  "label": "16,971 views · 32 comments",
+  "pain": [],
+  "score": 5.405
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Unconditional Integer Factorization in Subexponential Time",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50651627",
+  "ts": 1795669196,
+  "engagement": 89,
+  "label": "73 pts · 8 comments",
+  "pain": [],
+  "score": 5.398
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "فكرة مشروع للمبتدئين من غير رأس مال",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=kaScf9Ms7lE",
+  "ts": 1795598114,
+  "engagement": 2081,
+  "label": "80,114 views · 67 comments",
+  "pain": [],
+  "score": 5.359
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "जब Dhirubhai Ambani ने चांदी के सिक्कों से कमाया मुनाफा!",
+  "text": "Dhirubhai Ambani ne Yemen mein ek aisa business opportunity spot kiya, jise baaki log ignore kar rahe the. Unhone silver coins ko melt karke unmein chhupi chandi ki actual value se profit kamaya. Yeh kahani sikhati hai ki ek smart entrepreneur har situation mein business opportunity dhoondh sakta hai. Aap bhi apne business ke liye aisi powerful strategies seekhna chahte hain? Join karein Idea to",
+  "url": "https://www.youtube.com/watch?v=EJLuwxTQmsc",
+  "ts": 1795610136,
+  "engagement": 1728,
+  "label": "33,553 views · 11 comments",
+  "pain": [],
+  "score": 5.342
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "백종원과 반대로 간 도시락집",
+  "text": "한솥도시락이 11월 25일부터 27일까지 사흘간 블랙프라이데이 행사를 열고 인기 메뉴 두 가지를 할인 판매합니다. 돈까스도련님이 5,200원에서 4,000원으로, 진달래가 8,800원에서 7,000원으로 내렸고 할인율은 최대 23.1%입니다. 전국 행사 참여 가맹점에서 방문, 포장, 전화주문 고객을 대상으로 진행합니다. 눈에 띄는 것은 그 할인 비용을 누가 부담하느냐입니다. 한솥도시락은 \"할인 행사에 따른 가맹점 부담을 줄이기 위해 본부가 비용을 지원한다\"고 밝혔고, 참여 매장에는 식자재와 용기류도 할인 공급합니다. 한솥도시락 관계자는 \"고물가 시대에 고객들의 외식비 부담을 조금이나마 덜어드리고자 기획했다\"고 말했습니다. 한편 더본코리아는 11월 14일 3분기 실적을 발표하며 영업손실 37억 원으로 적자",
+  "url": "https://www.youtube.com/watch?v=Pj829pTFPDk",
+  "ts": 1795674857,
+  "engagement": 683,
+  "label": "29,655 views · 85 comments",
+  "pain": [],
+  "score": 5.296
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "I Would Build a Chai Brand Like THIS! ☕#shorts",
+  "text": "What if a chai shop became a brand people visit just to take a break? Meet Bhapistan, a unique tea brand concept built around comfort, creativity and signature chai flavours. With a 100 sq. ft. counter and ₹25 kulhad chai, this business idea could generate ₹75,000 in monthly sales at 100 cups per day. Want the complete Bhapistan Business Guide? Follow BTS Startup and comment CHAY to receive th",
+  "url": "https://www.youtube.com/watch?v=lotR3_HraB8",
+  "ts": 1795673169,
+  "engagement": 614,
+  "label": "8,767 views · 20 comments",
+  "pain": [],
+  "score": 5.207
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "5 ways to say no to freelance clients",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=8BuDUPwi8do",
+  "ts": 1795661580,
+  "engagement": 666,
+  "label": "7,554 views · 3 comments",
+  "pain": [],
+  "score": 5.156
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Online Income 2026 | মোবাইল দিয়ে টাকা ইনকাম | অনলাইন ইনকাম ২০২৬ | Online Income",
+  "text": "Online Income 2026 | মোবাইল দিয়ে টাকা ইনকাম | অনলাইন ইনকাম ২০২৬ | Online Income Business✅ : Telegram : https://t.me/talkdungofficial Gmail: sumonpike5@gmail.com Telegram : @mdmubarak12 🔑 Keywords : online income bd, micro jobs, freelancing, earn money online, microtask, freelance work, make money online, microworkers, freelance jobs, passive income, microtask earning, freelance marketplace, o",
+  "url": "https://www.youtube.com/watch?v=Gq1K7l2qqGM",
+  "ts": 1795597464,
+  "engagement": 1565,
+  "label": "7,145 views · 501 comments",
+  "pain": [],
+  "score": 5.155
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "أسهل طريقة ربح من الإنترنت بالذكاء الاصطناعي!",
+  "text": "🔥 Black Friday Sale, get up to 70% off Higgsfield plans 👉 https://higgsfield.ai/s/make-money-with-ai-yt-weaamzm-vSxVbx الفيديو ده برعاية Higgsfield. النهارده بنيت قناة يوتيوب كاملة من غير وش، بكلود وهيجزفيلد، وحسبت الفيديو الواحد كلّفني كام بالظبط، ومين اللي بيدفع الفلوس في الآخر. 🔗 لينك ربط هيجزفيلد بكلود: https://higgsfield.ai/mcp 📺 الحلقات اللي عملناها في الفيديو: الحلقة 1: https://youtube.",
+  "url": "https://www.youtube.com/watch?v=DwrMGsvDPbM",
+  "ts": 1795634069,
+  "engagement": 916,
+  "label": "19,125 views · 64 comments",
+  "pain": [],
+  "score": 5.123
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "How to Make Black Friday Ads with AI Marketing Tools & Video Editing Software | CapCut PC",
+  "text": "🚀 Try CapCut PC for FREE: https://www.capcut.com/tv2/ZSs2YMw71/ Get up to 90% off CapCut Pro. Subscribe via this link, and you’ll get an extra 7 days of CapCut Pro on top of the deal 🔥 CapCut Black Friday Discount: Desktop Only — 90% OFF for the first month! 🎬 CapCut Seedance 2.5 now supports 4K video generation! What if you could turn just ONE product image into a complete Black Friday commer",
+  "url": "https://www.youtube.com/watch?v=5ybzQf4WXDE",
+  "ts": 1795613482,
+  "engagement": 1191,
+  "label": "21,287 views · 0 comments",
+  "pain": [],
+  "score": 5.114
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "2027 में शुरू करो ये 5 बिजनेस… करोड़ों कमाओ | Future Business Idea ft. Chitresh Soni PE95",
+  "text": "What if the next big business opportunity in India is hiding in industries that most people are ignoring? From CBG plants and mushroom farming to waste management, food businesses and work-from-home opportunities, this conversation explores businesses that could have massive potential in the coming years. In this episode of Shashank Singh Unfiltered, I sit down with Chitresh Soni to decode the fu",
+  "url": "https://www.youtube.com/watch?v=TpTapKehM4A",
+  "ts": 1795667430,
+  "engagement": 541,
+  "label": "5,744 views · 37 comments",
+  "pain": [],
+  "score": 5.066
  },
  {
   "source": "policy_rss",
@@ -735,7 +834,7 @@
   "direction": "tailwind",
   "theme": "policy",
   "pain": [],
-  "score": 9.348
+  "score": 9.181
  },
  {
   "source": "policy_rss",
@@ -754,7 +853,44 @@
   "direction": "tailwind",
   "theme": "policy",
   "pain": [],
-  "score": 9.253
+  "score": 9.086
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "JNPA awards ₹77-cr shore power contract at GTI; ships to switch off diesel generators at berth",
+  "text": "The project, also known as cold ironing, will enable ships to draw electricity directly from the shore instead of operating their onboard diesel-powered auxiliary generators to meet electricity requirements during their stay at the port",
+  "url": "https://www.thehindubusinessline.com/economy/jnpa-awards-77-cr-shore-power-contract-at-gti-ships-to-switch-off-diesel-generators-at-berth/article71746534.ece",
+  "ts": 1795699755,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "solar & energy",
+   "oil & fuel",
+   "logistics"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 7.591
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "As J&K achieves 97.8% PM-KUSUM target; farmers count benefits of solar irrigation",
+  "text": "Jammu and Kashmir has achieved 97.8% of its solar agricultural pump installation target under the scheme",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/as-jk-achieves-978-pm-kusum-target-farmers-count-benefits-of-solar-irrigation/article71745825.ece",
+  "ts": 1795684017,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "solar & energy"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.445
  },
  {
   "source": "policy_rss",
@@ -772,7 +908,25 @@
   "direction": "tailwind",
   "theme": "trade",
   "pain": [],
-  "score": 7.521
+  "score": 7.353
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "Inflation pressures broaden across India, raising rate-hike risks ahead of RBI's December review",
+  "text": "Inflationary pressures spread across goods, services and regions in October, with a larger share of items breaching the 4% threshold, the RBI's November bulletin showed. Retail inflation climbed to 6.09%, crossing the central bank's upper tolerance limit for the first time in two years, potentially complicating its December monetary policy decision.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/inflation-pressures-broaden-across-india-raising-rate-hike-risks-ahead-of-rbis-december-review/articleshow/136172110.cms",
+  "ts": 1795637184,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "fmcg & retail",
+   "banking & rates"
+  ],
+  "direction": "headwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.012
  },
  {
   "source": "policy_rss",
@@ -790,25 +944,7 @@
   "direction": "tailwind",
   "theme": "policy",
   "pain": [],
-  "score": 7.038
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Action Construction shares rise 8% as Cabinet approves Rs 11,000-cr scheme to boost CIE manufacturing... - Moneycontrol.com",
-  "text": "Action Construction shares rise 8% as Cabinet approves Rs 11,000-cr scheme to boost CIE manufacturing... Moneycontrol.com",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOc3hOT1FzZVZMdE5oNm40TkxVSnE0TGY4XzkzeWFWaVJ3aE12S01IM0VaWHVpMDFmdHpaMDFLbEloX1JlX09BWGJhWVoyNVp4LVk1VDRxZVNtMmtqR2pUd0ItTThQS1J0WTZQejBqa3JnY2thZllpaGNGWl9VX3k5bHdNS2lIM25CSlI2NlQwQU5MNUNteUZzUzhpVUMwRDZ6NHBTOGZMcE1JZ0F1LXFLRk10a3Z4cWZBdTNRRmZ4V3RlRnpIcFlrOVdmV0N4UHNIRERZR3BGMkNKejdtRlRYaU9YUVoxdEVTd1RjQnFpXzA5aTk4NGpfNC0yWGlpal9vT2NlVEVseE92QVJRbE1vbnNjaUkxQlHSAZcCQVVfeXFMTnN4Tk9Rc2VWTHROaDZuNE5MVUpxNExmOF85M3lhVmlSd2hNdktNSDNFWlh1aTAxZnR6WjAxS2xJaF9SZV9PQVhiYVlaMjVaeC1ZNVQ0cWVTbTJrakdqVHdCLU04UEtSdFk2UHowamtyZ2NrYWZZaWhjRlpfVV95OWx3TUtpSDNuQkpSNjZUMEFOTDVDbXlGc1M4aVVDMEQ2ejRwUzhmTHBNSWdBdS1xS0ZNdGt2eHFmQXUzUUZmeFd0ZUZ6SHBZazlXZldDeFBzSEREWUdwRjJDSno3bUZUWGlPWFFaMXRFU3dUY0JxaV8wOWk5ODRqXzQtMlhpaWpfb09jZVRFbHhPdkFSUWxNb25zY2lJMUJR?oc=5",
-  "ts": 1795675939,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing",
-   "real estate & construction"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 6.938
+  "score": 6.871
  },
  {
   "source": "policy_rss",
@@ -826,7 +962,7 @@
   "direction": "tailwind",
   "theme": "policy",
   "pain": [],
-  "score": 6.879
+  "score": 6.712
  },
  {
   "source": "policy_rss",
@@ -844,43 +980,7 @@
   "direction": "tailwind",
   "theme": "policy",
   "pain": [],
-  "score": 6.835
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Cabinet approves ₹11,000 crore scheme to manufacture port cranes and heavy equipment in India - Maritime Gateway",
-  "text": "Cabinet approves ₹11,000 crore scheme to manufacture port cranes and heavy equipment in India Maritime Gateway",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEVLemlrM2dJVmZNY1dPeTdVWjZQSmFFbGp4R2dSVHVPTTNSYVpzMUk5N2t0YjA2WG01R2pWVEtUQXAtNlVoS2dFXzEwWVNKU19ISWstOE14eTVwR0Z4MElOenkzVzdtaXNkbkl5VWhQaWNaWFFiYzBxSXJ2NG5nWW5PdFNXRmN5TWYxWHRUcXRYTnpMc01POTFuMHJoNWh4cUdIYnJxSWRHSC1SaW5vRmU4amZWNi1uMVhjS1pCMC1VaTcwYlBVVlZWVFN1UQ?oc=5",
-  "ts": 1795653480,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing",
-   "logistics"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 6.73
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Government restricts bulk sale of petrol, diesel at retail outlets for 90 days to curb hoarding, black marketing - DD News",
-  "text": "Government restricts bulk sale of petrol, diesel at retail outlets for 90 days to curb hoarding, black marketing DD News",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLUhJRFR4cm8zY2ZBTE1CRGt3V04xZFlCeG9qd1NhM0kwcl9CQmNwWU5YT3dGZFpnV3VtMmFtZHZPTzl2NW13Q1VtTlh0My1QbE9yWFRsdkpQaEM1aHI5RUNOaUxYUUZOYXJVWXFRUFJpWW1HcmR1V2pPZ1FYTHB5NkhGcjlTNW8wMGZRdlhDdGhMaWo3YUZfd0NFTUd2T1JmRUpKUnAtSDl6R0xHUUhfMGFzdEdBTDZqVktRZlFraElJWkZMbzRCcU1BR0dqRm9XRkE?oc=5",
-  "ts": 1795631603,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "fmcg & retail",
-   "oil & fuel"
-  ],
-  "direction": "headwind",
-  "theme": "economy",
-  "pain": [],
-  "score": 6.527
+  "score": 6.667
  },
  {
   "source": "policy_rss",
@@ -888,7 +988,7 @@
   "title": "RBI Bulletin – November 2026",
   "text": "Today, the Reserve Bank released the November 2026 issue of its monthly Bulletin. The Bulletin includes six speeches, four articles and current statistics. The four articles are: I. State of the Economy; II. Shifting Drivers of Imported Inflation: COVID-19 Pandemic to the West Asia Conflict; III. Performance of the NBFC Sector during 2025-26: A Review; and IV. Disentangling the Impact of US Monetary Policy on Indian Financial Markets: An Event Study Approach. I. State of the Economy Supply side challenges, elevated energy prices, and geopolitical uncertainty remain significant headwinds to the global economic outlook. Persistent inflationary pressures have led to synchronised monetary policy tightening across major central banks in the last three months. Pullback in AI-related stocks and elevated sovereign bond yields, despite some softening from multi-decade highs, remain a source of volatility in financial markets. Amidst uneven economic performance globally, the Indian economy stood out. High-frequency indicators of domestic economic activity showed resilience in October, underpinned by strong credit demand. Headline CPI inflation inched up, primarily driven by higher food inflation. With strong exports performance, the trade deficit narrowed in October as compared to corresponding month of the previous year. Equity markets rebounded supported by robust corporate earnings and foreign portfolio inflows. Net inflows under ECB and NRI deposits also remained strong. II. Shifting Drivers of Imported Inflation: COVID-19 Pandemic to the West Asia Conflict By Snehal S. Herwadkar, Ishu Thakur, Abhiruchi Rathi, Paras and Parul Arora This article examines how successive global shocks have reshaped the drivers of imported inflation in India. It constructs an import-intensity-weighted consumer price index (CPI) using item-level production, imports and exports data to assess the contribution of imported items to retail inflation. The analysis finds that food and fuel were the principal channels through which imported inflation impacted retail inflation during the COVID-19 pandemic as also during the Russia-Ukraine conflict. Precious metals became a key source of imported core inflation from 2025, while the West Asia conflict renewed crude oil-related pressures in 2026. Highlights: The import-intensity-weighted measure indicates that imported items account for 8.5 per cent of the new CPI basket (base 2024=100). Import intensity is highest for fuel and light, followed by food and beverages, and core components. Despite the small weight of imported items in CPI basket, it contributed around 18 per cent to the CPI headline inflation in October 2026. The West Asia conflict generated a sharper crude oil price shock than the Russia-Ukraine conflict. However, the pass-through to retail fuel prices in the current episode has been relatively lower, limiting the pressures on imported inflation. Higher precious metals prices emerged as another source of imported inflation since 2024. III. Performance of the NBFC Sector during 2025-26: A Review By Monalisa Poali, Pallavi Pant, Abhyuday Harsh and Brijesh P This article assesses the performance of the non-banking financial company (NBFC) sector as at end-March 2026. Highlights: The NBFC sector continued to demonstrate double-digit y-o-y credit growth along with improvement in asset quality at end-March 2026. Industry and retail segment accounted for the largest component of NBFCs’ loan portfolio. Within retail loans, vehicle, gold and microfinance loans accounted for the largest share. Higher growth in retail loans at end-March 2026 is driven by rapid growth in advances to individuals against gold. IV. Disentangling the Impact of US Monetary Policy on Indian Financial Markets: An Event Study Approach By Mayank Gupta, Anishma Sebastian, Bhanu Pratap and Thangzason Sonna This article examines how information conveyed by the US Federal Open Market Committee (FOMC) announcements is associated with Indian financial markets. It distinguishes between monetary news, which signals tighter US monetary conditions, and growth news, which reflects stronger US economic prospects. It also examines these associations across conventional and unconventional US monetary policy phases. Highlights: Increase in US G-sec yields driven by monetary news are associated with rupee depreciation, higher Indian 10-year government bond yields and lower Sensex returns. Growth news shows no statistically significant association with the Indian financial variables. The exchange rate and government bond yield are significantly associated with monetary news during both conventional and unconventional US monetary policy phases. Sensex returns are significantly associated with monetary news during the conventional phase. India VIX shows no statistically significant association with either monetary or growth news. The main findings remain broadly consistent across alternative model specifications and news-classification thresholds. The views expressed in the Bulletin articles are those of the authors and do not represent the views of the Reserve Bank of India. (Brij Raj) Chief General Manager Press Release: 2026-2027/1563",
   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64041",
-  "ts": 1795682744,
+  "ts": 1795700819,
   "engagement": 0,
   "label": "",
   "sectors": [
@@ -902,11 +1002,65 @@
  },
  {
   "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "Nirmala Sitharaman chairs final pre-Budget consultation with youth ahead of Union Budget 2027-28",
+  "text": "Union Finance Minister Nirmala Sitharaman held the 13th pre-Budget consultation with youth in New Delhi. The discussions focused on education, employment generation, and skill development for the upcoming Union Budget 2027-28. The government aims to incorporate suggestions from various stakeholders to identify economic priorities in this budget. The consultation process included experts from different sectors, enhancing policy recommendations. The Union Budget is scheduled for presentation on February 1, 2027.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-final-pre-budget-consultation-with-youth-ahead-of-union-budget-2027-28/articleshow/136193260.cms",
+  "ts": 1795698728,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "education",
+   "jobs & gig work"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.381
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Elitecon International Q1 revenue jumps 3.6-fold to ₹1,895.72 crore",
+  "text": "Domestic edible oil and agro operations, alongside overseas subsidiaries, contributed to the company’s expanding FMCG and international trading business during the quarter",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/elitecon-international-q1-revenue-jumps-36-fold-to-189572-crore/article71745980.ece",
+  "ts": 1795689008,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages",
+   "fmcg & retail"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.291
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "South Central Railway commissions 6.9 MW of rooftop solar power in last 31 months",
+  "text": "SCR makes effective use of available rooftop spaces across its railway establishments in Secunderabad, Hyderabad, Nanded divisions and Lalaguda workshop",
+  "url": "https://www.thehindubusinessline.com/economy/logistics/south-central-railway-commissions-69-mw-of-rooftop-solar-power-in-last-31-months/article71745982.ece",
+  "ts": 1795687365,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "solar & energy",
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.276
+ },
+ {
+  "source": "policy_rss",
   "origin": "BusinessLine Economy",
   "title": "India’s kharif foodgrains estimate 5% lower on weather woes",
   "text": "Rice output pegged 2.3% lower as Agriculture Minister Shivraj Singh Chouhan said farmers had to face challenges of lower rainfall, gap in spells of rain and damages due to cyclone and floods",
   "url": "https://www.thehindubusinessline.com/economy/indias-kharif-foodgrains-estimate-5-lower-on-weather-woes/article71745520.ece",
-  "ts": 1795675502,
+  "ts": 1795684026,
   "engagement": 0,
   "label": "",
   "sectors": [
@@ -916,7 +1070,7 @@
   "direction": "neutral",
   "theme": "weather",
   "pain": [],
-  "score": 5.334
+  "score": 5.245
  },
  {
   "source": "policy_rss",
@@ -934,25 +1088,7 @@
   "direction": "neutral",
   "theme": "economy",
   "pain": [],
-  "score": 5.16
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "SEBI Issues Warning on IPO Grey Market Premium (GMP); Cautions Investors Against Unregulated Trading - Kotak Neo",
-  "text": "SEBI Issues Warning on IPO Grey Market Premium (GMP); Cautions Investors Against Unregulated Trading Kotak Neo",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeWhHLXViNG1lck5TbDA3Ty1JM2NFTmctMVZYX3VwWjc1ZWl4R2JZbjNOQllOck9NRFlFWHc4ODRJOGt1eFVBcEdKOWRCcXFFSldUU1pFQzMyNnBXSGk2YTQzaWluQ1dzY1J5N2pwN1VBR1lYQ0JsajBmLTRXLVVQWGl2VDRXSVVUdkRKelZRS0x5Tl9GT3hwT0l5dExMU2M2YjB2dUVVZk1rN1RoUWh2SDBnWV8ybmRyazEyUVZLVlBPRERqVkxqdQ?oc=5",
-  "ts": 1795671254,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "insurance",
-   "stock market"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 4.894
+  "score": 4.992
  },
  {
   "source": "policy_rss",
@@ -970,7 +1106,7 @@
   "direction": "neutral",
   "theme": "weather",
   "pain": [],
-  "score": 4.865
+  "score": 4.697
  },
  {
   "source": "policy_rss",
@@ -987,7 +1123,7 @@
   "direction": "tailwind",
   "theme": "economy",
   "pain": [],
-  "score": 4.798
+  "score": 4.63
  },
  {
   "source": "policy_rss",
@@ -1005,92 +1141,24 @@
   "direction": "neutral",
   "theme": "economy",
   "pain": [],
-  "score": 4.78
+  "score": 4.613
  },
  {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Which Donors Support Community Health Workers Visiting TB Patients in the Rural Eastern Cape? - fundsforNGOs - Grants and Resources for Sustainability",
-  "text": "Which Donors Support Community Health Workers Visiting TB Patients in the Rural Eastern Cape? fundsforNGOs - Grants and Resources for Sustainability",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTNBdEhweGxTZ1c2WktzaVpwcWdWbWVYdVJVdWVfRjViTXBWajJPMFE1R0NfUzdvT2toZk1YaDByRmc2SV92Q2R3a1kyYlFWSVMwMmRYNDR5TUZFd1BjSVpYWldTVkhuV0pCaGxQUkpOOGE2UUNyRlBCbXg1TTlKajJqS3FjMDJlZk1XTVFQUWJVazROdWtudzJ0M0xkVVdOM2pGVUVSUk1sWmRhaHljNHVET1JSSHE0dkF1UVJsVFJHMzNRMjZsbkZ1TWJmdGk5UXgtTjlZaWZUSmJLeHZqTDZubldXalYtRmw2Y3QzQ3FUd9IB9wFBVV95cUxPNVJCYTdnTlFGd2xQRUNwRG1CRHlKN3JvQU0tTHhGNW82UkpObkdkZ1BxOU9PS1dTbjByWVRHc211OFVnR0stSGxJMkgwdUJ0MFphd0ctRzMzRFdXRFpHYm01UEFSMmtFOGVwcWNaMS01R1BWYnhXQXFCZnJXRzh1YUZnOGZ0UUdsaTBXd3I3VHVMUmM0SjVaa0I2anZQMFNUZDBQdVlDZld4bmZWT1gybE1hSVRJZ2pFOWZJWjlQeGdJVWwwbFJtVjdoNkg3MGxMTXlJbEliWU9kVTlrbi00S2x0bWxTN1VwSVg0MlcxMUxzaHBWbUdV?oc=5",
-  "ts": 1795643799,
+  "source": "policy_rss",
+  "origin": "RBI press releases",
+  "title": "Reserve Money and Money Supply for the fortnight ended on November 15, 2026",
+  "text": "The Reserve Bank has today released data on Reserve Money and Money Supply for the fortnight ended on November 15, 2026. Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1572",
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64050",
+  "ts": 1795700819,
   "engagement": 0,
   "label": "",
   "sectors": [
-   "healthcare & pharma"
+   "banking & rates"
   ],
-  "direction": "tailwind",
+  "direction": "neutral",
   "theme": "economy",
   "pain": [],
-  "score": 4.64
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "PLI auto scheme: Incentive disbursements reach Rs 4,385 crore, investments surpass target - The Financial Express",
-  "text": "PLI auto scheme: Incentive disbursements reach Rs 4,385 crore, investments surpass target The Financial Express",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVTNEanFYWTlyWkFxdE1nUU1TSlp1M2VMX3RxRldHcTZ3T2lIa3FoT2ltMU5lM3d5WkEzS0k3MmZ2b2EzcFVfOGpLX1VkYWhPazA0dW5Id1JmZ1VJdXdGZkNsc3d1TUFZSnhTVElfMGVGV2llODdfOTl6cEl4TEN0WVlIRjVVV093b21KaHlHWXpQX2pTcEZ2S0ltY2puQmhzVTRNNjZSRjZSNlF1OGliNVFzN2ZZZjNMVHBRNjE3Vzl0YW81MDdndVAxcFc1Ynd4YjFoeThKSnh0S05tUW5B0gHmAUFVX3lxTE9oWHRZbkw1NGZwbDdZVzlxcXBuRS1kdXFGcFI5Uzc1R0NLTnJjbloyQWRicGpBVS05ZHFfSk9jdFV3aktLWWs4eThXdElhSlF6Y2xWN2lCODVDQnNXZEc5ellETW9FeGNMenpGc1BkRXBpbGlNalAxN0Etd0ZqaWNRaTNyOFR2c29QXzRKVjZWODBXdjVqVlh1Y3lFbEZJMXBJbnktNzFPV29RaHRSVGNXNC15TTVwLWF6Vzcwdi1PbklVQ2hjMk0wWWVjWFRUb3dVblFsT0tKSHpXMXF1dWVyTGZyMkVn?oc=5",
-  "ts": 1795613548,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 4.36
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Auto PLI scheme disburses ₹4,385 crore in first eight months of FY27 - Business Standard",
-  "text": "Auto PLI scheme disburses ₹4,385 crore in first eight months of FY27 Business Standard",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVpxNjkta3JtQk1JV0cxNkY5LVJDNVI3Rld5Vmk4c2hJbjR6WV8zQW0xQ3V4QWZtbGRZQUFzSDNCYVNxRl9vS3pma1J2cGhWV0Jmak1RdFNiNndZN2tYQ3lHZDd1bW1vYTQzMFlXcmF6VWlYbDFPa3VKa0JFUldnaXM2RkV0S1BMaXZTYkdBaGhUUERjbEdPWmtSbEZ0MmxINjNaeE1kNnZFTTE3VHpkelcyWW9mWGgzUDlpRktkbFZUWEplaWJyZjYwaWNVRTVs0gHWAUFVX3lxTFB2SUJNekhEVXdmLWVhRHRkamNaVC1aVmZjaHpZTGVSTmVJWURUU2NHR2trTGJWUFcyamZkcmliODlIdll3cVQxVE1vSGpMUE1TYjFvQzlRMUtvbzZ4Qm0xcTh0NDhfS3hPb0ozRzBMS09HSEg5OTdaWDFUc0lvVUwtTzl5WGtWem1ySlo5Qjd4aDlFS3pDRlVZeEhQNElpZjI4RE15cUVsalZyM0xpU2RQZXRReDU1UWZBS0YyOHRUR0FPcTFZNnFGTW9WLTIzOTZJSzJrM1E?oc=5",
-  "ts": 1795609445,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 4.322
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "PLI Auto Scheme records Rs 4,385 cr incentive disbursement in current fiscal: Govt - The Economic Times",
-  "text": "PLI Auto Scheme records Rs 4,385 cr incentive disbursement in current fiscal: Govt The Economic Times",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3oxSWdvVXN6a2xnclk5cEg0ajJvUE1pa2c4R0dHblo3X2NQb20yQzdtS2dQNVUxTE5KMy1iU0dpNUJac3czQjBBaXE4MjNDR3lsb1c2UUtmM0E3c0xpd1hnb0FOcWZ0OVVKZC1aU3J1Q2w0VUNyZlFtbEtlMnpIZTBFeGJ0UGRXLTRsTnlGSWprSUlhV2E5SWZuci1Za1BCY09EWWNGSVIxUnNSYWxGb1RQQWtIX091bmRPMU5JSUxjTzZpQVpicTVSWlZ0Ml9XaEJvWUlMSjZ6UkhkdnJ1SnE5YWpULU43TTlLMGp6cWp2WEFEMEhUQndnNNIB9AFBVV95cUxOZzY5cWpGdVFvMW9DZ2t6Y1hUMnAtX3FQUllnc1p0UkxSUDAtRmhKNFNQMEZCNVZhdGFYdG50d0NWT2s4NHN1bEpDNWlwUTFhTU5QMTluaHRUZ2JUY3Fac05vVFJISlQ5UjRhNnp2WGdsNXczMUxteFdIVGwzRU5Dckl1VGpGWF91dzd6MWFFNURpWVhnWXdQc1ZCYjRad3BFY1Mxel84b1EyV0kzOWstZTdRS2p6Rk5wVUtUbFhobzdFNjNfNHZZSDc1OGtSZUEyUXhTU1Y4bUV6U1VYcE84NFEtY25hSFVLMmFpajM0QldNZU84?oc=5",
-  "ts": 1795608707,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 4.315
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "PLI Scheme for Automobile and Auto Component Industry Records ₹4,385.28 Crore Incentive Disbursement in FY 2026–27 - www.pib.gov.in",
-  "text": "PLI Scheme for Automobile and Auto Component Industry Records ₹4,385.28 Crore Incentive Disbursement in FY 2026–27 www.pib.gov.in",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhbEJFaVZWWWY2d0RVY1c5VFBxRFBRLVVvOFNuc3JLSDY2SzlKdlpYMFNCekREUXZDajc4MXhhWU9FaF9CSXIwTnNzWS1nWl9XRnNiVnpISFRhSEZndklwbDUzUTdVcjdPTURVdWI1WFZoWmV2eDllUGZMLWY?oc=5",
-  "ts": 1795602360,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "tailwind",
-  "theme": "policy",
-  "pain": [],
-  "score": 4.257
+  "score": 3.2
  },
  {
   "source": "policy_rss",
@@ -1098,7 +1166,7 @@
   "title": "47th Half-Yearly Report on Management of Foreign Exchange Reserves: April – September 2026",
   "text": "It may be recalled that in February 2004 , the Reserve Bank initiated the practice of compiling half-yearly reports on the management of foreign exchange reserves and making them public to promote greater transparency and enhance disclosure in the management of the country’s foreign exchange reserves. In this connection, Reserve Bank of India has today released the 47th Half-Yearly Report on Management of Foreign Exchange Reserves with reference to end-September 2026. During April-September 2026, India’s foreign exchange reserves increased from US$ 691.11 billion to US$ 737.78 billion. The latest position of India’s foreign exchange reserves is available at the following link: https://www.rbi.org.in/scripts/WSSView.aspx?Id=28849 (Brij Raj) Chief General Manager Press Release: 2026-2027/1564",
   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64042",
-  "ts": 1795682744,
+  "ts": 1795700819,
   "engagement": 0,
   "label": "",
   "sectors": [
@@ -1112,25 +1180,27 @@
  {
   "source": "policy_rss",
   "origin": "BusinessLine Economy",
-  "title": "EU Parliament votes against inclusion of 2 Alang ship recycling yards in its list of approved recycling facilities",
-  "text": "The decision means vessels sailing under EU flags will continue to be barred from being dismantled at Indian yards",
-  "url": "https://www.thehindubusinessline.com/economy/logistics/eu-parliament-votes-against-inclusion-of-2-alang-ship-recycling-yards-in-its-list-of-approved-recycling-facilities/article71745490.ece",
-  "ts": 1795680825,
+  "title": "CII wins global recognition for leadership in MSME development",
+  "text": "The GoGlobal Awards recognise organisations, trade bodies, and businesses that drive international commerce, innovation, and global market expansion.",
+  "url": "https://www.thehindubusinessline.com/economy/cii-wins-global-recognition-for-leadership-in-msme-development/article71746655.ece",
+  "ts": 1795700424,
   "engagement": 0,
   "label": "",
-  "sectors": [],
-  "direction": "tailwind",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
   "theme": "economy",
   "pain": [],
-  "score": 3.183
+  "score": 3.197
  },
  {
   "source": "policy_rss",
   "origin": "BusinessLine Economy",
-  "title": "Gocarin opens first franchise store in Balanga, Odisha",
-  "text": "This will help farmers’ access to quality animal nutrition products, cattle feed and veterinary care solutions",
-  "url": "https://www.thehindubusinessline.com/economy/agri-business/gocarin-opens-first-franchise-store-in-balanga-odisha/article71745442.ece",
-  "ts": 1795674495,
+  "title": "Bhopal to host regenerative agriculture, soybean entrepreneurship events on December 4 and 5",
+  "text": "It is jointly organised by Solidaridad, ICAR-Indian Institute of Soil Science and the Solvent Extractors’ Association of India as part of World Soil Day",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/bhopal-to-host-regenerative-agriculture-soybean-entrepreneurship-events-on-december-4-and-5/article71746159.ece",
+  "ts": 1795694766,
   "engagement": 0,
   "label": "",
   "sectors": [
@@ -1139,268 +1209,47 @@
   "direction": "neutral",
   "theme": "economy",
   "pain": [],
-  "score": 3.125
+  "score": 3.145
  },
  {
   "source": "policy_rss",
   "origin": "BusinessLine Economy",
-  "title": "Vizhinjam expansion to open new opportunities for Technopark, startups",
-  "text": "The next phase of port development is expected to create opportunities for Technopark-based IT companies and startups in maritime technology, logistics and industrial solutions.",
-  "url": "https://www.thehindubusinessline.com/economy/logistics/vizhinjam-expansion-to-open-new-opportunities-for-technopark-startups/article71745419.ece",
-  "ts": 1795673932,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "logistics"
-  ],
-  "direction": "neutral",
-  "theme": "economy",
-  "pain": [],
-  "score": 3.119
- },
- {
-  "source": "policy_rss",
-  "origin": "Mint Economy",
-  "title": "UAE eyes 7-8% growth next year as IMF reverses recession forecast, projects 0.2% expansion",
-  "text": "The UAE expects its economy to recover next year, with tourism improving and the IMF forecasting 0.2% growth in 2026. The economy minister is more optimistic, targeting 7% to 8% growth, but warned that prospects depend on the Iran war and said investment would prioritize crisis-resilient industries.",
-  "url": "https://www.livemint.com/economy/uae-eyes-7-8-growth-next-year-as-imf-reverses-recession-forecast-projects-0-2-expansion-11795653659713.html",
-  "ts": 1795655190,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "travel & hospitality"
-  ],
-  "direction": "neutral",
-  "theme": "economy",
-  "pain": [],
-  "score": 2.946
- },
- {
-  "source": "policy_rss",
-  "origin": "Mint Economy",
-  "title": "India’s Q2 GDP growth to slow marginally to 7.6%, shows Mint poll",
-  "text": "A deficient monsoon and uneven rural demand may have weighed on growth, while resilient manufacturing and services activity are expected to have supported the economy.",
-  "url": "https://www.livemint.com/economy/indias-q2-gdp-growth-to-slow-marginally-to-7-6-shows-mint-poll-11795598155206.html",
-  "ts": 1795653023,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "neutral",
-  "theme": "weather",
-  "pain": [],
-  "score": 2.926
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/US",
-  "title": "Fulcrum Shifts Focus, Shorts AI Supply Chain - Sharecafe",
-  "text": "Fulcrum Shifts Focus, Shorts AI Supply Chain Sharecafe",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHlyVlhIY0tPbzFNdlJhaGVXV1RvR1dVTlBhNzFCbXBUTFUyTXpISWhrbHBLc1dTbmNhaU9qMG8zUFRoY3R5cnJqck1Xc2dWS3dUOUFsbVFaWFZWcDdMRFdCX09HbXlXZS1KdUtZbFY1UG1GS2pTVGRzLVZWRWtpM2RNUXZfaGJTcVhwZA?oc=5",
-  "ts": 1795674383,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "it & ai"
-  ],
-  "direction": "neutral",
-  "theme": "economy",
-  "pain": [],
-  "score": 2.923
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/US",
-  "title": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards - KLSE Screener",
-  "text": "Cover Story 1: AI boom or bubble? Investors confront risks versus rewards KLSE Screener",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTNYTTZ1N1VZSUpCMHUzWVJrMnN5M2NJQjlLTllwaGdjZ3pDZnJTNWlZbEs3OExGOXhCeVlDczRLaGFEaDJ5dklMbUl1TGllTmpZd09ZMnFsS0xhR1ZaYTQwUDU0eG5pZi1VSk1oS3RibGJvMWJ3R1g2V2U5VnBKMjh6UmVWM1RNQ3RiUnhjRjhmV1FVWUtMQ01vU2poVXhfbDFsYkRSMDdkdFJMdWxmYm42STByb2NSdHFEMUlR?oc=5",
-  "ts": 1795672800,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "it & ai"
-  ],
-  "direction": "neutral",
-  "theme": "economy",
-  "pain": [],
-  "score": 2.909
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "SEBI overhauls investor KYC process, aims to cut paperwork and simplify onboarding - Upstox",
-  "text": "SEBI overhauls investor KYC process, aims to cut paperwork and simplify onboarding Upstox",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZk00b0FDS1pSRElqcmRmQjFYejV6Rm85RC1WS2FSMVpOdXBVR3hkeU1zczdaelZ5RzJRRm9iaklmcXJvTUJSTGJEcUY5QXdsSXUzWmJzQV9weHpKOEd5SXltbVVmVG1QejhsbzVrNmhhVW9pNDZ6aHlEeXViSG43blh5QjlybGNaOTd4ME9RMDI1VXFMcFJHY010aWdmQzNSZ2w2SjZOOGFCUmJGNUVEVXVRN19xTE9FRmh5ODlWVEE5OGlZcTBpaGJmN0QwRUg1MWNocGJjclBsV3B0TzVkQ3E0a1c1clA0SEpiUHJDdEQzZw?oc=5",
-  "ts": 1795670110,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "stock market"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 2.884
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "SEBI New KYC Rules From December 24: Opening Demat Accounts to Get Easier; Check 6 Major Changes for Investors - Kotak Neo",
-  "text": "SEBI New KYC Rules From December 24: Opening Demat Accounts to Get Easier; Check 6 Major Changes for Investors Kotak Neo",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmFxQ3RhanVLckVqSThHczVvamI0VjNUZ1F1bE1DV1pYMFpwOUNHeWp6bHVJZW53QVZ2LTBLTS15TkJzWC1iZ3FwVnU4TV8xS3hlM2FtaGFPeFFpczQ5NHRRYUxmVTd3Wm1jTW83YUN0WVJVdTdXLU1yOHk3TkNwcUV4SGdOeVpfeHJnNUFTU0dET0RWdWtUQURSUlVvdmF6OTVKdTVPdGsyUTNJZjBnNTJTU2VPNklkV0hGOXFBZWc3MDl6ZWxYYTBFOA?oc=5",
-  "ts": 1795670006,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "stock market"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 2.883
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Santosh Kumar Shukla Named SEBI Executive Director, Legal - Univest",
-  "text": "Santosh Kumar Shukla Named SEBI Executive Director, Legal Univest",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTZ6X05ELWRYVUFjWTVrU3MybDBSS1RwWDhXSm5DTzRycjNVNUZLem1reDZ2ajBhNGV3eHRfQ2Y4SFpfQl9pcXNsaWJEdGpQZnUtcXB6TE5RVHJJalZXdFdHNWNzdlhIMWVwYnhaSUNqR3ZRSVBtSHNhZS02azZvRTBFODFNUlMtOEVWdzdUVQ?oc=5",
-  "ts": 1795668480,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "stock market"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 2.869
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/US",
-  "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters - CNBC",
-  "text": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters CNBC",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNEVmNUhlTHZVREEzZ01xdzYwNmpBWE1fNEk2WTlKREhuUWtqN2xsVnRTLWtWUkVGQ2d3UmFURW1ORUY1ZV9FV3V1YVpLa19jczZrS21YVWtYLXhBb0dSY2taSzVvWlR0djdYQWlBcjF6UdIBd0FVX3lxTE8xSVBVQVFIMm5qRmN0dDNJeE5XZEk5eVF3ZjgzaWZhUlZTWVhnWC1FLWtwZ3Q2UE5YSEtpalkxb1lidFZMWk1CMU9qa25OcURkdjkzRk4xdEoxdDl0ZEZhTVNzQUxSZFR2aXdXbm5CZE92X0pqaERJ?oc=5",
-  "ts": 1795666320,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "msme & exports"
-  ],
-  "direction": "neutral",
-  "theme": "trade",
-  "pain": [],
-  "score": 2.849
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December - Livemint",
-  "text": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December Livemint",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcWxrYWg3dm1iY2lfaXl1YWxRYVNhdjdabkpMMnNWNEdmWlJTNGc1YmpmRG5ucG1NSmdtdkZpLTgtc3ZUYkZrRUxMczFlT1otNDVackVYOTVQXzIxWXNtS0I5cWw1N09lQlUycWlaYTJpNTI2TGhGMDB1VXhJLUwySmtkNDh1ZURjOHZyeTd6c1JhMTE0VHhqaXVwWHFLV0tnRHVURFBvM25ianJZX0dIT3JITTEwdzY4ZnhNTC1PSnBaTEstd2ZHdloxV3RaOEMydFQ1ODZJZ1lVMDdxNUlZWXpOSXFEQ0hQb0QxZDk1MXFhMXZTSlFlb3kta21XNW45aWZLSTRmRlFwR1NKbmlPbGFtRdIBmAJBVV95cUxQYmNHU0h4amtzUjU3NU5td3dRTE0xaWFabGhGZ2ZITlpWN2QyalhzWjdQQjhMNDU3Wk9UTUF1YkRZVkhJM2FpX29pQ1JwT01ZWkR2Y1NleWZDWERzNFZ0Rmk2MGo1dzhRLWpmdTNYLW4tLW1VZ2dUd25NM3gyeWVzM253MVJiQkxvVl9DMnRwZzBpbUhwdWZUdlJlckozX2JocE1LeXZ5WDJJQzBHQ0pzbUc2TlZKWXd2dWs0bFFEYU9qYWctVllUakJNYkRKLTIyZFVOV1RURVZrRU9HZ0I3TW1hSC13VE9YbzdHQWtHTG9MQkN3VjQ1a2hyT085S2NDVnFXUWxSc05Jbk9idkJNU2xEWjhRYlJw?oc=5",
-  "ts": 1795666258,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "stock market"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 2.848
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Which Donors Fund Shade, Drinking Water and Heat Alerts for Outdoor Workers in Indian Cities? - fundsforNGOs - Grants and Resources for Sustainability",
-  "text": "Which Donors Fund Shade, Drinking Water and Heat Alerts for Outdoor Workers in Indian Cities? fundsforNGOs - Grants and Resources for Sustainability",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT3FSWDFXY3dCZ2VCVmFRT2E4YTF5T2FIaUpIaHZHS0dPRUN4azhTVmMtcjJfU2RKMzRxWWlIS2tzQ19WbUtSNEptZUR0ckdWYkRSakw4UkpqOW4tZ0c2WjZpQ0l4YjhxYUd2RTB1M3VIbWoyRmVpb1M1YzVjNHVBdVNESzh1c292ZW9YVjRlTWhTQ3hOX0IxMlBjOXV0QlpTOHhjX2xiVlJ4Wkl5VnFGZG5EdnlnLVlhS2dXb2s4U3lBVndnNGNucl8zckkxTk1YRUVwUHVfTXgteGFKUmE4anFNZVYtV19CWlIteEtzWjUwTFh0QUHSAfYBQVVfeXFMTU9xUlgxV2N3QmdlQlZhUU9hOGExeU9hSGlKSGh2R0tHT0VDeGs4U1ZjLXIyX1NkSjM0cVlpSEtrc0NfVm1LUjRKbWVEdHJHVmJEUmpMOFJKajluLWdHNlo2aUNJeGI4cWFHdkUwdTN1SG1qMkZlaW9TNWM1YzR1QXVTREs4dXNvdmVvWFY0ZU1oU0N4Tl9CMTJQYzl1dEJaUzh4Y19sYlZSeFpJeVZxRmRuRHZ5Zy1ZYUtnV29rOFN5QVZ3ZzRjbnJfM3JJMU5NWEVFcFB1X014LXhhSlJhOGpxTWVWLVdfQlpSLXhLc1o1MExYdEFB?oc=5",
-  "ts": 1795662223,
+  "title": "Digital media accounts for 98% of advertising violations, Meta leads with 73.4%",
+  "text": "The advertising watchdog flagged widespread misleading claims, prohibited promotions and inadequate disclosures, calling for greater accountability across digital advertising platforms",
+  "url": "https://www.thehindubusinessline.com/economy/digital-media-accounts-for-98-of-advertising-violations-meta-leads-with-734/article71742023.ece",
+  "ts": 1795691848,
   "engagement": 0,
   "label": "",
   "sectors": [],
-  "direction": "tailwind",
+  "direction": "headwind",
   "theme": "economy",
   "pain": [],
-  "score": 2.811
+  "score": 3.118
  },
  {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "UP Proposes 750 MW Rooftop Solar for 500,000 Homes - www.mvapulse.com",
-  "text": "UP Proposes 750 MW Rooftop Solar for 500,000 Homes www.mvapulse.com",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWXVSNWdxTFc4S3paUUNJWVFUa2lzWnlKWnZydUtkdmlFNVpYc2FIZEUxcnJDbnd4QWQ0M2RaZDI2ckpfelhTNFZEdkd1Vi1aaGZnNG5pQkxOM1h3RDhfajRBRThHX3RjLWwweFNGckw1WVJSNVcwZnA1Q3diZVhGVA?oc=5",
-  "ts": 1795660293,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "solar & energy"
-  ],
-  "direction": "neutral",
-  "theme": "economy",
-  "pain": [],
-  "score": 2.793
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/IN",
-  "title": "Food inflation pressures persist in November ahead of RBI monetary policy meeting, Bulletin shows - bfsi.economictimes.indiatimes.com",
-  "text": "Food inflation pressures persist in November ahead of RBI monetary policy meeting, Bulletin shows bfsi.economictimes.indiatimes.com",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekVFVHJqRlAzXzlxUU1sVTMxMl80VnFMdTNxYXFoeExhX050WUVCbEdDQUVOVXhDT0FrRjQyd25lcXhZaGRiWnhRc3FWNlVFWHdSZDlpRmFaeUhLQzF1a2NSSjNQYV9ucXNiUVpodHViUGpyazZYTWlmWGM3ZmtSLVp2VUx5Y2xId2tUNktCY19rdkxURHpncGo2Q29idjV2Qk9oZl9xUjVYYzJtX21Lc0FUbUE2RDRzb1E5SzBMYzNwcHF5U0JiWGNzRWtJNmhlMWFKOHlBVkdZT2FIWGJrVXFuUml0RG9WZ1NTUTFB0gHzAUFVX3lxTE1oS2s2WFZubjM4NGdCYUJLWHFaVDk3NzJNQUE0U2ZYZ0pidWRsUHJBUHhQMkdFNGFqSlhzdllnWHNEVTFYSURiSmFDVnNVWWFLanFUNHBBelRubmlUTGZ3b2FpVmdFSEdrRG5pdktiWk9CX1NPRUFDQVZ6cnlzdTNQRU95TVlrY0YzV2dLQzJDOWtVcW9qVGRSWm5oRk15alVNVGhPTWxFamJ5M21ULW1sSHRxYXVHUkQzbS1RZFlObWNSWGduaGxVeURjQzZOZ195T0VuU0QwMXFfWWRkbW5ldUVEU0o4VFV3NnV2RTJSajFXWQ?oc=5",
-  "ts": 1795657651,
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Only 59% of urban Indians recognise milk as a complete protein, survey finds",
+  "text": "The YouGov study across eight cities highlights gaps in protein awareness, high-protein milk consumption and changing preferences in dairy purchases",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/only-59-of-urban-indians-recognise-milk-as-a-complete-protein-survey-finds/article71746144.ece",
+  "ts": 1795690392,
   "engagement": 0,
   "label": "",
   "sectors": [
    "food & beverages"
   ],
   "direction": "neutral",
-  "theme": "policy",
+  "theme": "economy",
   "pain": [],
-  "score": 2.769
- },
- {
-  "source": "policy_news",
-  "origin": "policy-news/US",
-  "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - NST Online",
-  "text": "World stocks tumble as Trump tariffs rattle markets, AI rally fades NST Online",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0lDOUNTRG5haGg1R0dzTjcya2NPR2JkV0d3RmcxQUY2dzJIYk5JbW1RLWVRMkIyXzdneW1yeFB2cXNPajhsbWNneGR4OUUxSjVBb3I5djdoMGhod3Awb0tia1pxMVJXdHVZNkJhVklxcEdRREZ6V25EU3ZQNGF0cmFjX2ROX1Ytb2FMYWp3ZG12QjJUMV9YWEt6bGtsY3h5MFF5SFhJTUROMlVkUk12alNDRGhYVmhKMVlvb0hB0gHDAUFVX3lxTE12MzJMSUczczhHZUxGbnlmX0xQSmxFT0MyZVM4MFFjZVJQNHJjeUVTV05PNjRtVFlPX2QtZjZZVWswSGRvOVhVS180eUdRT0FkUFFqYTdkQ2FQSDVfX3FqWmpXN1hiMVJuc3F0QkhXR1YyTUFCUmwtTTFBa1BCWElyeDBYS0psZ2g5eDEwaGExLVN3aXlvVkY3OE82ZHU1TENCTy1xaGhDZUNKQWZJRFJaT1ZfaUNUUXk0bXdpSU50NXI2WQ?oc=5",
-  "ts": 1795652088,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "it & ai"
-  ],
-  "direction": "neutral",
-  "theme": "trade",
-  "pain": [],
-  "score": 2.717
+  "score": 3.104
  },
  {
   "source": "policy_rss",
   "origin": "BusinessLine Economy",
-  "title": "India says it has no structural excess capacity, remains committed to early US trade deal",
-  "text": "The Commerce Ministry said the US notice is under examination, while reiterating New Delhi’s position on manufacturing capacity and trade negotiations.",
-  "url": "https://www.thehindubusinessline.com/economy/india-rejects-us-claim-of-excess-capacity-remains-committed-to-early-trade-deal/article71744037.ece",
-  "ts": 1795630125,
-  "engagement": 0,
-  "label": "",
-  "sectors": [
-   "manufacturing"
-  ],
-  "direction": "neutral",
-  "theme": "policy",
-  "pain": [],
-  "score": 2.714
- },
- {
-  "source": "policy_rss",
-  "origin": "Mint Economy",
-  "title": "US proposes extra tariffs of up to 25% on Indian goods, 17% after trade deal",
-  "text": "India faces an additional tariff of up to 25%, which can come down to 17% if both sides sign the proposed trade deal, according to the US Trade Representative. The US is India’s largest export market, accounting for shipments of goods worth over $87 billion in the fiscal year through March 2026.&nbsp;",
-  "url": "https://www.livemint.com/economy/new-us-tariffs-on-india-impact-trade-deal-11795623444552.html",
-  "ts": 1795628836,
+  "title": "Indian exporters urge early US trade deal, cite proposed 17% tariff advantage",
+  "text": "With US orders picking up, exporters say an early agreement would help Indian businesses protect competitiveness and secure greater market access",
+  "url": "https://www.thehindubusinessline.com/economy/indian-exporters-urge-early-us-trade-deal-cite-proposed-17-tariff-advantage/article71745886.ece",
+  "ts": 1795688057,
   "engagement": 0,
   "label": "",
   "sectors": [
@@ -1409,7 +1258,7 @@
   "direction": "neutral",
   "theme": "trade",
   "pain": [],
-  "score": 2.702
+  "score": 3.083
  },
  {
   "source": "fx",
@@ -1417,7 +1266,7 @@
   "title": "EUR/INR 100.859 — -4.91% in 30 days (rupee stronger) — BIG MOVE",
   "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
   "url": "https://www.frankfurter.app/",
-  "ts": 1795682649,
+  "ts": 1795700734,
   "engagement": 491,
   "label": "ECB reference rate",
   "theme": "economy",
@@ -1436,7 +1285,7 @@
   "title": "USD/INR 92.24 — -3.03% in 30 days (rupee stronger) — BIG MOVE",
   "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
   "url": "https://www.frankfurter.app/",
-  "ts": 1795682649,
+  "ts": 1795700734,
   "engagement": 303,
   "label": "ECB reference rate",
   "theme": "economy",
@@ -1452,10 +1301,10 @@
  {
   "source": "air",
   "origin": "open-meteo-air",
-  "title": "Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 157 µg/m³ (4 of next 4 days)",
+  "title": "Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 160 µg/m³ (4 of next 4 days)",
   "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
   "url": "https://open-meteo.com/en/docs/air-quality-api",
-  "ts": 1795682649,
+  "ts": 1795700734,
   "engagement": 4,
   "label": "4 bad-air days",
   "theme": "weather",
@@ -1470,10 +1319,10 @@
  {
   "source": "air",
   "origin": "open-meteo-air",
-  "title": "Air quality very poor: Delhi — PM2.5 daily mean up to 197 µg/m³ (3 of next 4 days)",
+  "title": "Air quality very poor: Delhi — PM2.5 daily mean up to 196 µg/m³ (3 of next 4 days)",
   "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
   "url": "https://open-meteo.com/en/docs/air-quality-api",
-  "ts": 1795682649,
+  "ts": 1795700734,
   "engagement": 3,
   "label": "3 bad-air days",
   "theme": "weather",
@@ -1488,28 +1337,10 @@
  {
   "source": "air",
   "origin": "open-meteo-air",
-  "title": "Air quality very poor: Patna — PM2.5 daily mean up to 130 µg/m³ (3 of next 4 days)",
+  "title": "Air quality very poor: Kolkata — PM2.5 daily mean up to 149 µg/m³ (2 of next 4 days)",
   "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
   "url": "https://open-meteo.com/en/docs/air-quality-api",
-  "ts": 1795682649,
-  "engagement": 3,
-  "label": "3 bad-air days",
-  "theme": "weather",
-  "direction": "mixed",
-  "sectors": [
-   "healthcare & pharma",
-   "cooling & appliances"
-  ],
-  "pain": [],
-  "score": 8
- },
- {
-  "source": "air",
-  "origin": "open-meteo-air",
-  "title": "Air quality very poor: Kolkata — PM2.5 daily mean up to 153 µg/m³ (2 of next 4 days)",
-  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
-  "url": "https://open-meteo.com/en/docs/air-quality-api",
-  "ts": 1795682649,
+  "ts": 1795700734,
   "engagement": 2,
   "label": "2 bad-air days",
   "theme": "weather",
@@ -1524,10 +1355,28 @@
  {
   "source": "air",
   "origin": "open-meteo-air",
-  "title": "Air quality very poor: Lucknow — PM2.5 daily mean up to 152 µg/m³ (2 of next 4 days)",
+  "title": "Air quality very poor: Lucknow — PM2.5 daily mean up to 145 µg/m³ (2 of next 4 days)",
   "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
   "url": "https://open-meteo.com/en/docs/air-quality-api",
-  "ts": 1795682649,
+  "ts": 1795700734,
+  "engagement": 2,
+  "label": "2 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 7
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Patna — PM2.5 daily mean up to 129 µg/m³ (2 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795700734,
   "engagement": 2,
   "label": "2 bad-air days",
   "theme": "weather",
