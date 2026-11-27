@@ -1,0 +1,1039 @@
+[
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Your Shop, All of India: Digispot AI Commerce for D2C Brands",
+  "text": "India makes beautiful things in every town. But most small sellers rent their shop: platform fees change, a platform's own version can show up next to yours, accounts get switched off, and buyers searching Google or AI can't find you. Digispot AI Commerce helps YOU BUILD YOUR BRAND and runs your own D2C store for you: - Your own web address, with your logo on every sign-in and email - Pages Googl",
+  "url": "https://www.youtube.com/watch?v=CCSL-mujWas",
+  "ts": 1795667706,
+  "engagement": 57,
+  "label": "5,570 views · 0 comments",
+  "pain": [
+   "can't find"
+  ],
+  "score": 6.877
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Grind, my OpenDocument native office suite built in Rust",
+  "text": "I was frustrated with the LibreOffice UX for a long time, and since AI agents have arrived I finally could build an alternative that works well enough for me in my spare time. The feature set is intentionally limited, I'd be curious what people think of it.",
+  "url": "https://news.ycombinator.com/item?id=50658013",
+  "ts": 1795717241,
+  "engagement": 4,
+  "label": "2 pts · 1 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 6.192
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+  "text": "I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a quick explainer on something, and there was no good interface for Claude to ask me questions) so I built Scolast! It's an AI tutor that follows Bloom's findings ( https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem ) that 1 to 1 tutoring, using mastery learning (basically only moving ahead when the student has demonstrated they learned something, but also moving ahead as quickly as possible) can have pretty incredible results, around two standard deviations higher than regular classroom learning. Bloom called it a problem because this was obviously untenable - but it's actually possible now! I also added little side explainers for anything that's confusing, plus worksheets, and I've been iterating on the voice of the tutor, to try to get a sort of Feynman-y focus on the whys and the experiments and experiences that motivated each piece of knowledge. I find that it's quite remarkable, I'm actually retaining some of the physics I've never been able to retain in the past, and it seems useful in a lot of other domains - my wife used it for language learning and to pass a yoga exam; I've used it to learn some machine learning subjects, etc. One interesting side effect is that I find using it quite tiring, and I actually use tokens very slowly compared to agentic coding - when you actually have to read every token carefully you really get your money's worth. Would love to get people's thoughts so I'm throwing in $3 in free tokens while my budget lasts. After that you can buy tokens and I'm charging an extra 10% to cover everything else. Eventually I'd like to hook it up to people's existing subscriptions, I've applied to OAI's program for this, waiting to see if Ant will offer it. Cheers",
+  "url": "https://news.ycombinator.com/item?id=50661473",
+  "ts": 1795740192,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 5.449
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "AI Server PCB Demand Surges, Supply Shortage Expected to Persist Until Mid-2028 - BigGo Finance",
+  "text": "AI Server PCB Demand Surges, Supply Shortage Expected to Persist Until Mid-2028 BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMa3lhMGpuaWpDMTkwellLc0tzNFIzNjFUd18zTjRJVjcyb01wTEhkOFJuem1zbFhlOWk1czhDcV8xNXpRNzlQQzB1aS1QSUsyU1c0XzJrektWbUxkaDE0V2M0Qi1NNEZQNzk2MjZiYVAwRDhQRnc?oc=5",
+  "ts": 1795762500,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.934
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Case of the \"Missing Business\" : Rank Local Files",
+  "text": "**The Rank Local Files: The Case of the Missing Business | An Original Mini-Drama** What happens when your business disappears from Google? You call 911, of course! A frustrated plumbing business owner discovers that his company is practically invisible online. Unable to find his own business on Google, he makes an unusual emergency call that leads him to AL, Rank Local's mysterious digital dete",
+  "url": "https://www.youtube.com/watch?v=IMzwiEjh6PA",
+  "ts": 1795668914,
+  "engagement": 2,
+  "label": "5 views · 1 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 4.83
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Dollar breaks Tk130 mark in open market amid supply shortage - Daily Sun",
+  "text": "Dollar breaks Tk130 mark in open market amid supply shortage Daily Sun",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSjNlY2o5WDU4MnZWNVd0X0ZTQWs3S0o0TmlIdnZpX0UyOHpyLXZXbDh4amh2d0hVWHhrMmR6Mk5Sb3VzZlFVVlpTWVVRQV9ud2lr?oc=5",
+  "ts": 1795716000,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.503
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "AI made self-hosting fun again",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50660180",
+  "ts": 1795729665,
+  "engagement": 1288,
+  "label": "634 pts · 327 comments",
+  "pain": [],
+  "score": 8.094
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50657530",
+  "ts": 1795714607,
+  "engagement": 1278,
+  "label": "380 pts · 449 comments",
+  "pain": [],
+  "score": 7.947
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Hard Drive pricing has gotten bad",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50661646",
+  "ts": 1795742029,
+  "engagement": 779,
+  "label": "325 pts · 227 comments",
+  "pain": [],
+  "score": 7.685
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Tell HN: Happy Thanksgiving",
+  "text": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!",
+  "url": "https://news.ycombinator.com/item?id=50655664",
+  "ts": 1795703214,
+  "engagement": 982,
+  "label": "692 pts · 145 comments",
+  "pain": [],
+  "score": 7.567
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50653477",
+  "ts": 1795686263,
+  "engagement": 901,
+  "label": "323 pts · 289 comments",
+  "pain": [],
+  "score": 7.32
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Company Culture = Slack Emoji ÷ √Headcount",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50659640",
+  "ts": 1795726189,
+  "engagement": 582,
+  "label": "316 pts · 133 comments",
+  "pain": [],
+  "score": 7.235
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50659841",
+  "ts": 1795727285,
+  "engagement": 536,
+  "label": "356 pts · 90 comments",
+  "pain": [],
+  "score": 7.159
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50657645",
+  "ts": 1795715265,
+  "engagement": 525,
+  "label": "259 pts · 133 comments",
+  "pain": [],
+  "score": 7.027
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "AMD-specific fork of llama.cpp",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50657265",
+  "ts": 1795713089,
+  "engagement": 512,
+  "label": "346 pts · 83 comments",
+  "pain": [],
+  "score": 6.98
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The need for a formally verifiable mainstream programming language",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50663089",
+  "ts": 1795756926,
+  "engagement": 338,
+  "label": "132 pts · 103 comments",
+  "pain": [],
+  "score": 6.954
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The group chat where your AI talks behind your back",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50663595",
+  "ts": 1795761874,
+  "engagement": 265,
+  "label": "155 pts · 55 comments",
+  "pain": [],
+  "score": 6.747
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Fuck_data_brokers.py",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50658191",
+  "ts": 1795718241,
+  "engagement": 331,
+  "label": "233 pts · 49 comments",
+  "pain": [],
+  "score": 6.574
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: How do you find meaning of life at 41?",
+  "text": "Happy Thanksgiving! This question crossed my mind in the morning. It feels like I have seen pretty much everything under the Sun. I have modest house (still renting), small kids, a okayish job. I spent time on daily activities and occassionally on long walks. The progress with AI and impact on Software is frankly exciting and depressing at the same time. What are people my age doing these days? How do you keep yourself excited for the future and not feel anxious? Curious to see from a bit older people here how are you doing and challenging yourself well into 40s, 50s and 60s.",
+  "url": "https://news.ycombinator.com/item?id=50657957",
+  "ts": 1795716893,
+  "engagement": 265,
+  "label": "59 pts · 103 comments",
+  "pain": [],
+  "score": 6.331
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: I wrote an entire Vim manual over 4 years",
+  "text": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved. So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done! The result: - 21 chapters showing the most important Vim features step by step. - 170 exercises with solutions. - Many real-life examples to show how Vim can be used and configured for your own needs. - The related Vim's help pages to dig further into each feature. Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example). - The landing page: https://themouseless.dev/vim/ - A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample... . I wrote this with my bare hands, no LLM involved to spoil the fun.",
+  "url": "https://news.ycombinator.com/item?id=50655868",
+  "ts": 1795704262,
+  "engagement": 255,
+  "label": "159 pts · 48 comments",
+  "pain": [],
+  "score": 6.174
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Comment down you lala company experiences #lalacompany #corporatelife #officehumour #ytshorts",
+  "text": "Booming to The Rolling Plate – India’s Fastest Growing Cloud Kitchen Franchise! 🍴 At The Rolling Plate, we’re revolutionising the food franchise industry with our unique FOCO (Franchise Owned, Company Operated) and FOPO (Franchise Owned, Partner Operated)model - designed for people who want to earn from the booming food business without the daily hassle of operations. From kitchen setup and staf",
+  "url": "https://www.youtube.com/watch?v=CVA55tMuy7g",
+  "ts": 1795699833,
+  "engagement": 3790,
+  "label": "132,552 views · 15 comments",
+  "pain": [],
+  "score": 6.079
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50663666",
+  "ts": 1795762432,
+  "engagement": 126,
+  "label": "50 pts · 38 comments",
+  "pain": [],
+  "score": 5.982
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Rvoip: VoIP stack in Rust",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50658632",
+  "ts": 1795720689,
+  "engagement": 175,
+  "label": "123 pts · 26 comments",
+  "pain": [],
+  "score": 5.936
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50656036",
+  "ts": 1795705206,
+  "engagement": 199,
+  "label": "137 pts · 31 comments",
+  "pain": [],
+  "score": 5.925
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "This Wax Strips Candle Making Business is So Easy Anyone Could Start by Self.",
+  "text": "Start your own Wax Sheet Candle Business with an investment of less than ₹10,000! This video will teach you how to make beautiful candles using honeycomb wax sheets. It's simple to start from home, allowing you to launch your own startup with a low investment. Do you want to start your own small business? Subscribe now and let me know in the comments what topic you'd like to see in the next vide",
+  "url": "https://www.youtube.com/watch?v=XYi4Z4h1_jU",
+  "ts": 1795691812,
+  "engagement": 3094,
+  "label": "222,227 views · 872 comments",
+  "pain": [],
+  "score": 5.864
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50658193",
+  "ts": 1795718244,
+  "engagement": 159,
+  "label": "101 pts · 29 comments",
+  "pain": [],
+  "score": 5.814
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Idée business autour des casques de moto",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=DQT2iTYZ6Jg",
+  "ts": 1795716015,
+  "engagement": 1974,
+  "label": "44,325 views · 18 comments",
+  "pain": [],
+  "score": 5.776
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50660273",
+  "ts": 1795730359,
+  "engagement": 123,
+  "label": "95 pts · 14 comments",
+  "pain": [],
+  "score": 5.66
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+  "text": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc",
+  "url": "https://news.ycombinator.com/item?id=50656763",
+  "ts": 1795709801,
+  "engagement": 146,
+  "label": "74 pts · 36 comments",
+  "pain": [],
+  "score": 5.647
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+  "text": "I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a more minimalist interface. Olumino is the combination of both. I also added Japanese flashcard support, including kana readings, for anyone learning the language. I’m a CS student building this in my free time, so I’d love to hear what people think!",
+  "url": "https://news.ycombinator.com/item?id=50651099",
+  "ts": 1795663986,
+  "engagement": 194,
+  "label": "104 pts · 45 comments",
+  "pain": [],
+  "score": 5.517
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Why Most Brands Fail at Influencer Marketing? | How Brands Use Creators to Generate 500% Returns!",
+  "text": "👉 Check Odoo: https://www.odoo.com/r/zjn 👉Odoo Community Days: https://www.odoo.com/r/eVkR 👉To work with Finnet Media, fill out this form: https://docs.google.com/forms/d/e/1FAIpQLSclRvax7ESp4XKtljXgqyje2CArK2O7bnJfdU5K4qxlxtAQmA/viewform 👉 Who would you like to see next on The Indian Business Podcast: https://forms.gle/37daEPEy7mAzhvv29 👉Think School’s flagship Communication course with live",
+  "url": "https://www.youtube.com/watch?v=kb_bOB9tHU0",
+  "ts": 1795702121,
+  "engagement": 1520,
+  "label": "84,378 views · 27 comments",
+  "pain": [],
+  "score": 5.466
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "The secret to freelancing success",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=CW8DT8tqZjI",
+  "ts": 1795714102,
+  "engagement": 1151,
+  "label": "14,971 views · 7 comments",
+  "pain": [],
+  "score": 5.384
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Buy Nothing Day – Friday November 27th 2026",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50663261",
+  "ts": 1795758762,
+  "engagement": 72,
+  "label": "56 pts · 8 comments",
+  "pain": [],
+  "score": 5.371
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "The Man Behind India's FAVOURITE D2C Skincare Brand",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=DvXjgP3FmW0",
+  "ts": 1795705184,
+  "engagement": 1199,
+  "label": "18,074 views · 6 comments",
+  "pain": [],
+  "score": 5.33
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "NormalScript: A perfectly normal scripting language",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50651430",
+  "ts": 1795667546,
+  "engagement": 154,
+  "label": "104 pts · 25 comments",
+  "pain": [],
+  "score": 5.311
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "\"첫 달 만에 월급만큼 벌었어요\" 공기업 퇴사 후 부업 8개 전부 망하고 첫 달 만에 260만 원 번 최고의 사이드잡 | 멘토의 다락방 [해디]",
+  "text": "👇 해디님의 더 자세한 부업 노하우를 아래 링크에서 확인해보세요! https://m.site.naver.com/2lTEq “4년 동안 대학 다니고 겨우 들어간 회사보다, 이걸로 한 달 만에 이렇게 번다고?” 오늘은 공기업 퇴사 후 8개가 넘는 부업에 실패하고, AI와 아임웹으로 홈페이지 제작 부업을 시작해 첫 달 260만 원을 번 공간브릿지 해디 대표님을 모셔봤습니다. 코딩도 디자인도 몰라도, 퇴근 후나 재택에서 시작할 수 있는 직장인 부업·AI 부업이 궁금하다면 이번 영상 끝까지 시청해 보세요! #부업 #AI부업 #직장인부업 #부업추천 #온라인부업 #주부부업 #재택부업 #사이드잡 #아임웹 #홈페이지제작 #홈페이지부업 #N잡 🕰️ 영상 순서 00:00 하이라이트 00:39 오늘의 게스트 00:56",
+  "url": "https://www.youtube.com/watch?v=8HMQsByrbVo",
+  "ts": 1795687238,
+  "engagement": 1419,
+  "label": "4,574 views · 3 comments",
+  "pain": [],
+  "score": 5.28
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Hermes Agent just leveled up...",
+  "text": "Get your own always-on Hermes Agent VPS on Hostinger: https://hostinger.com/hermeswesroth Use coupon code WESROTH at checkout for an extra discount on your VPS plan. (Hostinger sponsored the setup segment of this video.) Most AI tools stop working the second you close your laptop. In this video, I walk through setting up Hermes Agent, an open-source 24/7 AI agent framework by Nous Research, on a",
+  "url": "https://www.youtube.com/watch?v=uClZwJ-BoSc",
+  "ts": 1795671848,
+  "engagement": 1647,
+  "label": "57,812 views · 153 comments",
+  "pain": [],
+  "score": 5.241
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "স্টুডেন্ট অবস্থায় টাকা আয়ের নতুন উপায় কি? how to earn money | how to make money",
+  "text": "In this video, I will review a Micro Job Website and show you how to explore small online tasks, create an account, understand task requirements, submit proof of work, check task approval status, and view the available withdrawal options. This is an educational walkthrough for anyone interested in learning about online work in Bangladesh. If you are a student, housewife, unemployed person, or som",
+  "url": "https://www.youtube.com/watch?v=QbKmM9LVTeM",
+  "ts": 1795694924,
+  "engagement": 1171,
+  "label": "8,028 views · 414 comments",
+  "pain": [],
+  "score": 5.218
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Mình quyết định đi làm lại sau 2 tháng nghỉ việc làm content tự do",
+  "text": "- Connect with me: Tóp tóp: / loliteo_radio Instagram: / loliteo - Bạn có thể donate cho mình tại: STK: 9762551825 - PHAM HOANG ANH (VIETCOMBANK)",
+  "url": "https://www.youtube.com/watch?v=Xjkwcgxythc",
+  "ts": 1795671077,
+  "engagement": 1589,
+  "label": "36,382 views · 93 comments",
+  "pain": [],
+  "score": 5.209
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "How to Turn One Idea Into a Million-Dollar Business",
+  "text": "How to Turn One Idea Into a Million-Dollar Business #rajshamani #business #entrepreneurship #businessideas #startup #businessstrategy #success #motivation #youtubeshorts",
+  "url": "https://www.youtube.com/watch?v=oEYuejgRB5A",
+  "ts": 1795713330,
+  "engagement": 753,
+  "label": "19,448 views · 4 comments",
+  "pain": [],
+  "score": 5.082
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "❤️🧿#makeup #makebetterreels #makebetterreels #makeuptutorial #makeupartist #makemoneyonline",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=_OIwpJ8T09w",
+  "ts": 1795758528,
+  "engagement": 380,
+  "label": "6,782 views · 1 comments",
+  "pain": [],
+  "score": 5.026
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Unique Vegetable Slicer | Built-in Cutting Board In Knife Business Idea | Wazirabad Millionaires",
+  "text": "Unique Vegetable Slicer | Built-in Cutting Board In Knife Business Idea | Wazirabad Millionaires Kelye Business Idea | Slicer Dicer All In One Business Idea",
+  "url": "https://www.youtube.com/watch?v=E9QKflgo3ds",
+  "ts": 1795710933,
+  "engagement": 682,
+  "label": "14,964 views · 7 comments",
+  "pain": [],
+  "score": 4.991
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Build a Complete Website In 2 Minutes With AI!",
+  "text": "Build a Complete Website In 2 Minutes With AI! #ai #aifiesta #dhruvrathee #artificialintelligence #aiforbeginners #aiforbusiness #aiforcreators",
+  "url": "https://www.youtube.com/watch?v=0OtYursH-Sc",
+  "ts": 1795696487,
+  "engagement": 782,
+  "label": "9,016 views · 75 comments",
+  "pain": [],
+  "score": 4.952
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "How I Made ₹3.8 Crore on Fiverr With Video Editing",
+  "text": "🎵 Epidemic Sound Cyber Week: 50% off any yearly plan, their best deal of the year. Ends 20 December: https://share.epidemicsound.com/aasilkhanNOV26 My Best Selling Fiverr Course: https://www.udemy.com/share/10dsm7/ In the last 30 days, we made more than $9,000 on Fiverr from 42 projects, with an average selling price of $176. In total, our agency Oneforedits has made over $386,000 on Fiverr and",
+  "url": "https://www.youtube.com/watch?v=jIwpCnbgmMU",
+  "ts": 1795690047,
+  "engagement": 760,
+  "label": "20,311 views · 33 comments",
+  "pain": [],
+  "score": 4.873
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "3 Best Business Videos to Watch | Business Ideas, Entrepreneurship & Startup Lessons",
+  "text": "Want to start a business or become an entrepreneur? These 3 YouTube videos can help you explore business ideas, identify market gaps and understand the realities of entrepreneurship. 🎯 3 Videos to Watch: 1. How To Find Business Ideas, Identify Market Gaps & Make Money | Udit Chawla | FO592 Raj Shamani 2. Brutal Reality Of Entrepreneurship | Complete Business Blueprint 3. SKIP MBA After Watching",
+  "url": "https://www.youtube.com/watch?v=eiVO_nbFLlQ",
+  "ts": 1795686180,
+  "engagement": 796,
+  "label": "12,937 views · 5 comments",
+  "pain": [],
+  "score": 4.869
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "የሚያስከብርህ መስራት ነው #shorts #business #work #makemoneyonline",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=KVEgM3of5FQ",
+  "ts": 1795692763,
+  "engagement": 725,
+  "label": "33,250 views · 3 comments",
+  "pain": [],
+  "score": 4.865
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "Pre-Budget consultations flag AI push, jobs and cybersecurity for MSMEs",
+  "text": "The finance ministry's recent pre-Budget consultations, involving over 200 diverse stakeholders, emphasized critical recommendations such as enhancing AI capabilities and promoting rural employment. Discussions also spotlighted agricultural productivity improvements and sustainable biotechnology practices. Key participants underscored the necessity for reforming MSMEs and supporting smaller financial entities, while advocating for affordable housing and development initiatives in tier-2 and tier-3 cities.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/pre-budget-consultations-flag-ai-push-jobs-and-cybersecurity-for-msmes/articleshow/136201828.cms",
+  "ts": 1795718762,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "real estate & construction",
+   "it & ai",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.129
+ },
+ {
+  "source": "policy_rss",
+  "origin": "Mint Economy",
+  "title": "RBI governor urges MSMEs to free-trade deals; flags low AI adoption",
+  "text": "Malhotra said the FTAs would improve market access for small businesses and create opportunities for them to specialize in segments of global value chains.",
+  "url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html",
+  "ts": 1795767734,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.382
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Ujjwala Yojana helped avert 15% of India’s household PM2.5 emissions in FY26",
+  "text": "The scheme averted 834 kilotonnes of household PM2.5 emissions; CEEW calls for an additional ₹200 winter LPG subsidy to make clean cooking more affordable.",
+  "url": "https://www.thehindubusinessline.com/economy/ujjwala-yojana-helped-avert-15-of-indias-household-pm25-emissions-in-fy26/article71749693.ece",
+  "ts": 1795762216,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "oil & fuel"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.331
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "Centre plans quality standards for cybersecurity products sold to ministries, PSUs",
+  "text": "The Indian government is set to implement minimum standards for cybersecurity products available on the GeM portal. This initiative arises from concerns over the quality of purchased cybersecurity products and aims to enhance performance. The introduction of these standards will ensure public departments can make informed purchasing decisions. Stakeholders, including MeitY, are working on establishing testing methodologies and certification frameworks.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/centre-plans-quality-standards-for-cybersecurity-products-sold-to-ministries-psus/articleshow/136201814.cms",
+  "ts": 1795719824,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "government tenders"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.938
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India’s rabi sowing trails by 10% on fall in coverage of wheat, gram",
+  "text": "Area under wheat down 17%, while gram slips 15% but mustard acreage flat with rise in acreage in MP offsetting decline in Rajasthan",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-rabi-sowing-trails-by-10-on-fall-in-coverage-of-wheat-gram/article71746852.ece",
+  "ts": 1795711448,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.861
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Bullet train wheels to be manufactured out of Ramkrishna Titagarh facility in Chennai: Ashwini Vaishnaw",
+  "text": "Vaishwaw urges the new TVK regime to ensure timely acquisition of land for railway expansion projects",
+  "url": "https://www.thehindubusinessline.com/news/national/bullet-train-wheels-to-be-manufactured-out-of-ramkrishna-titagarh-facility-in-chennai-ashwini-vaishnaw/article71747626.ece",
+  "ts": 1795709119,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing",
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.839
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India eyes 7–8 GWh battery boost; supply diversification may cost 150 bps in margins",
+  "text": "This shift seeks to reduce import dependence and build resilience, even as it raises near-term costs for the sector",
+  "url": "https://www.thehindubusinessline.com/economy/india-eyes-78-gwh-battery-boost-supply-diversification-may-cost-150-bps-in-margins/article71746298.ece",
+  "ts": 1795705264,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "ev & mobility"
+  ],
+  "direction": "tailwind",
+  "theme": "trade",
+  "pain": [],
+  "score": 4.804
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Boost domestic fertiliser output, diversify raw material sources to cushion global shocks: FAI",
+  "text": "India’s fertiliser security faces growing challenges from geopolitical disruptions, import dependence and raw material supply risks, prompting calls for structural reforms",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/boost-domestic-fertiliser-output-diversify-raw-material-sources-to-cushion-global-shocks-fai/article71747005.ece",
+  "ts": 1795701571,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "tailwind",
+  "theme": "trade",
+  "pain": [],
+  "score": 4.769
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Goyal says US trade deal nearing culmination with “pathway” taking shape",
+  "text": "Fresh US Section 301 tariff proposals give India a marginal edge over some Asian competitors if a trade deal is struck, but exporters say the gap is “too narrow”",
+  "url": "https://www.thehindubusinessline.com/economy/goyal-says-us-trade-deal-nearing-culmination-with-pathway-taking-shape/article71749809.ece",
+  "ts": 1795765320,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 3.16
+ },
+ {
+  "source": "policy_rss",
+  "origin": "Mint Economy",
+  "title": "US tariffs: India gets an edge over China, Vietnam, Bangladesh—but what must New Delhi do to secure it?",
+  "text": "The US has proposed a 17% tariff on Indian exports if New Delhi reaches a trade deal with Washington, potentially giving India an edge over Asian rivals. But the offer comes with demands on market access and trade policies, which India wants addressed through ongoing negotiations.",
+  "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+  "ts": 1795754910,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 3.063
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India, UAE agree to boost defence ties at 14th JDCC meeting in Abu Dhabi",
+  "text": "India and UAE to accelerate co-development and co-production of next generation defence equipment",
+  "url": "https://www.thehindubusinessline.com/economy/india-uae-agree-to-boost-defence-ties-at-14th-jdcc-meeting-in-abu-dhabi/article71749398.ece",
+  "ts": 1795754354,
+  "engagement": 0,
+  "label": "",
+  "sectors": [],
+  "direction": "tailwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.058
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "ET India Ascends Summit: Nitin Gadkari, Shaktikanta Das and other top policy names to chalk out roadmap for 2047",
+  "text": "Road transport and highways minister Nitin Gadkari and Shaktikanta Das, the principal secretary to the Prime Minister, will headline the conference, sharing their vision for India to scale up across industries to achieve Prime Minister Narendra Modi’s vision of Viksit Bharat 2047. India’s chief economic advisor V Anantha Nageswaran will present his perspective on the state of the economy and the growth story ahead.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/et-india-ascends-summit-nitin-gadkari-shaktikanta-das-and-other-top-policy-names-to-chalk-out-roadmap-for-2047/articleshow/136202642.cms",
+  "ts": 1795737600,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "logistics"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.903
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "No more hidden sugar and salt as SC pushes for clearer front-of-pack food labels",
+  "text": "A Bench of Justices JB Pardiwala and K Vinod Chandran asked the food safety regulator to revisit and reformulate the threshold levels for each nutrient-of-concern, ensuring its neither too high nor too low",
+  "url": "https://www.thehindubusinessline.com/economy/no-more-hidden-sugar-and-salt-as-sc-pushes-for-clearer-front-of-pack-food-labels/article71747175.ece",
+  "ts": 1795709199,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 2.64
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Fresh US Section 301 tariff proposal clouds export outlook; Indian exporters seek certainty",
+  "text": "Experts question whether a trade pact can ensure stability without safeguards against further US tariff action",
+  "url": "https://www.thehindubusinessline.com/economy/fresh-us-section-301-tariff-proposal-clouds-export-outlook-indian-exporters-seek-certainty/article71747287.ece",
+  "ts": 1795707939,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 2.628
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Fertiliser Association calls for raw materials sourcing expansion to cushion global crises",
+  "text": "The industry body has stressed on raising India’s domestic production capacity as well as diversifying the sources of raw materials, though very limited",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/fertiliser-association-calls-for-raw-materials-sourcing-expansion-to-cushion-global-crises/article71746954.ece",
+  "ts": 1795705127,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.602
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Nitin Gadkari announces road infrastructure projects worth ₹1 lakh crore for West Bengal",
+  "text": "The announcements come as land acquisition accelerates under the two-engine governance to accelerate progress",
+  "url": "https://www.thehindubusinessline.com/news/nitin-gadkari-announces-road-infrastructure-projects-worth-1-lakh-crore-for-west-bengal/article71747275.ece",
+  "ts": 1795704652,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.598
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Tenant farmers left out of El Niño crop loss enumeration in Telangana: Study",
+  "text": "Releasing the report of a study that the committee conducted to assess the plight of tenant farmers, they alleged that as many as 68 farmers committed suicide in the last two months due to financial stress",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/tenant-farmers-left-out-of-el-nino-crop-loss-enumeration-in-telangana-study/article71747022.ece",
+  "ts": 1795701504,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.569
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Why are rice prices rising in India despite record government stocks?",
+  "text": "Poor monsoon rainfall, changing industrial demand and regional supply mismatches have complicated efforts to contain food inflation despite abundant reserves",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/why-are-rice-prices-rising-in-india-despite-record-government-stocks/article71746000.ece",
+  "ts": 1795687765,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "weather",
+  "pain": [],
+  "score": 2.442
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Kharif foodgrain output projected at 167.14 million tonnes despite El Nino, delayed monsoon",
+  "text": "Agriculture Minister Shivraj Singh Chouhan released the first advance estimates alongside final figures showing record foodgrain production in the previous crop year",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/kharif-foodgrain-output-projected-at-16714-million-tonnes-despite-el-nino-delayed-monsoon/article71745952.ece",
+  "ts": 1795687380,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "weather",
+  "pain": [],
+  "score": 2.438
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "India draws $31 billion in climate equity funding, but power and transport dominate",
+  "text": "In the first ten months of 2026, equity funding reached about $6.2 billion across 243 rounds, which the report says points to fewer but larger deals",
+  "url": "https://www.thehindubusinessline.com/economy/india-draws-31-billion-in-climate-equity-funding-but-power-and-transport-dominate/article71745942.ece",
+  "ts": 1795686683,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "logistics"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.432
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "EUR/INR 101.464 — -4.29% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795769680,
+  "engagement": 429,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 10.29
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Delhi — PM2.5 daily mean up to 203 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795769680,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Lucknow — PM2.5 daily mean up to 158 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795769680,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 165 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795769680,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "USD/INR 92.45 — -2.91% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795769680,
+  "engagement": 291,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 8.91
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Patna — PM2.5 daily mean up to 154 µg/m³ (3 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795769680,
+  "engagement": 3,
+  "label": "3 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 8
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Kolkata — PM2.5 daily mean up to 131 µg/m³ (1 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795769680,
+  "engagement": 1,
+  "label": "1 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 6
+ }
+]
