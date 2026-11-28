@@ -1,0 +1,1587 @@
+[
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Claude Can Test Your Startup Idea With 100 AI Buyers For FREE!",
+  "text": "What if you could test your startup idea before spending a single rupee? Founder Skill is a collection of 11 free Claude skills designed to work like a complete startup team. It can: - Evaluate your startup idea using frameworks from Alex Hormozi, Peter Thiel, and Steve Jobs. - Research competitors and their customer complaints. - Simulate 100 AI buyers with different incomes, habits, and object",
+  "url": "https://www.youtube.com/watch?v=-2YAhpay17U",
+  "ts": 1795759060,
+  "engagement": 368,
+  "label": "7,829 views · 2 comments",
+  "pain": [
+   "complaints"
+  ],
+  "score": 8.23
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "I Quit Freelance Writing for YouTube (Honest Income & Stress Comparison)",
+  "text": "AI took over freelance writing—so is YouTube actually a better alternative right now? As a former freelance writer and current YouTuber, I break down the honest truth about switching from writing to content creation. A lot of writers have been asking me whether YouTube can replace writing income, so I compare both side-by-side in terms of money, predictable income, deadline anxiety, and real work",
+  "url": "https://www.youtube.com/watch?v=3bDnhP3sCVQ",
+  "ts": 1795770440,
+  "engagement": 242,
+  "label": "5,295 views · 67 comments",
+  "pain": [
+   "better alternative"
+  ],
+  "score": 8.045
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "No Proof for Courier Complaints?",
+  "text": "When courier-related complaints happen, do you as a seller actually have proof to defend yourself? That's exactly the problem Shiptape is built to solve. With Shiptape, you can scan your Order ID and record your product packing process. Once packing is complete, you can scan the tracking number to finalize the recording. All your recordings are automatically uploaded to the cloud, so you can ac",
+  "url": "https://www.youtube.com/watch?v=dOhUHK-1JhE",
+  "ts": 1795804232,
+  "engagement": 32,
+  "label": "1,898 views · 0 comments",
+  "pain": [
+   "complaints"
+  ],
+  "score": 6.971
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: I built an anonymous real time status generator for anything?",
+  "text": "Basically what the title says, you create a status, get a QR code, set a password and share it, print it etc. You can change it anytime, from the page, if you have the password. It's a firebase project vibe coded in 2h on a sunday. The annoyance i tried to solve was my gym sauna going in maintainance and i only find out once i'm there, very frustrating. Hope it's useful.",
+  "url": "https://news.ycombinator.com/item?id=50672243",
+  "ts": 1795817967,
+  "engagement": 8,
+  "label": "4 pts · 2 comments",
+  "pain": [
+   "frustrating"
+  ],
+  "score": 6.959
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Teach Your Kid Electronics",
+  "text": "My son has been begging me to teach him electronics for a while. I've bought a bunch of books and they all have flaws, either they are too simple and lack a bridge into more advanced components, or they are too complex and made for adults and he gets frustrated quickly. This is my attempt at building something that fixes those flaws and makes it easier to teach a child electronics step by step, with cheap components anyone can easily get on Amazon or elsewhere and with no soldering! Hope you like it.",
+  "url": "https://news.ycombinator.com/item?id=50666643",
+  "ts": 1795785715,
+  "engagement": 4,
+  "label": "2 pts · 1 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 6.047
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: GPT Plays Civilization",
+  "text": "Hey HN, I've always been a big fan of the Civ games, and was always frustrated at how terrible the AI was. So I got curious about whether LLMs could play Civ well, or not! I thought about having the agents interact with the GUI directly, but something about that seemed like the wrong approach. For one thing, it seemed to me like images would cost way more in tokens. For another, LLMs seem like a different kind of intelligence from humans, so why would an interface meant for humans be optimal for them? Anyway, I spend a few weeks modifying Unciv [0], an open-source reimplementation of Civ V to have the right endpoints and views for an agent to be able to play civ in the same way a person could. You can see the first game running at the link. So far, it looks like the GPT models are able to play a reasonable game - definitely better than the built-in AI, which was my barometer for success! You can find the harness here: https://github.com/varchasgopalaswamy/unciv-ai . Let me know what you folks think! [0]: https://github.com/yairm210/Unciv",
+  "url": "https://news.ycombinator.com/item?id=50668715",
+  "ts": 1795797139,
+  "engagement": 2,
+  "label": "2 pts · 0 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 5.621
+ },
+ {
+  "source": "hn",
+  "origin": "hn/ask_hn",
+  "title": "Ask HN: How to validate my idea/MVP?",
+  "text": "I'm currently building Apartment Archive, which is an online interior design business focused on making personalized interior design and space planning more accessible. I've spent quite a bit of time building out the website and figuring out the service itself. I'm at a point where I'd like to validate the idea, get a better sense of product-market fit and see whether there's enough demand before building much further. I've been reading about smoke testing (a facade MVP or even just a landing page with a call to action to gauge interest), but I'm more curious about how people have actually gone about doing this in practice. I'm wondering how to go about this when starting without an existing audience. Where did you find your first potential customers? Were there any communities, groups, or specific approaches that worked particularly well for you? I'm also trying to get some clarity around how people distinguished between someone thinking their idea was interesting and someone actually being willing to pay for it. I've conducted some user testing which was helpful in getting a better understanding of what people want and don't want, but I'd like to find a way to gauge whether people would actually pay for the service. Would appreciate hearing what worked, what didn't, and what you'd do differently if you were starting from scratch. Thank you in advance for your help! I appreciate you taking the time to read my post.",
+  "url": "https://news.ycombinator.com/item?id=50671969",
+  "ts": 1795815819,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "willing to pay"
+  ],
+  "score": 5.371
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Pasteup – Paste screenshots into file upload fields",
+  "text": "I'm currently a CS student, so that means a lot of file uploads to my university's janky website. I hated having to sort through the file picker just to attach an assignment open the next tab over. Pasteup is a Chrome extension that lets you press Cmd+V / Ctrl+V on the page instead, it finds the corresponding file box and attaches them automatically (if there are multiple it opens a picker). Moreover I added an automatic file converter, so for things like CSV, txt, and code, it automatically converts it to the right format. This means my workflow went from going to the assignment sorting through 15 finder folders and uploading to ctrl a ctrl c ctrl v. The file converter is pretty smart, and supports a lot of formats. If the field only takes PDF or JPG, it converts the file before uploading. It also turns copied spreadsheet cells into a CSV, JSON into a .json, and Figma's \"Copy as SVG\" into an image. If you're already in any text boxes or editors it does nothing. If the site handles paste itself (FilePond, chat apps), it goes first, and Pasteup does nothing. It runs entirely locally: no servers, no analytics, no network requests, no third-party libraries. I'd love to hear about sites where it picks the wrong field or gets in the way or just any feedback in general!",
+  "url": "https://news.ycombinator.com/item?id=50669511",
+  "ts": 1795801246,
+  "engagement": 1,
+  "label": "1 pts · 0 comments",
+  "pain": [
+   "i hate"
+  ],
+  "score": 5.236
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Health Rise Keto ACV Gummy Reviews and Complaints: What Matters Most - Comité Asesor de Vacunas de la AEP",
+  "text": "Health Rise Keto ACV Gummy Reviews and Complaints: What Matters Most Comité Asesor de Vacunas de la AEP",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1hyR3FCZDJsWGx5SUV3c2NKMzdLYjl2Si0tX2pIQTdOSWYyMFNPXzFHVTJucDgzeHlOS3ZYanJlWEJyemNoNkF5QmdFSmNOZlBhV2c2NG5KTjZMNXFubENQanBtZFJ5S3VEbUZEbFNleU1MRWs4Q2NHZHVrTlZ4ekxmN1B2Tk9RM3R6ZU5wUlZhSm5RbnhiSUJpTmZqU3V2SEFRU0RUZnV4WVFVZjN0TUs0TkQ2RUExZEV3b0tvZnVjNnpnZWl3alRBYjJXMmNubG1haHdCYW8yUlFCclRSU1VVT2NWcm9JRDFqN0MwM1FNdw?oc=5",
+  "ts": 1795830432,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.784
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Butter, ghee prices may surge as milk fat shortage squeezes supplies - Livemint",
+  "text": "Butter, ghee prices may surge as milk fat shortage squeezes supplies Livemint",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWdjNEVncUs1WWJ1b2h0cm42a25QRHU0VVNTQ3RaRnhMTG5sTHJ4a3kxT3cwMEJGYjBHNkhvOHVMa19hMGttaWlzRk9MSGU4Y1FMLXhvY0JEd2NFV2d2ZV9LWG5FcFJUTTZPVWlYazRCeW54ZVVzYktmNUp3cVpPaHRXYUVtYnFyaTFqVlZRWElGT0VYVFNFVU02Yy1qUHQyVGsxeTRHaGxOS1pOckdXQVhZQXc0Y01UX3FqMGRudV9BRnfSAcMBQVVfeXFMTnlnYzRFZ3FLNVlidW9odHJuNmtuUER1NFVTU0N0WkZ4TExubExyeGt5MU93MDBCRmIwRzZIbzh1TGtfYTBrbWlpc0ZPTEhlOGNRTC14b2NCRHdjRVdndmVfS1huRXBSVE02T1VpWGs0QnlueGVVc2JLZjVKd3FaT2h0V2FFbWJxcmkxalZWUVhJRk9FWFRTRVVNNmMtalB0MlRrMXk0R2hsTktaTnJHV0FYWUF3NGNNVF9xajBkbnVfQUZ3?oc=5",
+  "ts": 1795825822,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.741
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "GTA VI Release Sweeps PS5 Off Shelves Worldwide, Leaving Lisieux Stores Out of Stock: how 6 outlets framed it - NewsCord",
+  "text": "GTA VI Release Sweeps PS5 Off Shelves Worldwide, Leaving Lisieux Stores Out of Stock: how 6 outlets framed it NewsCord",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV1pMX0tKUkExbndSUzNaLXBjdE5TUWhUdjZZQ3diU0liQ1RxeHBWWm1TRUlxSVJuSklYVFY1T3U4ZUQtbUZWNHJMTTcyd0VsaHpQLWxjaVB5X2NMbHI5NVEtOGNJZzhLM3lYOU53blNQQnVNZ2ZuZmtxOUxPd190MFBLcU5IcGZTaUZIOUU3OWFZVjF5YzBZWUxYRnFMZERKUVFraU1tLVBxcnlEVGdYSzFyOVhfMDZwcU9nd2ZwZkhJUDZucVB4dHpnZzBId29BRmFyekh5d0Fwa2pRekI1c0ZFb1Y1UkRPSWc?oc=5",
+  "ts": 1795821740,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "out of stock"
+  ],
+  "score": 4.703
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Parking tickets paused at Lancing business park after £100 fines spark complaints - SussexWorld",
+  "text": "Parking tickets paused at Lancing business park after £100 fines spark complaints SussexWorld",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX29NanZacmJwdS1FTnZocXF3di0xRlowSU1hcjNGSjBodWxCTVlqM3BoVi1FTFJOZExXR05yWnlGNjBqaTZybHd6SldnMjRVdXlDeGNxcFdydm1NcXJJekVMUXRmWG1RX0hGUjZMTEVNdnVSSGpVbTJHaHh0Um4tblUxMTZNNXotaC14VTEyU1RONXFfczFRQzFjSHBrR3RFbkx4UjNxZ3d2OTBtcC1IazRyT2ZmMVNQT0VmUmhTRDZrcDEzaHdHRHE1MTBkRHFJZVFKZGROOA?oc=5",
+  "ts": 1795798560,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.489
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Europe Faces Hotel Room Shortage as Demand Outpaces New Construction - logos-pres.md",
+  "text": "Europe Faces Hotel Room Shortage as Demand Outpaces New Construction logos-pres.md",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0dXMUI4STZ6SExXbTlTbDNvMkhzQm12SlRIU182VDBYcHJjZW5sYUhjSW9WZjVqaGRZR0MwdE92bGN2Z1FqX1dtd3UtNUhpRUtnV2F1N1EzMFFGUVlLd1lXSHVBaHNPWmdITTYzR0ZQSW4yZjcyc3VjazE1c3Y4SmVsclBmbk5MU3ZtWnhmd2Z4eTkwMUdLWnl5OUFKZkRWdDhrYXJRY2RUNmV2NHBXQ0ljREo?oc=5",
+  "ts": 1795796122,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.466
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Consumer-Driven Banking: Canada Designates Technical Standards And External Complaints Bodies - Legal 500",
+  "text": "Consumer-Driven Banking: Canada Designates Technical Standards And External Complaints Bodies Legal 500",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZFNVWk9QM1h2dzBIRzcxWGJwVk5COFRyeDF2Y0c4R1l6SnRaMW9EUzhEcG9TS19qS3BUX3ZzZFhsMkl4TEtrenRyUTlIOEFSa3Z4TE1aX08xS29TM1V0azFNY1diRmlfVEFiV196Yy1MRGpCeGxZb2dvcFlhYXBDd01INUJsYXVTaFJWUGN5MGs5NWN1RG1pUy1XQ3hnRWpMMWFZM2hIdUxrTzBNb3VjTXplUEVVLUd1NGJpdnhURWRFWXVzUTJQMnpSWkpzdU5fV2ctZTBtNWJseTJMZTlURGs3OWdVS3FfZHBhZEJR?oc=5",
+  "ts": 1795794195,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.448
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Is California at risk of a gasoline shortage amid the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos",
+  "text": "Is California at risk of a gasoline shortage amid the Iran war? Experts explain ABC News - Breaking News, Latest News and Videos",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmt4UnZTS2FnLXFYUmpSMllrOEZQbWxJSTVIbzU4QVNKbWtIRVFYOTFVb3NHdU50a0pWU2QyUnQxNWtsS3pBY09nckxwa1FwTDhZMzFxWl9VUmlMaEh4NUlSTTYzZXEwYmFUSkFrOEJMbEVMaXhmVGJVTy1UeTlyaERxRTNEbHNTSFgzUzZEOEFvVWg4Z1RneGhBRnJodG9ONnRkQ3Jn0gGrAUFVX3lxTE9DazE5N3puTzVrU2hCUUJmYU9FY1RiNTA1Y2hiZG84QVU5TjZzTG9aaFhsY3lLVFZwNE9RX0IwTy1VRm9lbV95Y2NWX1U0RjlOaVl2ZXBveUNxNk95dFZnYzQyNF82MFhqSmItcXJQa09QODVWRWcwMVZ3cW45bWVYd1FqZlUwcDNzU0hwUkRCX0lNeEUtWW9VWHVtUkxvaHFTRmY3TUlaRjJjSQ?oc=5",
+  "ts": 1795786987,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "shortage"
+  ],
+  "score": 4.382
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Most problems are smaller than they look in the first hour. #Shorts",
+  "text": "I learned that from a man who built the procedures to service deep-sea oil rigs and grew his company into a Fortune 500 business. Then a skiing accident left him paralyzed. He never quit. It's fine to be frustrated. Don't live there. When the call comes that a job went sideways, take a minute, sort the feelings from the facts, and fix what's in front of you. Your crew takes its cue from your firs",
+  "url": "https://www.youtube.com/watch?v=SI0DZvRCcPM",
+  "ts": 1795784483,
+  "engagement": 0,
+  "label": "13 views · 0 comments",
+  "pain": [
+   "frustrated"
+  ],
+  "score": 4.358
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Telecom Complaints India: Network, Billing and Broadband - Gizmo Times",
+  "text": "Telecom Complaints India: Network, Billing and Broadband Gizmo Times",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXlDOEVld2t1TUYtOUxBZDFiZ1RKdEdnOHpQS2Z2M0t0MzROQTRxaVRnZ00xNlpESkhfSkJkREpYNXBKSjNHUmJTX04xYURNVzlXVmxQVzlpRzdOa25oZmtiOUxYYU9ZZUtkTERBeWRidUVmVmRQRTBsNkNsNVgwZWdCNlhlcGNHek1ETUZvR3BybFFLMy1heHhxNXZ0OFBVSnc?oc=5",
+  "ts": 1795768423,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.21
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "Mykolaiv food safety complaints rarely trigger inspections - finway.com.ua",
+  "text": "Mykolaiv food safety complaints rarely trigger inspections finway.com.ua",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSXdfWTFNakxnZzh1NUdIVTkwRlkxUHRjT3Uwekg0R3pHTUpEQkdTN0c2dExOY0YwcDJscXJKcXlvYndRSzBvSkkzVG1zTnNaZGYtNkViV0c2NWI4bWl0aXIyd1ZseTE2TTFtTEJ3ckg?oc=5",
+  "ts": 1795768308,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.209
+ },
+ {
+  "source": "google_news",
+  "origin": "news/US",
+  "title": "Why ASIC’s Complaints Case Against AIG Australia Matters for General Insurers - Kalkine",
+  "text": "Why ASIC’s Complaints Case Against AIG Australia Matters for General Insurers Kalkine",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDhYcGFZU0RFMkJ0SU9IT3lIUGhmY2M4cFJDSHBQTmN0MHBSdGRnTk9XSV9XYmxPSEQ5aHcxN0VXNWJWZENNeVhCd1B5N1VPUlVDLTk4UFBsZXVtZWd0Tk84Yl9LMXZCRVhsaXpuS0diV1ViSDd2UUpNbHFnYmdqT3NqeHZNbGdiSTBiLV9NY0ZIa0hMT19wM1VVYWZkeUU4NUpVT3VSTEhVTzJYOFlmVUhTZkFWRmE1MnphcHVmaUVqQQ?oc=5",
+  "ts": 1795768326,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.209
+ },
+ {
+  "source": "google_news",
+  "origin": "news/IN",
+  "title": "How Can Academy Trusts Proactively Prepare For And Respond To The Use Of AI In Parental Complaints - Legal 500",
+  "text": "How Can Academy Trusts Proactively Prepare For And Respond To The Use Of AI In Parental Complaints Legal 500",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ2Q4bDdZWEltV0twQy1CWGFvM0RkeWJsSnFqaUdHRzE3T2p3MjRpTzZRVUNvQWlwdHlFdGNQU3dUd0lwV2VqR1ozRUF3dWhUSl9sbnlMM1BMdmVmQ3R0d1BCZ0c2el9DUkg5ZEpLczF2Qy1PYUVpQkVQYl9ZVnd0ckk2MU1lUjlNUG4xcWJ2akVWeDVfNnhpVHRuVzJJcHJmM2NzTGxmUVVaM2htUHEzb3RzZklPcjdISEU5azFwUjkzOXFKMnU5Y0RJeGpHX3BVa2pmb1U2bUJlLVRJY0h0TXZCVUpGdUNnWTFiUG9HSmVhTHhKYXlsNDNCZmtoblZj?oc=5",
+  "ts": 1795767726,
+  "engagement": 0,
+  "label": "",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.203
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "#What If AI Could Find Your Business's Hidden Problems? 🤖",
+  "text": "What If AI Could Find Your Business's Hidden Problems? 🤖 Small business problems aren't always obvious. AI can help analyze repeated tasks, delays, customer complaints, and operational inefficiencies. But business owners still need to verify the insights and choose the right solutions. What task wastes the most time in a business? Share your answer below! Follow for more AI and small-business ins",
+  "url": "https://www.youtube.com/watch?v=csmMrNImwHk",
+  "ts": 1795749485,
+  "engagement": 0,
+  "label": "9 views · 0 comments",
+  "pain": [
+   "complaints"
+  ],
+  "score": 4.034
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Michael Nielsen took down his book on neural nets",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50670757",
+  "ts": 1795807861,
+  "engagement": 1124,
+  "label": "502 pts · 311 comments",
+  "pain": [],
+  "score": 7.898
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50668145",
+  "ts": 1795794031,
+  "engagement": 1033,
+  "label": "507 pts · 263 comments",
+  "pain": [],
+  "score": 7.682
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Claude sabotaging ML research tasks?",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50664325",
+  "ts": 1795768088,
+  "engagement": 1297,
+  "label": "683 pts · 307 comments",
+  "pain": [],
+  "score": 7.679
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50670855",
+  "ts": 1795808545,
+  "engagement": 801,
+  "label": "369 pts · 216 comments",
+  "pain": [],
+  "score": 7.551
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50672565",
+  "ts": 1795820789,
+  "engagement": 608,
+  "label": "340 pts · 134 comments",
+  "pain": [],
+  "score": 7.378
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Atari Homebrew Awards Cancelled",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50673688",
+  "ts": 1795831405,
+  "engagement": 544,
+  "label": "184 pts · 180 comments",
+  "pain": [],
+  "score": 7.36
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+  "text": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky. Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
+  "url": "https://news.ycombinator.com/item?id=50667726",
+  "ts": 1795791710,
+  "engagement": 615,
+  "label": "367 pts · 124 comments",
+  "pain": [],
+  "score": 7.12
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Convex skills send the user's app idea to a remote server without telling them",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50669765",
+  "ts": 1795802565,
+  "engagement": 477,
+  "label": "291 pts · 93 comments",
+  "pain": [],
+  "score": 6.957
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50674218",
+  "ts": 1795835960,
+  "engagement": 298,
+  "label": "212 pts · 43 comments",
+  "pain": [],
+  "score": 6.777
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "False computer-checked proofs",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50667989",
+  "ts": 1795793169,
+  "engagement": 394,
+  "label": "222 pts · 86 comments",
+  "pain": [],
+  "score": 6.671
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "The 5 AI Agents Every Small Business Needs Right Now",
+  "text": "Discover how AI agents for business can transform your operations and save you money. This video breaks down the implementation of five essential AI agents designed specifically for small businesses. Learn how a lead responder can swiftly handle inquiries in about a minute, while a cash collector drafts polite reminders to improve cash flow. We also cover the inbox management AI that sorts emails",
+  "url": "https://www.youtube.com/watch?v=hYxG6Io4hfg",
+  "ts": 1795748660,
+  "engagement": 11060,
+  "label": "27,585 views · 1 comments",
+  "pain": [],
+  "score": 6.497
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Нейронки забрали малые и средние заказы у 3Dшников 😡 Разрабы вымирают!",
+  "text": "Начни учиться на курсе «3D-Художник» от Home Digital School! По моей ссылке скидка 60% и графический планшет в подарок • Ссылка либо по прикреплённому похожему видео на экране с символом \"►\" или скопируй ⚡️- https://telegram.me/HDScg_bot/?start=start_3d_pro_35860 Успевай до 30 ноября! Нейронки забрали малые и средние заказы у 3Dшников! Короче, послушай классную бизнес-модель. Берём запускаем не",
+  "url": "https://www.youtube.com/watch?v=5GwL5ZOe1cQ",
+  "ts": 1795759229,
+  "engagement": 8354,
+  "label": "173,722 views · 713 comments",
+  "pain": [],
+  "score": 6.4
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50672521",
+  "ts": 1795820430,
+  "engagement": 175,
+  "label": "103 pts · 36 comments",
+  "pain": [],
+  "score": 6.081
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: DragDropMath – Learn math by feel",
+  "text": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created DragDropMath, where you can learn how to simplify mathematical expressions and how to solve equations by dragging symbols around, and only correct moves are allowed, so you get to feel what's right without experiencing (and so learning) wrong moves. I always wanted to make this, but life got in the way. Then a few weeks ago I saw declarative dragging ( https://declarative-dragging.github.io/ ) on the front page of HN and the spark came back! It took quite a few rounds to get the feel right, but I think it's close to what happens in my mind when I mentally manipulate these expressions. A few more points: - There are no ads, no trackers, no accounts (it's a static website and progress is saved in the browser cache). - Teachers can create their own problem sets, encoded in the link. - I plan to add more chapters (trigonometry, complex numbers, some calculus) but I first need to figure out the 'right' mode of interaction. - I just started working on the experience from mobile, so there may still be some rough edges there I'm curious to know what you think, if you have suggestions for content, if you spot anything that I should fix, if you have feature requests! Thank you in advance",
+  "url": "https://news.ycombinator.com/item?id=50669673",
+  "ts": 1795802188,
+  "engagement": 203,
+  "label": "129 pts · 37 comments",
+  "pain": [],
+  "score": 6.066
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "9/UX: a Macintosh-inspired desktop for 9front",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50672008",
+  "ts": 1795816094,
+  "engagement": 176,
+  "label": "118 pts · 29 comments",
+  "pain": [],
+  "score": 6.046
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Citroën Hydraulic System",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50662313",
+  "ts": 1795749019,
+  "engagement": 298,
+  "label": "184 pts · 57 comments",
+  "pain": [],
+  "score": 5.972
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Honest Burgers Delivery in London #delivery #ubereats #london #burger #kindness #sidehustle #pov",
+  "text": "Join this channel to get access to perks: https://www.youtube.com/channel/UCUyjU893D8TMVQau-XlWbVg/join",
+  "url": "https://www.youtube.com/watch?v=SLWAQNq_AjQ",
+  "ts": 1795781229,
+  "engagement": 3014,
+  "label": "31,125 views · 18 comments",
+  "pain": [],
+  "score": 5.895
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "China Processing & Packaging interpack Expo 🇨🇳 भारत के काम की छोटी मशीने चाइना से जो बहुत काम की है",
+  "text": "Discover the latest Food Processing & Packaging Machines from China 🇨🇳! In this video, I explore amazing Chinese machines, innovative food processing technology, modern packaging solutions, and new business opportunities for 2027. China is one of the world's leading manufacturing hubs, offering advanced machinery for food processing, packaging, automation, and industrial production. ------------",
+  "url": "https://www.youtube.com/watch?v=b1nBT5y9sbo",
+  "ts": 1795780946,
+  "engagement": 2495,
+  "label": "146,319 views · 49 comments",
+  "pain": [],
+  "score": 5.761
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Rayshader 1.0: Exit the Matrix",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50667371",
+  "ts": 1795789820,
+  "engagement": 150,
+  "label": "122 pts · 14 comments",
+  "pain": [],
+  "score": 5.637
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+  "text": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app.",
+  "url": "https://news.ycombinator.com/item?id=50667452",
+  "ts": 1795790222,
+  "engagement": 132,
+  "label": "78 pts · 27 comments",
+  "pain": [],
+  "score": 5.509
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50671275",
+  "ts": 1795810994,
+  "engagement": 105,
+  "label": "61 pts · 22 comments",
+  "pain": [],
+  "score": 5.465
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Freelancing is officially safer than 9-5",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=o6wGtQD-mY8",
+  "ts": 1795761124,
+  "engagement": 2061,
+  "label": "50,807 views · 14 comments",
+  "pain": [],
+  "score": 5.445
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "The AT&T Unix PC (3B1) VM",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50670841",
+  "ts": 1795808433,
+  "engagement": 105,
+  "label": "79 pts · 13 comments",
+  "pain": [],
+  "score": 5.441
+ },
+ {
+  "source": "hn",
+  "origin": "hn/front_page",
+  "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50671651",
+  "ts": 1795813654,
+  "engagement": 94,
+  "label": "48 pts · 23 comments",
+  "pain": [],
+  "score": 5.375
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Small Business Marketing: Edit a 15-Second Product Ad with an AI Video Editor | Dreamina + CapCut PC",
+  "text": "🚀 *Get up to 90% off CapCut Pro:* https://www.capcut.com/tv2/ZSsMLqxBx/ Subscribe via this link, and you’ll get an extra 7 days of CapCut Pro on top of the deal, provided you do not request a refund within 30 days. 🎬 *Try Dreamina Marketing Studio:* https://dreamina.capcut.com/ai-tool/marketing-studio/?utm_medium=social&utm_source=youtube&utm_campaign=ccblackfriday Seedance 2.5 4K is now live o",
+  "url": "https://www.youtube.com/watch?v=_SDKC1JLpjI",
+  "ts": 1795811691,
+  "engagement": 868,
+  "label": "1,070 views · 58 comments",
+  "pain": [],
+  "score": 5.313
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Idée business : nettoyage de climatiseurs",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=lOiepWR6V_4",
+  "ts": 1795809610,
+  "engagement": 878,
+  "label": "26,919 views · 9 comments",
+  "pain": [],
+  "score": 5.302
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Business Idea 😂 Aisa Business Kabhi Dekha Hai Kya? 🤣 | Wait For End #shorts",
+  "text": "😂 Business Idea To Zabardast Hai! 🤣 Lekin Aisa Business Dekhkar Aapki Hansi Nahi Rukegi. Video Ko Last Tak Dekhna, Kyunki End Mein Hai Ek Zabardast Comedy Twist! Enjoy this funny nonstop comedy video with hilarious moments, desi comedy, funny business ideas and unexpected comedy scenes. Agar Video Pasand Aaye To Like 👍 Share ❤️ Aur Channel Ko Subscribe Zaroor Karein! Thanks For Watching ❤️ #",
+  "url": "https://www.youtube.com/watch?v=n60fstPLE_M",
+  "ts": 1795779199,
+  "engagement": 1113,
+  "label": "55,625 views · 1 comments",
+  "pain": [],
+  "score": 5.185
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Bro’s side hustle is crazy 💀😭❤️",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=oAWQZcp0RKc",
+  "ts": 1795767983,
+  "engagement": 1288,
+  "label": "36,860 views · 15 comments",
+  "pain": [],
+  "score": 5.182
+ },
+ {
+  "source": "hn",
+  "origin": "hn/show_hn",
+  "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+  "text": "",
+  "url": "https://news.ycombinator.com/item?id=50670443",
+  "ts": 1795805995,
+  "engagement": 80,
+  "label": "54 pts · 13 comments",
+  "pain": [],
+  "score": 5.138
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "The ₹7.5 Lakh Crore Indian Wedding Economy Explained! Sanjay Kathuria",
+  "text": "Big Fat Indian Wedding: ₹7.5 Lakh Crore का Business! Sanjay Kathuria The Big Fat Indian Wedding Economy: How could India generate ₹7.5 lakh crore in wedding-related business in just 25 days? In this video, Sanjay Kathuria breaks down economics of Indian weddings, wedding loan and EMI trap, and six potential business opportunities in this growing industry. What you'll learn in this video: ✅ Mid",
+  "url": "https://www.youtube.com/watch?v=kIv_EVicZnE",
+  "ts": 1795785479,
+  "engagement": 858,
+  "label": "41,054 views · 55 comments",
+  "pain": [],
+  "score": 5.062
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Side Business 😁😁😜🤣#shopcomedy #fun #relatable #viral #trending",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=HM0TC_uDTqg",
+  "ts": 1795787865,
+  "engagement": 714,
+  "label": "9,772 views · 4 comments",
+  "pain": [],
+  "score": 4.957
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "₹40 ka kit, ₹300 mein bikta hai 🎨 | Return Gift Business Idea #shorts #growithanimesh #diykits",
+  "text": "Plaster of Paris ke chhote figures, thode se paint aur ek brush. Bas itna sa kit, aur bachche phone chhod ke painting mein lag jaate hain. 🎨 Bahar ke countries mein Paint-Your-Own kits bahut chal rahe hain, aur India mein parents birthday return gifts ke liye plastic ke alawa kuch naya dhoondh rahe hain. Kaise shuru karein: 1. Silicone moulds lo (fruits, dinosaur, unicorn, cars) 2. POP figures c",
+  "url": "https://www.youtube.com/watch?v=w3BROxEr9Qo",
+  "ts": 1795752020,
+  "engagement": 1135,
+  "label": "24,172 views · 153 comments",
+  "pain": [],
+  "score": 4.947
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "deadly combo: roblox + yt shorts🤯 #sidehustle #student #money #openartaipartner #toronto",
+  "text": "deadly combo: roblox + yt shorts🤯 #sidehustle #student #money #openartaipartner #toronto",
+  "url": "https://www.youtube.com/watch?v=31hzxxKAEaU",
+  "ts": 1795789123,
+  "engagement": 607,
+  "label": "25,225 views · 13 comments",
+  "pain": [],
+  "score": 4.856
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "ธุรกิจรวยเงียบ! ต่างจังหวัด ยอดขายพุ่ง คนเมืองกรุงยังต้องอิจฉา [ThaiFranchise Today] EP216",
+  "text": "รู้ไหมครับว่า ในอีกด้านหนึ่ง มีธุรกิจจำนวนไม่น้อยที่ประสบความสำเร็จอย่างมากในต่างจังหวัด บางแบรนด์มีรายได้ระดับพันล้านบาท มีสาขากระจายอยู่ทั่วภูมิภาค แต่กลับไม่ได้มีเป้าหมายที่จะเข้ามาแข่งขันในกรุงเทพฯ เลย 0:00 intro 2:12 5 ข้อได้เปรียบของการทำธุรกิจในต่างจังหวัด 5:27 โอกาสสำเร็จของธุรกิจต่างจังหวัด ไม่ต่างจาก กทม 7:15 โตต่างจังหวัด แบบไม่ต้องงัดข้อเมืองกรุงฯ 12:06 10 กลุ่มธุรกิจที่มีโอกาสเติบโตใ",
+  "url": "https://www.youtube.com/watch?v=wgvATE8YRNc",
+  "ts": 1795842012,
+  "engagement": 298,
+  "label": "7,507 views · 15 comments",
+  "pain": [],
+  "score": 4.852
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "【AI関連】儲けられる企業はどこ？《中島聡》",
+  "text": "いつも楽待チャンネルをご視聴いただき、ありがとうございます！ 楽待では、一緒に働く仲間を募集しています！ ・楽待チャンネルの「映像ディレクター」 https://recruit.rakumachi.co.jp/videocreator/?uiaid=youtube ・楽待チャンネルの「メディア営業」 https://recruit.rakumachi.co.jp/mediasales/?uiaid=youtube ・新卒採用／インターン https://firstlogic.snar.jp/index.aspx/?uiaid=youtube ・中途採用（営業、マーケティング、エンジニアなど） https://recruit.rakumachi.co.jp/job_list/?uiaid=youtube 楽待株式会社（証券コード：6037）のIRはこちら https://rakum",
+  "url": "https://www.youtube.com/watch?v=nQ8mxhvmTxk",
+  "ts": 1795777211,
+  "engagement": 654,
+  "label": "36,935 views · 14 comments",
+  "pain": [],
+  "score": 4.797
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Idée business si tu aimes la pâtisserie",
+  "text": "",
+  "url": "https://www.youtube.com/watch?v=pwgqAf0H_eU",
+  "ts": 1795795224,
+  "engagement": 491,
+  "label": "9,915 views · 2 comments",
+  "pain": [],
+  "score": 4.765
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "AI Ad Maker + AI Video Editor: I Made a Black Friday Ad With CapCut PC",
+  "text": "👉 Get CapCut PC: https://www.capcut.com/tv2/ZSsj4PGuY/ Get up to 90% off CapCut Pro. Subscribe via this link, and you’ll get an extra 7 days of CapCut Pro on top of the deal. Seedance 2.5 now supports up to 4K AI video generation! You can also explore Draft Mode to preview ideas before generating higher-quality results. Features and availability may vary. Get 90% off your first month of CapCu",
+  "url": "https://www.youtube.com/watch?v=g4fDW9-GSAI",
+  "ts": 1795775420,
+  "engagement": 545,
+  "label": "3,589 views · 35 comments",
+  "pain": [],
+  "score": 4.654
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Kèo Kiếm Tiền Tiêu Tết",
+  "text": "Kèo Kiếm Tiền Tiêu Tết...#insightsaigon #xh #tiktokviral #thinhhanh #shorts",
+  "url": "https://www.youtube.com/watch?v=zKmZOffcCV4",
+  "ts": 1795836622,
+  "engagement": 235,
+  "label": "11,238 views · 0 comments",
+  "pain": [],
+  "score": 4.638
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "Watch the full video on my channel #ai #makemoneyonline #aisidehustle #gta6",
+  "text": "#sidehustle #sidehustles #homebusiness #makemoneywithai #passiveincome #aipassiveincome #passiveincomestream #gta6clipping How to make money online, how to make money with ai, ai earning, passive income ideas, passive income ideas for students, make money with claude, gta 6, gta6, gta 6 clipping, make money with clipping, make money with gta 6",
+  "url": "https://www.youtube.com/watch?v=uFTpo0F86IY",
+  "ts": 1795794671,
+  "engagement": 403,
+  "label": "5,971 views · 53 comments",
+  "pain": [],
+  "score": 4.623
+ },
+ {
+  "source": "youtube_video",
+  "origin": "youtube/video",
+  "title": "What If a Farming Couple Started a JCB Business?🤑 #punjab #farming #business",
+  "text": "* Agar Thar Scorpio Ki Jagah JCB Le Lein To? 😱 * Agar JCB Chalakar ₹2000 Ghante Ki Kamai Ho To? * Agar Gharwali JCB Operator Ban Jaye To? * Agar Kisan Kheti Ke Saath JCB Business Kare To? * Agar Luxury Car Ki Jagah JCB Mein Investment Karein To? * Agar Pati Patni Milkar JCB Business Chalayein To? * Agar JCB Machine Gaon Mein Kamai Ka Zariya Ban Jaye To? * Agar Kheti Ke Saath JCB Rental Business Sh",
+  "url": "https://www.youtube.com/watch?v=jf8kZkg8tmA",
+  "ts": 1795780829,
+  "engagement": 483,
+  "label": "17,352 views · 4 comments",
+  "pain": [],
+  "score": 4.62
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "RBI unveils guide to freeze mule accounts",
+  "text": "Under the draft, which would be implemented on or before April 2027, banks will be required to place debit holds on transactions of Rs 1,000 or more flagged as potentially linked to cyber-enabled financial fraud. Where an entire account is suspected of being used for money-mule activity, banks may restrict debits at the account level.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-unveils-guide-to-freeze-mule-accounts/articleshow/136232373.cms",
+  "ts": 1795806360,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates",
+   "it & ai"
+  ],
+  "direction": "headwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.161
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Last round of US reciprocal tariffs hit sensitive export sectors; fresh ones raise concern",
+  "text": "Gems & jewellery, textiles, mineral fuels, fish, hit last fiscal while electrical machinery & equipment shipments declined, surgical apparatus, iron & steel, aluminium products increased",
+  "url": "https://www.thehindubusinessline.com/economy/last-round-of-us-reciprocal-tariffs-hit-sensitive-export-sectors-fresh-ones-raise-concern/article71751781.ece",
+  "ts": 1795794131,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "textiles & apparel",
+   "real estate & construction",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 7.048
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "RBI pushes banks to accelerate MSME loans, promote cash-flow-based lending",
+  "text": "The review examined working capital requirements, credit guarantee coverage and lending patterns for first-time borrowers across the micro and small business sector",
+  "url": "https://www.thehindubusinessline.com/companies/msme/rbi-pushes-banks-to-accelerate-msme-loans-promote-cash-flow-based-lending/article71751394.ece",
+  "ts": 1795789934,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "fintech & lending",
+   "banking & rates",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 7.009
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Union Minister of Steel and Heavy Industries launches the third round of PLI scheme for Specialty Steel (PLI scheme 1.2) - pib.gov.in",
+  "text": "Union Minister of Steel and Heavy Industries launches the third round of PLI scheme for Specialty Steel (PLI scheme 1.2) pib.gov.in",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zdmJtY05xdHhLOFp1d0t4QndxYW11NENFazI2VEpWbmtodXdaZElabVF0aVotN3JYZ2dmQTBXTzZ1X1dBc2RHTVpxYlNONHd2aWNVZFdBNkxkVGxvZWZobzJCeDRtaWlzTGJxNVdab0ZwT1U4bmw5VXhIZUVHdw?oc=5",
+  "ts": 1795798800,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing",
+   "real estate & construction"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 6.491
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "PLI scheme to help telecom firms stay competitive amid US tariffs: Scindia - Business Standard",
+  "text": "PLI scheme to help telecom firms stay competitive amid US tariffs: Scindia Business Standard",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb0pGeGVQZUliRnF5bWR2RVEyY2FiVWthY050MHlaamNGVFNab2J6ZmpnRmNQWnhLdnhDa1VzT05kRmUyNlVLZ3BqVWtrRng2T050NWluWGNBcVNOOVFGUmIyOS1hMkJSVGVGNHNZU3hHc2pSWHRWTGhkOHlHRzV5RDhiaXlQaHBBenNYalBZY2lBTU52SjdJZjBHMVo0QW9pMW9NNFZIdjlLYWd2d1BDMnJoLXh4QlhHWVl0T3hHdG5jTGRoQWpEcjFsWHV2N3NTVVplX192dkvSAd4BQVVfeXFMTzJidW1yeW9YUWxpdmx1eDdqQkpNUHZOM3dyLUhXNHdIblAwMG5xMUM1dEFLQkNLNTJpckYxbWx0ZS1Ed1JoQW0tRlh0Snd6NzdRazlKRThBcmFkWUpjMXFGZUlZZmQybE1KSHh4QlJidVBYeGFrN0dRVE50WVVleXA5cHptRkh6SmVBN3JMMUNlZ2FqMEdiaXNDM2cxbGlyNVd1WlE5a1BRQTV6cldxMlZaZU5meXRkYm1hNHlROElVVklIc0E3NkxZMjJSc1F4TTBQc21JbV9DUkZ0WjVB?oc=5",
+  "ts": 1795793331,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing",
+   "telecom & internet"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 6.44
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI press releases",
+  "title": "RBI Issues Amendment Directions on ‘Suspected Money Mule Accounts to Prevent Cyber-enabled Financial Frauds’",
+  "text": "The Reserve Bank had issued the draft Reserve Bank of India (Know Your Customer) Amendment Directions, 2026 on September 11, 2026, for seeking feedback from stakeholders. The draft Amendment Directions proposed a Standard Operating Procedure (SOP) laying down a uniform, time-bound procedure for banks to suo moto place temporary debit holds on amounts or accounts suspected to be linked to money mule activity and cyber-enabled financial frauds, and to remove such holds in coordination with Law Enforcement Agencies (LEAs), while protecting genuine customers from inconvenience. 2. Feedback received on the above draft Directions has been examined and the consequent modifications have been suitably incorporated in the final Amendment Directions. A statement on the feedback received is provided in the Annex . Accordingly, the Reserve Bank has today issued the following Amendment Directions, which shall come into effect from July 1, 2027, or from such earlier date as a bank may decide to implement the SOP. Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026 Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026 Reserve Bank of India (Payments Banks - Know Your Customer) Amendment Directions, 2026 Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026 Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026 Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026 (Brij Raj) Chief General Manager Press Release: 2026-2027/1584",
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates",
+   "it & ai"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.4
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI press releases",
+  "title": "Thirty First Meeting of the Standing Advisory Committee (SAC) to Review the Flow of Credit to the MSME Sector in Kolkata on November 27, 2026",
+  "text": "The 31st meeting of the Standing Advisory Committee (SAC) to review the flow of credit to micro, small and medium enterprises (MSMEs) was held in Kolkata on November 27, 2026. Shri Swaminathan J, Deputy Governor, Reserve Bank of India (RBI), chaired the meeting. Participants included the Additional Secretary and Development Commissioner, Ministry of MSME, and the Joint Secretary, Department of Financial Services, Ministry of Finance. Managing directors and executive directors of select banks, heads of SIDBI, NABARD, CGTMSE, NCGTC and KVIC, the Chief Executive Officer of the Indian Banks’ Association, and representatives of national, regional and state-level MSME associations also attended. Recognising MSMEs’ contribution to India’s economy and development goals, the Deputy Governor urged banks to expedite credit sanctions and reduce reliance on collateral through cash-flow-based lending using ULI and other digital channels. He called for greater use of TReDS for receivables financing and early identification and resolution of stress. He invited industry associations to actively participate in outreach events such as RBI’s town halls and district-level MSME SAMVAAD meetings to improve awareness and raise their members’ concerns with banks. The Committee reviewed working capital and investment credit to MSMEs, lending to first-time borrowers and credit guarantee coverage. It also discussed the higher limit for collateral-free lending to micro and small enterprises, settlement of CPSE invoices through TReDS and key provisions of the MSMED (Amendment) Act, 2026. (Brij Raj) Chief General Manager Press Release: 2026-2027/1581",
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64059",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.4
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+  "text": "",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "fintech & lending",
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.4
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026",
+  "text": "",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13760&Mode=0",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "fintech & lending",
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.4
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "The new agronomist at the counter: How AI is reshaping what rural India buys",
+  "text": "It changes is the quality of purchases after conversation, and with it, the productivity and income of the farmer at the other end of it",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/the-new-agronomist-at-the-counter-how-ai-is-reshaping-what-rural-india-buys/article71751962.ece",
+  "ts": 1795842243,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "it & ai"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.293
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "The evolving dairy-agriculture ecosystem: Strengthening rural livelihoods and India’s food economy",
+  "text": "When our farmers prosper, the foundations of India’s food economy become stronger, more inclusive and resilient",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/the-evolving-dairy-agriculture-ecosystem-strengthening-rural-livelihoods-and-indias-food-economy/article71751924.ece",
+  "ts": 1795840384,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 5.276
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Ethanol policy reset: What does the shift in feedstock priorities mean for sugar mills and farmers?",
+  "text": "Protecting sugar stocks is the right priority. Rules that move with the sugar cycle would protect ethanol investments too",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/ethanol-policy-reset-what-does-the-shift-in-feedstock-priorities-mean-for-sugar-mills-and-farmers/article71751156.ece",
+  "ts": 1795837178,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 5.246
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "NITI Aayog to review 49 national missions, assess scope for restructuring, merger or closure",
+  "text": "NITI Aayog will assess 49 national missions spanning energy, health, agriculture, technology and other sectors to evaluate their effectiveness and relevance. The exercise will identify overlaps, spending inefficiencies and implementation bottlenecks, with recommendations on continuation, restructuring, consolidation or merger to be submitted to ministries by the end of FY27.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-to-review-49-national-missions-assess-scope-for-restructuring-merger-or-closure/articleshow/136232546.cms",
+  "ts": 1795807605,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture",
+   "healthcare & pharma"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.973
+ },
+ {
+  "source": "policy_rss",
+  "origin": "ET Economy-Policy",
+  "title": "ET India Ascends: Tiny shops, big dreams — unlocking the true potential of India's MSMEs",
+  "text": "India's unincorporated MSME sector is witnessing faster productivity growth and narrowing regional disparities, with manufacturing recording the biggest gains, according to four rounds of ASUSE data. However, technology constraints, credit shortages, inadequate industrial workspaces and skill gaps continue to limit growth, calling for targeted policy interventions to help smaller businesses scale up.",
+  "url": "https://economictimes.indiatimes.com/news/economy/policy/et-india-ascends-tiny-shops-big-dreams-unlocking-the-true-potential-of-indias-msmes/articleshow/136232258.cms",
+  "ts": 1795806571,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.963
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India Sets 35–50% Local Content Rule for ₹11,000-Crore Construction Equipment Scheme - Industry Odisha",
+  "text": "India Sets 35–50% Local Content Rule for ₹11,000-Crore Construction Equipment Scheme Industry Odisha",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzlvTUNhUjk0UURCZW9tbk12Z3FVdThNNGY2UzFud2h3VVV0U1N3NXY4VU1MeEQ1MnpMTUZsaExOZDV2ZXV5cExlY21uMmc0Nk85QnVRek5Rbzl3aGxPRjlKSnJ5ZGhpcktuSTZyTWFsTE5TZFlEdlR2Zjdzamc0RUFZbzdCbkI1RFRNTnprcE5EeU5FOE1HMlFtYUNialo0QjlXX2FCcE9QRWpKZEFmZHQyRTltT0ZqeC1j?oc=5",
+  "ts": 1795842005,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.891
+ },
+ {
+  "source": "policy_rss",
+  "origin": "Mint Economy",
+  "title": "China Railway Resources Group bets on Zimbabwe's gold potential with AI mining and $600 million investment plan",
+  "text": "Zimbabwe-based Duration Gold and China Railway Resources Group signed an agreement to explore a potential $600 million investment in reviving and expanding four gold mines. The proposed partnership would bring financing, engineering expertise and AI-powered mining technology to Vubachikwe, Gaika.",
+  "url": "https://www.livemint.com/economy/china-railway-resources-group-bets-on-zimbabwes-gold-potential-with-ai-mining-and-600-million-investment-plan-11795782454394.html",
+  "ts": 1795787166,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "travel & hospitality"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.783
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "CREDAI seeks lower capital gain tax, incentives for affordable housing",
+  "text": "As on date for land or building acquired before June 23, 2024, the taxpayers (resident individual and HUF) have to pay 20 per cent with indexation or 12.5 per cent without indexation as long term capital gain tax",
+  "url": "https://www.thehindubusinessline.com/economy/credai-seeks-lower-capital-gain-tax-incentives-for-affordable-housing/article71750846.ece",
+  "ts": 1795785838,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction"
+  ],
+  "direction": "tailwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.771
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "CII to establish artisan development centre in Varanasi, to support 75,000 artisans over 5 years",
+  "text": "The bienalle will launch initiatives like CII Artisan Development and Design Centre and the Varanasi Healthy Weavers Initiative, the industry body says",
+  "url": "https://www.thehindubusinessline.com/economy/cii-to-establish-artisan-development-centre-in-varanasi-to-support-75000-artisans-over-5-years/article71750320.ece",
+  "ts": 1795783809,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "healthcare & pharma"
+  ],
+  "direction": "tailwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.752
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "INERA launches new crop solutions for farmers",
+  "text": "The Absolute biotech arm has launched patented biostimulant along with nutrient use efficiency solutions and speciality fertilizers",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/inera-launches-new-crop-solutions-for-farmers/article71750345.ece",
+  "ts": 1795782558,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "tailwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.741
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Indian exporters leave FTA benefits untapped as partner countries gain more, says RBI chief",
+  "text": "Partner countries are gaining more from India’s trade agreements, prompting the central bank chief to urge businesses to seize opportunities.",
+  "url": "https://www.thehindubusinessline.com/economy/indian-exporters-leave-fta-benefits-untapped-as-partner-countries-gain-more-says-rbi-chief/article71750053.ece",
+  "ts": 1795779103,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates",
+   "msme & exports"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.709
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "TRAI Tightens Telecom Rules, Sets New Deadlines For Dominant Operators - The420",
+  "text": "TRAI Tightens Telecom Rules, Sets New Deadlines For Dominant Operators The420",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbEZBYVFRdDFMMkNFRHlvQUlQYXBfREs0THRtek1hTG9EbnVPM1JFYnBnMTF2d2RKblFqNVh6QXdKU3FzV250eDlpWTNYSXIzVjVGOHQtYW9VamIxUk9xM2FQcTloTkFIdFRMS2VuSFgwY1lXZ0pWLV9sUTdqTFU1YVEwS3Q0cE1RQVRPay1uUFBEZw?oc=5",
+  "ts": 1795802106,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "telecom & internet"
+  ],
+  "direction": "headwind",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.522
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Accountability By Design: TRAI Proposes A New AI Governance Framework For Telecom Operators - Legal 500",
+  "text": "Accountability By Design: TRAI Proposes A New AI Governance Framework For Telecom Operators Legal 500",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON0FuOV9nUDQzaXcwOHIzV0JaektGVkNtRlduQ19pc0otLU5EejI3Z3prU0NsN0hrNV9wMVp1WjNtRjQ3c01TeDNEbmd6LXZsM2pyOHJOME1pdmNlV3pOckdlZERZQ1E0cXB3ZXJXbzFsdF9kUTFEdXZ4V3ZhbFMtaktHRTQ1TGd1RXZuSldNV3NvdVdwMllWWTZKaHFqVHFvYmVNMmRTaWVhTHFoNWlCVFVrYWFWZEJfQnN0ZDMwaG15eFlDc3V6Wkl3bG5DZU41bG5PX3lEWVFvMjJnT2c?oc=5",
+  "ts": 1795795795,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "it & ai",
+   "telecom & internet"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.463
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Dr. Ambedkar Medical Aid Scheme Provides Financial Assistance of up to ₹ 3.50 Lakh to SC and ST Patients for Treatment of Life-Threatening Diseases - www.pib.gov.in",
+  "text": "Dr. Ambedkar Medical Aid Scheme Provides Financial Assistance of up to ₹ 3.50 Lakh to SC and ST Patients for Treatment of Life-Threatening Diseases www.pib.gov.in",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aam4zTnJ2cjhjaUhVaUNZY05vdDVydzBuRTZENXllVlFDbnBSYVJwUjNPdDRTZ3QtT1Z6X0NzREQ5VWM0ci1IRGFIanBISFhwOXhqVFVweS1IZXRsb1NWZTlsSGx3R2R1?oc=5",
+  "ts": 1795787460,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "healthcare & pharma"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.386
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "TRAI Interconnection Rules: 2 New IP Port Caps From Jan 2027 - shattered.io",
+  "text": "TRAI Interconnection Rules: 2 New IP Port Caps From Jan 2027 shattered.io",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGM0eUZvbGtYUnlsNFdoTUIwRzBiWWR0Y3NrOWhPRlQ4UXdNN1YxXy1NOFNzTTA5YV9tdnAwdmdGRll1YTNxeHoyd3NmelBkSVNhdThHOTVxVm5sakpBSTBfMll5TC1hQldrNDV0SlV6ellwWWRHa0YtZkFxRnUyWXJteXF0MmpUNXAwZnRMNTEwbVBTUjVaVzB1NnRIa2VyVFl5RGZjOA?oc=5",
+  "ts": 1795787402,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "logistics",
+   "telecom & internet"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.386
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Reading drive, housing, AI models: What India Inc, youth reps seek from Budget 2027-28 - The Financial Express",
+  "text": "Reading drive, housing, AI models: What India Inc, youth reps seek from Budget 2027-28 The Financial Express",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEtIVmpMWkpkcGdQWUJoM1pPczlWbElnS2Vmc1hMTDdsSy1sZUE0d1lHbHFhMlNGaUJoSXF6Tm9qV0E1TlM0ODB3RktSVjd2eUZfd01seVJmZ1cwOTRub21TNC1KbnZORVVfUFdfenZqVGREblNBOV9wRXZvNUVEVkxpSExUMXpGem1BdlJmYjhxU3ZFTFRtakozeWVNSG01RzJnR01ya0liNG1aWHFDTWNfS0E5clpyUlh2TXctMEt6dTA5TlRlUW9lVFprd9IB1AFBVV95cUxObjE5SkNlUlQ3ZTBLZlQ2dFA4eUVPMVFQMW9OWXY3SnhHSjZ6SW92aWVhbHc0RU52ZFpQa2RTMzVoZloxbmhFWWVQeURMUFJzOWRmRUZNSWp5bHNBaHc4c3BxWEgzbVB1QnZsQWxfS0d3MEpIYUhldGJ1dDBkRkZ5SUlTd01TUE1LX21tbG0xU2Y5VzNfN0tBYWVVMEhaMjJiSGdWSHRicVExUjFmUUJFMWVkVkZxd19aeS1RYzRQaFE4SWEzQTFBN1JndW5tSzlhUGVYNg?oc=5",
+  "ts": 1795781361,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "real estate & construction",
+   "it & ai"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 4.33
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Can RBI hike repo rate by 50 bps in December? Nomura changes forecast - Zee Business",
+  "text": "Can RBI hike repo rate by 50 bps in December? Nomura changes forecast Zee Business",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0hDbGdlOUtBbkdTcmtoQ2Q2ZE84emlwUjRJVkJXQ2kzZnZmVWpUaTFGemlVa013T1NVM3J0eVFPTU54WUJmbk1zWlhLQ3pLVWxoNzU2VERHeE1RZklKOGdGQUotQUdqT2FLd213STVGUmJzSzhwYTFPcFFfbEV4dUVzRVcxWm9WMmZrakVqazNXMmhjZjY5N2FxeHRXYWluQUhJZW5DLTFrUnlhakUyeEp6YnJFbEtaWTQ0NHJ0YU9OYnpubEhZY210QjdRWDg?oc=5",
+  "ts": 1795776788,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "headwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.287
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India approves manufacturing scheme covering TBMs - The Tunnelling Journal",
+  "text": "India approves manufacturing scheme covering TBMs The Tunnelling Journal",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2lqVTJMWnFKVlE1NG1wb0ZqZTdBemxPRHhoMHp4Z2k4MnZKRXpOeWRNOGJXNDFhano1eEZTTGljLXZWLWNkb2VPWFJVT2VWdGpfbnNEZ1lObjZzQU5wUFJHNVd3V3NwV3lhTnBNNDVxbWRENzZTXzg4OXhfS0pKQXBiQ2MySFJ1OTJUVzdlWHBPZw?oc=5",
+  "ts": 1795775065,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.271
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Agnipath Scheme New Rules: Agniveers to serve for 6 years instead of 4, check salary, Seva Nidhi and permanent recruitment rules - Education Times",
+  "text": "Agnipath Scheme New Rules: Agniveers to serve for 6 years instead of 4, check salary, Seva Nidhi and permanent recruitment rules Education Times",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTUhlWjFzTFdOTC0tSWdNNl85WU5XUnIxd2pxM29hUExrTV9NTTByVmRSeE5BZlcxdTRBb0xBNU05TnE4c1BLS2YxOS1OWnpHeVp2VF9SZi1EeUxuTDBfOC02ZzMxZ2pQQ1lwMzdSc19fY0JDZlhLdUNSTkxNVEJxcXBrc0FzTGVMQ2oydjhOUlVXNEllLWVid3JPX244QjhhUXlSTzJiMEpmM3hnMHdxam5sUU5SejZKWjM2QzRFNkIzd05kZjRVdWZlRHZGZFZYS1VYQVZxdVppSVBveGY0MWt2UUUyMkcyNExDU1BfVmlBcDJuRFRleE9yNU1ZZ1QxQlRDMEV6U3hIWEVib1lvcUxlblh2QQ?oc=5",
+  "ts": 1795773900,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "education"
+  ],
+  "direction": "tailwind",
+  "theme": "policy",
+  "pain": [],
+  "score": 4.261
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+  "text": "",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+  "text": "",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "RBI notifications",
+  "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+  "text": "RBI/2026-27/310 DoR.RET.REC.262/12.01.001/2026-27 November 27, 2026 All Scheduled Banks, Madam / Sir, Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement Please refer to our circular DoR.RET.REC.247/12.01.001/2026-27 dated October 09, 2026 on the captioned subject. 2. On the basis of an assessment of the current and evolving macroeconomic situation and liquidity conditions, it has been decided to reduce the minimum daily maintenance of the cash reserve ratio (CRR) from 99 per cent of the requirement to 90 per cent effective from the fortnight beginning December 1, 2026. Yours faithfully, (J P Sharma) Chief General Manager-in-Charge",
+  "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13759&Mode=0",
+  "ts": 1795853898,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "policy",
+  "pain": [],
+  "score": 3.2
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Heritage Foods CEO Srideep Kesavan resigns",
+  "text": "Kesavan had taken charge as CEO of Heritage Foods in August 2021",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/heritage-foods-ceo-srideep-kesavan-resigns/article71753891.ece",
+  "ts": 1795851472,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.179
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Safeguarding India’s milk bowl: Why animal nutrition must be central to the next white revolution",
+  "text": "The next White Revolution will be won in the calf shed, the dry-cow pen and the fodder field – with smart nutrition at every stage of life",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/safeguarding-indias-milk-bowl-why-animal-nutrition-must-be-central-to-the-next-white-revolution/article71751714.ece",
+  "ts": 1795838757,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "food & beverages"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.061
+ },
+ {
+  "source": "policy_rss",
+  "origin": "BusinessLine Economy",
+  "title": "Small particles, big potential: How nanotechnology is changing life on India’s farms",
+  "text": "Nanotechnology impact in India will be measured in what farmers can see: what is left in their pocket at season’s end.",
+  "url": "https://www.thehindubusinessline.com/economy/agri-business/small-particles-big-potential-how-nanotechnology-is-changing-life-on-indias-farms/article71751459.ece",
+  "ts": 1795837477,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "agriculture"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 3.049
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/US",
+  "title": "Trump tariffs: ‘Make in India’ gets endorsement from unlikely quarter - US - The Times of India",
+  "text": "Trump tariffs: ‘Make in India’ gets endorsement from unlikely quarter - US The Times of India",
+  "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMk1LR3o0UVRhSDJjVmx0MU5WWlZXcXJ1VGstbzdPYWhHOEljQnF1Q0p4ODk5U2VER1JBX3RfeTBuWERlU1ZNcW5COE1wT19XUTJtakM0MnYyYzJmUmE3bE5wcTdNaGxEMDNiTDFZNDFHTzJkdU9LR3lzNmhiclJXTG5aNE1fa19XYmxJa2wxclpQRXJSQUFXdTF0WHZyU1dzSnFwRzFVODU3aXk3ZkoxZGhPakNfQ3djOUp4X0V5ZmtZX0t4UDlXeFpFXzlHZWk2dXc0TnZoTnBTb29tNU1ycVhES2R3YkJ1UlZRQVhMMExtaE8yajJBLWxZSVYzajhDQnVmcllLVDNkYV9JNUVxUjNTZjJENkk4R0JHUWR6NmtnUVp5VGtzclA3Um4xSjlvV0Nzek9TRUMxN3PSAfABQVVfeXFMTkVRV2NWbUpvTDNBMEdnSm54UHY1Zm9ZdlJKYnNHMGRCLUlKSXQzVU5ZM1Z1ZTdJUVRmcGpqZzlSb2NxWXZWcnBpYkMxOW1KVjY1ZVdxTUhKUEFOSHI4RG1tY2IyTHBWS1p1d3RhSGdpUnBzYVZwX2NjRmQ2Qmh3cFdLWlFuZXR6Z1cyXzVmdTdnSHFZOE9xMEpPM2hEOExGRG1hZlV1UWlKNFlHRUV2SjJadkVTVlJtTUMzOXdXRnhqU3U4REUxXzRwY19QWTg5Q20xUHVOYWl4dkQ3X3R1cXJaTEhaOHdCTGZPTkRLN2c5?oc=5",
+  "ts": 1795852560,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "manufacturing"
+  ],
+  "direction": "neutral",
+  "theme": "trade",
+  "pain": [],
+  "score": 2.989
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "TRAI sets new rules for telcos with 30% market share - Indian Broadcasting World",
+  "text": "TRAI sets new rules for telcos with 30% market share Indian Broadcasting World",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONENSUzZ3ek5uRWdxQWxXU2lxLWlEWmVxSWFoTzB1TFVpdTJxUHJ2MTVORUpHSnpULW0taGY0RDRLbmxVdHBSY2JDU0lXUXBSNmMwVXBSakE4Zkg2SW9HVUUwNm9UNk1nTmRTQUZ0eWNTLVJlMDZScnBrVDFxTzhkcw?oc=5",
+  "ts": 1795851682,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "telecom & internet"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.981
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "TRAI Extends 1601-Series To More Business Sectors - Sarkaritel.com",
+  "text": "TRAI Extends 1601-Series To More Business Sectors Sarkaritel.com",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXEwTmgxYkJmbkFrY082UkFPTXprQ0xkM0xIRkJ6Sm4zX3ZOX2NEMWFzM0pEaE12ZWxMYjMtVmtuYmN6cjJNczNDeVoxeWtuUEVuQzdZSWVScG9kV0xCR2RlM1cweHFBdUxfVWlzNDdpb1BFLTI5Y2FKUGJ0YWdSODJhajdkcDhyVFVIeHI0X1FWdw?oc=5",
+  "ts": 1795850107,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "telecom & internet"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.966
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India’s Fiscal Deficit May Stay Stuck At 4.3% In FY28, Deutsche Bank Warns Of Mounting Spending Pressures - Free Press Journal",
+  "text": "India’s Fiscal Deficit May Stay Stuck At 4.3% In FY28, Deutsche Bank Warns Of Mounting Spending Pressures Free Press Journal",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzU2anpaMV9UdnRwTzUyUE5GZ0lLaXVzVm1Zei1lbHdDdzFwTmpLRmNLRUd1a0hBOXRNaGthQkJvR09ZZ1AxMUg3eVZWdWJCVzhXc3FjeUZNUHZuWFJQMFBlN0tVQTZyRWdSR19YeE83UWVBZ1pPTmx5Vm1DdDlUaTNHd0NjekROXzRiRzExS1hLV0pGUGJxdlFJYmxEYmxLQVlNcWNQNUh2Ykc3M1VFU2lVeEIwZXQ0TzY0UGxiQWNzVWFTczBsTW95VVR2SEtFa0t3UEtGazJSekpqR0dN0gHfAUFVX3lxTE1DNTZqeloxX1R2dHBPNTJQTkZnSUtpdXNWbVl6LWVsd0N3MXBOaktGY0tFR3VrSEE5dE1oa2FCQm9HT1lnUDExSDd5VlZ1YkJXOFdzcWN5Rk1Qdm5YUlAwUGU3S1VBNnJFZ1JHX1h4TzdRZUFnWk9ObHlWbUN0OVRpM0d3Q2N6RE5fNGJHMTFLWEtXSkZQYnF2UUlibERibEtBWU1xY1A1SHZiRzczVUVTaVV4QjBldDRPNjRQbGJBY3NVYVNzMGxNb3lVVHZIS0VrS3dQS0ZrMlJ6SmpHR00?oc=5",
+  "ts": 1795843233,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.902
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "Have India's fuel price woes peaked? Indian Oil chief says worst may be over - Moneycontrol.com",
+  "text": "Have India's fuel price woes peaked? Indian Oil chief says worst may be over Moneycontrol.com",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcHVsc2dmNXZBdXdxaWRBcE9Kem51aTRKa1FVQUtjWTlBMzA5TmhYS0xnX1dqQmlydVZpTE1yMzNoRXFCbVpoeG9LSk02RXZoanhtTzdCY3o1VzdrblQwNnBJTWN5QWozamFvTU55aVZqdkNUbHQ2M0s1VFdsX3l3WkZ0bERPZ3c4Tll0Y1o4Q0ZVVFo3WjJvSXhxcEZwemN4S25TemdLOThyR0ktaUEzb1lXTDZKSE9taXhaRVJfZERrTjNScGZRZFNzLXRwWV90VU1xOEstOGxBUHJnMWpzT213?oc=5",
+  "ts": 1795842834,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "oil & fuel"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.899
+ },
+ {
+  "source": "policy_news",
+  "origin": "policy-news/IN",
+  "title": "India's FY28 fiscal deficit projected to stay unchanged at 4.3% of GDP: Deutsche Bank - ANI News",
+  "text": "India's FY28 fiscal deficit projected to stay unchanged at 4.3% of GDP: Deutsche Bank ANI News",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR2xDaFdoNkVuYnh4aHRYRlRoNWt0c0hleU5veTAySk9ibUFBSVctczRVQWVuczk2M2JfeDNsblpWQlQwSXBtSXdiN0dNcjlXc1NYTFk2TEJ3VnZ2ZkFIa3dkU3d2QV95ek1vWVdxckVBRXRxd1lxVzBkdFdLaWJjdmowUlZQV0NYd3NpQ3NwdjY0MHlBMTV5TkZ5dnNHTlVabWdjRDlydXROdnhOV1llWXdzWm1yVWN1VWM1eWMxRWg1U0Uxb3JMWnJRXzg?oc=5",
+  "ts": 1795840560,
+  "engagement": 0,
+  "label": "",
+  "sectors": [
+   "banking & rates"
+  ],
+  "direction": "neutral",
+  "theme": "economy",
+  "pain": [],
+  "score": 2.878
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "EUR/INR 101.904 — -3.90% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795853766,
+  "engagement": 390,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 9.9
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Delhi — PM2.5 daily mean up to 184 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795853766,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Lucknow — PM2.5 daily mean up to 161 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795853766,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Ludhiana (Punjab farms) — PM2.5 daily mean up to 166 µg/m³ (4 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795853766,
+  "engagement": 4,
+  "label": "4 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 9
+ },
+ {
+  "source": "fx",
+  "origin": "frankfurter",
+  "title": "USD/INR 93.0 — -2.38% in 30 days (rupee stronger) — BIG MOVE",
+  "text": "imports, foreign travel and education get cheaper; exporters' margins shrink.",
+  "url": "https://www.frankfurter.app/",
+  "ts": 1795853766,
+  "engagement": 238,
+  "label": "ECB reference rate",
+  "theme": "economy",
+  "direction": "mixed",
+  "sectors": [
+   "msme & exports",
+   "travel & hospitality",
+   "manufacturing"
+  ],
+  "pain": [],
+  "score": 8.379999999999999
+ },
+ {
+  "source": "air",
+  "origin": "open-meteo-air",
+  "title": "Air quality very poor: Patna — PM2.5 daily mean up to 161 µg/m³ (2 of next 4 days)",
+  "text": "Who is affected: air purifiers, masks, respiratory care, indoor activities and delivery demand, construction bans (GRAP).",
+  "url": "https://open-meteo.com/en/docs/air-quality-api",
+  "ts": 1795853766,
+  "engagement": 2,
+  "label": "2 bad-air days",
+  "theme": "weather",
+  "direction": "mixed",
+  "sectors": [
+   "healthcare & pharma",
+   "cooling & appliances"
+  ],
+  "pain": [],
+  "score": 7
+ }
+]
